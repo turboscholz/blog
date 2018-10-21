@@ -11,7 +11,7 @@ script:
   - set -e
   - nikola build
   - pip install doctr
-  - doctr deploy --built-docs output/
+  - doctr deploy . --built-docs output/
 
 env:
   global:
