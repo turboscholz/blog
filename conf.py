@@ -636,14 +636,14 @@ REDIRECTIONS = []
 # }
 # Source of the following:
 # https://www.asmeurer.com/blog/posts/moving-to-github-pages-with-nikola/
-DEPLOY_COMMANDS = {'default': [
-    "git checkout gh-pages",
-    "rsync -rPv --delete-after --exclude old_blog --exclude .git --exclude .gitignore --exclude cache/ --exclude .doit.db.db output/ .",
-    "git add -A",
-    "git commit -a -m 'Updating blog content'",
-    "git push",
-    "git checkout master",
-]}
+# DEPLOY_COMMANDS = {'default': [
+#     "git checkout gh-pages",
+#     "rsync -rPv --delete-after --exclude old_blog --exclude .git --exclude .gitignore --exclude cache/ --exclude .doit.db.db output/ .",
+#     "git add -A",
+#     "git commit -a -m 'Updating blog content'",
+#     "git push",
+#     "git checkout master",
+# ]}
 
 # github_deploy configuration
 # For more details, read the manual:
