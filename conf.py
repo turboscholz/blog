@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Uwe Scholz"  # (translatable)
 BLOG_TITLE = "Mein Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://turboscholz.github.io/"
+SITE_URL = "https://turboscholz.github.io/blog"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
