@@ -1,4 +1,4 @@
-Sitemap: https://turboscholz.github.io/sitemapindex.xml
+Sitemap: https://turboscholz.github.io/blog/sitemapindex.xml
 
 User-Agent: *
 Host: turboscholz.github.io
