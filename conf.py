@@ -138,12 +138,6 @@ NAVIGATION_LINKS = {
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS-Feed"),
     ),
-
-    "en": (
-        ("/en/archive.html", "Archive"),
-        ("/en/categories/index.html", "Tags"),
-        ("/en/rss.xml", "RSS feed"),
-    ),
 }
 
 # Name of the theme to use.
