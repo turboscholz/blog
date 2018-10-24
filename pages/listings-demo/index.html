@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="de">
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="de">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +8,7 @@
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="de" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
 <link rel="canonical" href="https://turboscholz.github.io/blog/pages/listings-demo/">
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Uwe Scholz">
 <meta property="og:site_name" content="Mein Blog">
@@ -34,39 +35,37 @@ if __name__ ==">
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<nav class="navbar navbar-expand-md static-top mb-4
+navbar-dark bg-dark
+"><div class="container">
 <!-- This keeps the margins nice -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Navigation umschalten</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="https://turboscholz.github.io/blog/">
+        <a class="navbar-brand" href="https://turboscholz.github.io/blog/">
 
-                <span id="blog-title">Mein Blog</span>
-            </a>
-        </div>
-<!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-            <ul class="nav navbar-nav">
-<li>
-<a href="../../archive.html">Archiv</a>
+            <span id="blog-title">Mein Blog</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bs-navbar">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a href="../../archive.html" class="nav-link">Archiv</a>
                 </li>
-<li>
-<a href="../../categories/">Tags</a>
+<li class="nav-item">
+<a href="../../categories/" class="nav-link">Tags</a>
                 </li>
-<li>
-<a href="../../rss.xml">RSS-Feed</a>
+<li class="nav-item">
+<a href="../../rss.xml" class="nav-link">RSS-Feed</a>
 
                 
             </li>
 </ul>
-<ul class="nav navbar-nav navbar-right">
-<li>
-    <a href="index.rst" id="sourcelink">Source</a>
+<ul class="navbar-nav navbar-right">
+<li class="nav-item">
+    <a href="index.rst" id="sourcelink" class="nav-link">Source</a>
     </li>
+
 
                 
             </ul>
@@ -77,9 +76,8 @@ if __name__ ==">
 </nav><!-- End of Menubar --><div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
-        <div class="row">
-            
-            
+        
+        
 <article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Listings Demo</a></h1>
 
         
@@ -88,28 +86,24 @@ if __name__ ==">
     <div>
 <p>Nikola intends to let you show code easily via listings:</p>
 <p><a class="reference external" href="../../listings/hello.py.html">hello.py</a>  <a class="reference external" href="../../listings/hello.py">(Source)</a></p>
-<pre class="code python"><a name="rest_code_5619baa14b424c4894b788186e83e394-1"></a><span class="ch">#!/usr/bin/python</span>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-2"></a>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-3"></a><span class="kn">import</span> <span class="nn">sys</span>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-4"></a>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-5"></a>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-6"></a><span class="k">def</span> <span class="nf">hello</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s1">'world'</span><span class="p">):</span>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-7"></a>    <span class="n">greeting</span> <span class="o">=</span> <span class="s2">"hello "</span> <span class="o">+</span> <span class="n">name</span>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-8"></a>    <span class="k">print</span><span class="p">(</span><span class="n">greeting</span><span class="p">)</span>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-9"></a>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-10"></a>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-11"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
-<a name="rest_code_5619baa14b424c4894b788186e83e394-12"></a>    <span class="n">hello</span><span class="p">(</span><span class="o">*</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])</span>
+<pre class="code python"><a name="rest_code_7d87be6e714d4118a6ae94438f360b59-1"></a><span class="ch">#!/usr/bin/python</span>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-2"></a>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-3"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-4"></a>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-5"></a>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-6"></a><span class="k">def</span> <span class="nf">hello</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s1">'world'</span><span class="p">):</span>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-7"></a>    <span class="n">greeting</span> <span class="o">=</span> <span class="s2">"hello "</span> <span class="o">+</span> <span class="n">name</span>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-8"></a>    <span class="k">print</span><span class="p">(</span><span class="n">greeting</span><span class="p">)</span>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-9"></a>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-10"></a>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-11"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+<a name="rest_code_7d87be6e714d4118a6ae94438f360b59-12"></a>    <span class="n">hello</span><span class="p">(</span><span class="o">*</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:])</span>
 </pre>
 </div>
     </div>
     
 
-</article>
-</div>
-        <!--End of body content-->
-
-        <footer id="footer">
+</article><!--End of body content--><footer id="footer">
             Contents © 2018         <a href="mailto:u.scholz83@gmx.de">Uwe Scholz</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
         </footer>
@@ -117,7 +111,7 @@ if __name__ ==">
 </div>
 
 
-            <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
+        <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
     moment.locale("de");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script>
