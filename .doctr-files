@@ -2,8 +2,10 @@
 ./assets/css/all-nocdn.css
 ./assets/css/all.css
 ./assets/css/baguetteBox.min.css
-./assets/css/bootblog.css
+./assets/css/bootstrap-theme.min.css
+./assets/css/bootstrap-theme.min.css.map
 ./assets/css/bootstrap.min.css
+./assets/css/bootstrap.min.css.map
 ./assets/css/code.css
 ./assets/css/html4css1.css
 ./assets/css/ipython.min.css
@@ -12,6 +14,11 @@
 ./assets/css/rst.css
 ./assets/css/rst_base.css
 ./assets/css/theme.css
+./assets/fonts/glyphicons-halflings-regular.eot
+./assets/fonts/glyphicons-halflings-regular.svg
+./assets/fonts/glyphicons-halflings-regular.ttf
+./assets/fonts/glyphicons-halflings-regular.woff
+./assets/fonts/glyphicons-halflings-regular.woff2
 ./assets/js/all-nocdn.js
 ./assets/js/all.js
 ./assets/js/baguetteBox.min.js
@@ -23,9 +30,9 @@
 ./assets/js/html5.js
 ./assets/js/html5shiv-printshiv.min.js
 ./assets/js/jquery.min.js
+./assets/js/jquery.min.map
 ./assets/js/justified-layout.min.js
 ./assets/js/moment-with-locales.min.js
-./assets/js/popper.min.js
 ./assets/xml/atom.xsl
 ./assets/xml/rss.xsl
 ./categories/cat_posts.xml
