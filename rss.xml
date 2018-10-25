@@ -1,2 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Wed, 24 Oct 2018 18:48:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Thu, 25 Oct 2018 20:03:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Yasnippet-Anleitung auf Deutsch</title><link>https://turboscholz.github.io/blog/posts/yasnippet-anleitung-auf-deutsch/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Ich habe die Anleitung von &lt;a class="reference external" href="https://www.emacswiki.org/emacs/YasnippetDeutsch"&gt;YASnippet&lt;/a&gt; auf dem EmacsWiki ins Deutsche
+übersetzt.&lt;/p&gt;
+&lt;p&gt;Wer Emacs nutzt, für den ist das vielleicht einen Blick wert.&lt;/p&gt;&lt;/div&gt;</description><category>Emacs</category><category>Software</category><category>Yansippet</category><guid>https://turboscholz.github.io/blog/posts/yasnippet-anleitung-auf-deutsch/</guid><pubDate>Mon, 21 Oct 2013 19:38:32 GMT</pubDate></item><item><title>Scrabble-Abend</title><link>https://turboscholz.github.io/blog/posts/scrabble-abend/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Seit langem mal wieder Scrabble gespielt. Wer gewonnen hat, verrate ich nicht... :)&lt;/p&gt;
+&lt;img alt="/images/2013-10-21-Scrabble.png" src="https://turboscholz.github.io/blog/images/2013-10-21-Scrabble.png"&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Scrabble</category><category>Spiele</category><guid>https://turboscholz.github.io/blog/posts/scrabble-abend/</guid><pubDate>Mon, 21 Oct 2013 19:33:40 GMT</pubDate></item><item><title>Ein Auto weniger</title><link>https://turboscholz.github.io/blog/posts/ein-auto-weniger/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Es ist immer wieder ein schönes Gefühl, mit Fahrrad und Anhänger auf dem
+Wertstoffhof an den vielen Autos vorbeizurauschen.&lt;/p&gt;
+&lt;p&gt;Und auf dem Anhänger folgendes Schild kleben zu haben :)&lt;/p&gt;
+&lt;img alt="/images/EinAutoWeniger.png" src="https://turboscholz.github.io/blog/images/EinAutoWeniger.png"&gt;&lt;/div&gt;</description><category>Bilder</category><category>Fahrrad</category><guid>https://turboscholz.github.io/blog/posts/ein-auto-weniger/</guid><pubDate>Wed, 09 Oct 2013 09:10:42 GMT</pubDate></item><item><title>Meine IP ist eine Spamschleuder</title><link>https://turboscholz.github.io/blog/posts/meine-ip-ist-eine-spamschleuder/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nervend: Seit gestern wird mir von O2 für meinen DSL-Router ständig eine
+IP Adresse zugewiesen, die in verschiedenen Listen im Internet als
+Spamschleuder markiert ist.&lt;/p&gt;
+&lt;p&gt;Deshalb kann ich von meinem Linux-Rechner keine Mails mehr über meinen
+Web.de Account zusammen mit Thunderbird und Postfix mehr verschicken.
+Auch neu ins Netz einwählen bringt nichts, denn auch mit der neuen IP
+bin ich sofort wieder geblockt. Wie kann das sein? Ich nutze Linux und
+besitze ganz bestimmt keine Spamschleuder, da ich mein System sehr
+sauber halte.&lt;/p&gt;
+&lt;p&gt;Unter dieser &lt;a class="reference external" href="http://whatismyipaddress.com/blacklist-check"&gt;Adresse&lt;/a&gt; wird mir angezeigt, dass ich zum Beispiel
+in spamhouse.org und sechs weiteren Listen eingetragen bin.&lt;/p&gt;
+&lt;p&gt;Ich hoffe, dass sich das Problem in den nächsten Tagen legt, aber
+momentan nervt es sehr. :(&lt;/p&gt;&lt;/div&gt;</description><category>Internet</category><category>Linux</category><category>Spam</category><guid>https://turboscholz.github.io/blog/posts/meine-ip-ist-eine-spamschleuder/</guid><pubDate>Wed, 02 Oct 2013 19:44:58 GMT</pubDate></item><item><title>Meine erste CryptoParty</title><link>https://turboscholz.github.io/blog/posts/meine-erste-cryptoparty/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;So, da war ich also gestern das erste mal auf einer &lt;a class="reference external" href="https://www.cryptoparty.in/frankfurt"&gt;CryptoParty&lt;/a&gt;, in
+Frankfurt am Main. Was gibts davon zu berichten? Zunächst einmal wurde
+ein kurzer Einführungsvortrag gehalten, was es für
+Verschlüsselungstechniken und Programme gibt. Einige kannte ich schon
+persönlich (OpenPGP, TrueCrypt, OTR), andere nur vom Hörensagen (Tor,
+Verschlüsselung für Android Smartphones).&lt;/p&gt;
+&lt;p&gt;Unter den etwa 30(?) Anwesenden gab es einige, die sich mit diesen
+Programmen sehr gut auskannten (die sogenannten "Crypto-Angels"). Diese
+konnte man nach dem Vortrag mit Fragen löchern. Die Atmosphäre war
+entspannt, Getränke gabs auch (gegen einen kleinen Obolus.)&lt;/p&gt;
+&lt;p&gt;Ich habe mir mal genauer angeschaut, wie TOR funktioniert und was es
+dabei zu beachten gibt. Gegen Ende war aber auch nochmal Zeit, mit
+anderen Interessierten gpg-Schlüssel auszutauschen, zu signieren und
+testweise geheime Mails zu versenden. Erst als die Gespräche langsam auf
+Linux und Datenüberwachung allgemein umschwenkten, bemerkte ich, dass
+ich schon dreieinhalb Stunden auf der CryptoParty war. Wahnsinn, wie
+schnell die Zeit verging.&lt;/p&gt;
+&lt;p&gt;Fazit: Die Gastgeber/Organisatoren waren bei jeder Frage sehr
+hilfsbereit und das Treffen hat viel Spaß gemacht. Auch war es eine
+tolle Erfahrung und Motivation, so viele neue Menschen kennen zu lernen,
+die sich an Kryptographie heranwagen wollten oder einfach noch etwas
+dazulernen wollten, so wie ich. Daher kann ich es jedem nur empfehlen,
+der noch nicht ganz von Verschlüsselung überzeugt ist, auf die nächste
+CryptoParty in seiner Nähe zu gehen. Wo die stattfinden wird, steht z.B.
+hier: &lt;a class="reference external" href="http://www.cryptoparty.in/parties/upcoming"&gt;http://www.cryptoparty.in/parties/upcoming&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>CryptoParty</category><category>Datenschutz</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/meine-erste-cryptoparty/</guid><pubDate>Sun, 15 Sep 2013 19:53:15 GMT</pubDate></item><item><title>Datenschutz ist eine Krankheit?</title><link>https://turboscholz.github.io/blog/posts/datenschutz-ist-eine-krankheit/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Gerade ist mir ein Artikel aus der TAZ eingefallen, der vor mehr als
+zwei Jahren erschien und sehr gut zur aktuellen Diskussion über
+Datenschutz und Verschlüsselung passt:&lt;/p&gt;
+&lt;p&gt;Es geht um einen Patienten, der eigentlich gegen Depression behandelt
+werden sollte und dessen Diagnose auf Paranoia und Schizophrenie
+geändert wurde. Begründung: Aufgrund seines überzogenen und von der
+Allgemeinheit abweichenden Datenschutzbewustseins während der Therapie.
+Aber lest &lt;a class="reference external" href="https://www.taz.de/!64248/"&gt;selbst&lt;/a&gt;...&lt;/p&gt;&lt;/div&gt;</description><category>Datenschutz</category><category>Verschlüsselung</category><guid>https://turboscholz.github.io/blog/posts/datenschutz-ist-eine-krankheit/</guid><pubDate>Sun, 08 Sep 2013 19:49:54 GMT</pubDate></item><item><title>Licht im geschlossenen Kühlschrank?</title><link>https://turboscholz.github.io/blog/posts/licht-im-geschlossenen-kuhlschrank/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Der Beweis, dass das Licht im Kühlschrank doch brennt ist erbracht.
+Zumindest in &lt;a class="reference external" href="http://www.youtube.com/watch?v=7hSD4BCG9mg"&gt;meinem&lt;/a&gt;... :-)&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/licht-im-geschlossenen-kuhlschrank/</guid><pubDate>Sat, 21 Jan 2012 17:13:35 GMT</pubDate></item></channel></rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog (Einträge über Software)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/software.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Thu, 25 Oct 2018 20:03:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Yasnippet-Anleitung auf Deutsch</title><link>https://turboscholz.github.io/blog/posts/yasnippet-anleitung-auf-deutsch/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Ich habe die Anleitung von &lt;a class="reference external" href="https://www.emacswiki.org/emacs/YasnippetDeutsch"&gt;YASnippet&lt;/a&gt; auf dem EmacsWiki ins Deutsche
+übersetzt.&lt;/p&gt;
+&lt;p&gt;Wer Emacs nutzt, für den ist das vielleicht einen Blick wert.&lt;/p&gt;&lt;/div&gt;</description><category>Emacs</category><category>Software</category><category>Yansippet</category><guid>https://turboscholz.github.io/blog/posts/yasnippet-anleitung-auf-deutsch/</guid><pubDate>Mon, 21 Oct 2013 19:38:32 GMT</pubDate></item><item><title>Meine erste CryptoParty</title><link>https://turboscholz.github.io/blog/posts/meine-erste-cryptoparty/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;So, da war ich also gestern das erste mal auf einer &lt;a class="reference external" href="https://www.cryptoparty.in/frankfurt"&gt;CryptoParty&lt;/a&gt;, in
+Frankfurt am Main. Was gibts davon zu berichten? Zunächst einmal wurde
+ein kurzer Einführungsvortrag gehalten, was es für
+Verschlüsselungstechniken und Programme gibt. Einige kannte ich schon
+persönlich (OpenPGP, TrueCrypt, OTR), andere nur vom Hörensagen (Tor,
+Verschlüsselung für Android Smartphones).&lt;/p&gt;
+&lt;p&gt;Unter den etwa 30(?) Anwesenden gab es einige, die sich mit diesen
+Programmen sehr gut auskannten (die sogenannten "Crypto-Angels"). Diese
+konnte man nach dem Vortrag mit Fragen löchern. Die Atmosphäre war
+entspannt, Getränke gabs auch (gegen einen kleinen Obolus.)&lt;/p&gt;
+&lt;p&gt;Ich habe mir mal genauer angeschaut, wie TOR funktioniert und was es
+dabei zu beachten gibt. Gegen Ende war aber auch nochmal Zeit, mit
+anderen Interessierten gpg-Schlüssel auszutauschen, zu signieren und
+testweise geheime Mails zu versenden. Erst als die Gespräche langsam auf
+Linux und Datenüberwachung allgemein umschwenkten, bemerkte ich, dass
+ich schon dreieinhalb Stunden auf der CryptoParty war. Wahnsinn, wie
+schnell die Zeit verging.&lt;/p&gt;
+&lt;p&gt;Fazit: Die Gastgeber/Organisatoren waren bei jeder Frage sehr
+hilfsbereit und das Treffen hat viel Spaß gemacht. Auch war es eine
+tolle Erfahrung und Motivation, so viele neue Menschen kennen zu lernen,
+die sich an Kryptographie heranwagen wollten oder einfach noch etwas
+dazulernen wollten, so wie ich. Daher kann ich es jedem nur empfehlen,
+der noch nicht ganz von Verschlüsselung überzeugt ist, auf die nächste
+CryptoParty in seiner Nähe zu gehen. Wo die stattfinden wird, steht z.B.
+hier: &lt;a class="reference external" href="http://www.cryptoparty.in/parties/upcoming"&gt;http://www.cryptoparty.in/parties/upcoming&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>CryptoParty</category><category>Datenschutz</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/meine-erste-cryptoparty/</guid><pubDate>Sun, 15 Sep 2013 19:53:15 GMT</pubDate></item></channel></rss>
