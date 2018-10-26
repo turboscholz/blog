@@ -110,6 +110,8 @@
 ./pages/extending/index.txt
 ./pages/handbook/index.html
 ./pages/handbook/index.rst
+./pages/impressum/index.html
+./pages/impressum/index.rst
 ./pages/internals/index.html
 ./pages/internals/index.txt
 ./pages/listings-demo/index.html
