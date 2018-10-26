@@ -137,6 +137,7 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archiv"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS-Feed"),
+        ("/pages/Datenschutz/index.html", "Datenschutzerklärung"),
     ),
 }
 
