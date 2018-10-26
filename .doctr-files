@@ -94,6 +94,8 @@
 ./listings/hello.py
 ./listings/hello.py.html
 ./listings/index.html
+./pages/Datenschutz/index.html
+./pages/Datenschutz/index.rst
 ./pages/about-nikola/index.html
 ./pages/about-nikola/index.rst
 ./pages/bootstrap-demo/index.html
