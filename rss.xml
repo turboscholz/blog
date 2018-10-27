@@ -1,72 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sat, 27 Oct 2018 11:34:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Fisch am Freitag</title><link>https://turboscholz.github.io/blog/posts/fisch-am-freitag/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Mhhh, heute haben wir mal was ganz Neues ausprobiert: &lt;strong&gt;Saibling mit
-Basilikum, Orangen und Zitronen an Oliven-Knoblauch-Kartoffeln&lt;/strong&gt;. Sehr
-lecker! Mein Dank geht an den netten Fisch-Verkäufer in der Wassergasse
-in Langen, der mir nützliche Tipps gab und den Fisch für mich
-entgrätete.&lt;/p&gt;
-&lt;img alt="/images/2014-01-10-Saibling.jpg" src="https://turboscholz.github.io/blog/images/2014-01-10-Saibling.jpg"&gt;&lt;/div&gt;</description><category>Essen</category><category>Fisch</category><guid>https://turboscholz.github.io/blog/posts/fisch-am-freitag/</guid><pubDate>Fri, 10 Jan 2014 19:04:07 GMT</pubDate></item><item><title>Solarbox selber bauen</title><link>https://turboscholz.github.io/blog/posts/solarbox-selber-bauen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Auch wenn jetzt Winter ist - der nächste Sommer kommt bestimmt. Warum
-nicht mal eine &lt;strong&gt;Solarbox&lt;/strong&gt; bauen? Damit kann man bei gutem Wetter prima
-Teewasser erhitzen oder sogar Essen zubereiten. Ich zeige hier mal ein
-paar Bilder von meinem Projekt.&lt;/p&gt;
-&lt;img alt="/images/2014-01-07-Solarbox-01.jpg" src="https://turboscholz.github.io/blog/images/2014-01-07-Solarbox-01.jpg"&gt;
-&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/solarbox-selber-bauen/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Basteln</category><category>DIY</category><category>Solarbox</category><guid>https://turboscholz.github.io/blog/posts/solarbox-selber-bauen/</guid><pubDate>Tue, 07 Jan 2014 09:27:21 GMT</pubDate></item><item><title>Zufällige Lesezeichen</title><link>https://turboscholz.github.io/blog/posts/radom-bookmark/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Bei mir haben sich im Laufe der Jahre eine Menge Lesezeichen im Firefox
-angesammelt. Mittlerweile habe ich den Überblick total verloren: Was
-sind gute Links? Welche könnte ich noch benötigen? Welche nicht mehr?
-Und welche sind vielleicht gar nicht mehr erreichbar?&lt;/p&gt;
-&lt;p&gt;Aber wie oft hat man oft einfach keine Lust und Zeit, die eigenen
-Lesezeichen systematisch aufzuräumen. Statt dessen surft man bei
-Langeweile einfach so durchs Netz. Doch damit ist jetzt bei mir Schluss,
-denn seit kurzem habe ich das Addon "Random Bookmark" installiert.&lt;/p&gt;
-&lt;p&gt;Klickt man auf das kleine Sternsymbol, welches nach der Installation in
-der Browser-Leiste sichtbar wird, so öffnet sich eine zufällig aus den
-eigenen Lesezeichen herausgegriffene Internetseite. So werden nur Seiten
-angezeigt, die man selber mag oder irgendwann mal brauchte. Und wenn man
-sie nicht mehr mag/braucht, so kann man sie auch gleich aus den
-Lesezeichen entfernen... Aufräumen leicht gemacht!&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://addons.mozilla.org/de/firefox/addon/random-bookmark-addon/"&gt;https://addons.mozilla.org/de/firefox/addon/random-bookmark-addon/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Firefox</category><category>Lesezeichen</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/radom-bookmark/</guid><pubDate>Tue, 12 Nov 2013 11:00:26 GMT</pubDate></item><item><title>Ausflug zum Keltenmuseum</title><link>https://turboscholz.github.io/blog/posts/ausflug-zum-keltenmuseum/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Das tolle Herbstwetter hat uns heute zum Keltenmuseum auf dem Glauberg
-in Hessen gelockt. Ich finde, die Architektur des Museums ist schon
-etwas Besonderes - vor allem dieser Kontrast zwischen dem rostigen
-"Metallblock" und der umliegenden Natur ist faszinierend.&lt;/p&gt;
-&lt;img alt="/images/2013-10-22-Glauberg.jpg" src="https://turboscholz.github.io/blog/images/2013-10-22-Glauberg.jpg"&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Kultur</category><category>Natur</category><guid>https://turboscholz.github.io/blog/posts/ausflug-zum-keltenmuseum/</guid><pubDate>Tue, 22 Oct 2013 09:20:14 GMT</pubDate></item><item><title>Yasnippet-Anleitung auf Deutsch</title><link>https://turboscholz.github.io/blog/posts/yasnippet-anleitung-auf-deutsch/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Ich habe die Anleitung von &lt;a class="reference external" href="https://www.emacswiki.org/emacs/YasnippetDeutsch"&gt;YASnippet&lt;/a&gt; auf dem EmacsWiki ins Deutsche
-übersetzt.&lt;/p&gt;
-&lt;p&gt;Wer Emacs nutzt, für den ist das vielleicht einen Blick wert.&lt;/p&gt;&lt;/div&gt;</description><category>Emacs</category><category>Software</category><category>Yansippet</category><guid>https://turboscholz.github.io/blog/posts/yasnippet-anleitung-auf-deutsch/</guid><pubDate>Mon, 21 Oct 2013 19:38:32 GMT</pubDate></item><item><title>Scrabble-Abend</title><link>https://turboscholz.github.io/blog/posts/scrabble-abend/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Seit langem mal wieder Scrabble gespielt. Wer gewonnen hat, verrate ich nicht... :)&lt;/p&gt;
-&lt;img alt="/images/2013-10-21-Scrabble.png" src="https://turboscholz.github.io/blog/images/2013-10-21-Scrabble.png"&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Scrabble</category><category>Spiele</category><guid>https://turboscholz.github.io/blog/posts/scrabble-abend/</guid><pubDate>Mon, 21 Oct 2013 19:33:40 GMT</pubDate></item><item><title>Ein Auto weniger</title><link>https://turboscholz.github.io/blog/posts/ein-auto-weniger/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Es ist immer wieder ein schönes Gefühl, mit Fahrrad und Anhänger auf dem
-Wertstoffhof an den vielen Autos vorbeizurauschen.&lt;/p&gt;
-&lt;p&gt;Und auf dem Anhänger folgendes Schild kleben zu haben :)&lt;/p&gt;
-&lt;img alt="/images/EinAutoWeniger.png" src="https://turboscholz.github.io/blog/images/EinAutoWeniger.png"&gt;&lt;/div&gt;</description><category>Bilder</category><category>Fahrrad</category><guid>https://turboscholz.github.io/blog/posts/ein-auto-weniger/</guid><pubDate>Wed, 09 Oct 2013 09:10:42 GMT</pubDate></item><item><title>Meine IP ist eine Spamschleuder</title><link>https://turboscholz.github.io/blog/posts/meine-ip-ist-eine-spamschleuder/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nervend: Seit gestern wird mir von O2 für meinen DSL-Router ständig eine
-IP Adresse zugewiesen, die in verschiedenen Listen im Internet als
-Spamschleuder markiert ist.&lt;/p&gt;
-&lt;p&gt;Deshalb kann ich von meinem Linux-Rechner keine Mails mehr über meinen
-Web.de Account zusammen mit Thunderbird und Postfix mehr verschicken.
-Auch neu ins Netz einwählen bringt nichts, denn auch mit der neuen IP
-bin ich sofort wieder geblockt. Wie kann das sein? Ich nutze Linux und
-besitze ganz bestimmt keine Spamschleuder, da ich mein System sehr
-sauber halte.&lt;/p&gt;
-&lt;p&gt;Unter dieser &lt;a class="reference external" href="http://whatismyipaddress.com/blacklist-check"&gt;Adresse&lt;/a&gt; wird mir angezeigt, dass ich zum Beispiel
-in spamhouse.org und sechs weiteren Listen eingetragen bin.&lt;/p&gt;
-&lt;p&gt;Ich hoffe, dass sich das Problem in den nächsten Tagen legt, aber
-momentan nervt es sehr. :(&lt;/p&gt;&lt;/div&gt;</description><category>Internet</category><category>Linux</category><category>Spam</category><guid>https://turboscholz.github.io/blog/posts/meine-ip-ist-eine-spamschleuder/</guid><pubDate>Wed, 02 Oct 2013 19:44:58 GMT</pubDate></item><item><title>Meine erste CryptoParty</title><link>https://turboscholz.github.io/blog/posts/meine-erste-cryptoparty/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;So, da war ich also gestern das erste mal auf einer &lt;a class="reference external" href="https://www.cryptoparty.in/frankfurt"&gt;CryptoParty&lt;/a&gt;, in
-Frankfurt am Main. Was gibts davon zu berichten? Zunächst einmal wurde
-ein kurzer Einführungsvortrag gehalten, was es für
-Verschlüsselungstechniken und Programme gibt. Einige kannte ich schon
-persönlich (OpenPGP, TrueCrypt, OTR), andere nur vom Hörensagen (Tor,
-Verschlüsselung für Android Smartphones).&lt;/p&gt;
-&lt;p&gt;Unter den etwa 30(?) Anwesenden gab es einige, die sich mit diesen
-Programmen sehr gut auskannten (die sogenannten "Crypto-Angels"). Diese
-konnte man nach dem Vortrag mit Fragen löchern. Die Atmosphäre war
-entspannt, Getränke gabs auch (gegen einen kleinen Obolus.)&lt;/p&gt;
-&lt;p&gt;Ich habe mir mal genauer angeschaut, wie TOR funktioniert und was es
-dabei zu beachten gibt. Gegen Ende war aber auch nochmal Zeit, mit
-anderen Interessierten gpg-Schlüssel auszutauschen, zu signieren und
-testweise geheime Mails zu versenden. Erst als die Gespräche langsam auf
-Linux und Datenüberwachung allgemein umschwenkten, bemerkte ich, dass
-ich schon dreieinhalb Stunden auf der CryptoParty war. Wahnsinn, wie
-schnell die Zeit verging.&lt;/p&gt;
-&lt;p&gt;Fazit: Die Gastgeber/Organisatoren waren bei jeder Frage sehr
-hilfsbereit und das Treffen hat viel Spaß gemacht. Auch war es eine
-tolle Erfahrung und Motivation, so viele neue Menschen kennen zu lernen,
-die sich an Kryptographie heranwagen wollten oder einfach noch etwas
-dazulernen wollten, so wie ich. Daher kann ich es jedem nur empfehlen,
-der noch nicht ganz von Verschlüsselung überzeugt ist, auf die nächste
-CryptoParty in seiner Nähe zu gehen. Wo die stattfinden wird, steht z.B.
-hier: &lt;a class="reference external" href="http://www.cryptoparty.in/parties/upcoming"&gt;http://www.cryptoparty.in/parties/upcoming&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>CryptoParty</category><category>Datenschutz</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/meine-erste-cryptoparty/</guid><pubDate>Sun, 15 Sep 2013 19:53:15 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sat, 27 Oct 2018 15:53:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Kiwi-Sahne-Torte</title><link>https://turboscholz.github.io/blog/posts/kiwi-sahne-torte/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Wir hatten übers Wochenende Besuch bekommen. Schnell musste etwas tolles
+zum Kaffee gezaubert werden. Ich hab' mich für ein Tortenezept aus
+unserem "Backen ohne Backen" Buch entschieden.&lt;/p&gt;
+&lt;p&gt;Die Torte war lecker und hat wegen dem Limettensaft eine leicht saure
+Note. Das Rezept gibt's auf Anfrage. :-)&lt;/p&gt;
+&lt;img alt="/images/2014-07-13-Kiwi-Sahne-Torte.jpg" src="https://turboscholz.github.io/blog/images/2014-07-13-Kiwi-Sahne-Torte.jpg"&gt;&lt;/div&gt;</description><category>DIY</category><category>Essen</category><category>Torte</category><guid>https://turboscholz.github.io/blog/posts/kiwi-sahne-torte/</guid><pubDate>Sun, 13 Jul 2014 15:33:37 GMT</pubDate></item><item><title>Auf Wiedersehen, mein guter Freund!</title><link>https://turboscholz.github.io/blog/posts/auf-wiedersehen-mein-guter-freund/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nach langer Treue hast du dein Leben ausgehaucht. Mit dir habe ich meine
+ersten Erfahrungen mit Linux gesammelt, wir haben zusammen meine
+Diplomarbeit geschrieben, mit Freunden gechattet, Lösungen für
+Hausaufgaben im Studium gesucht, knifflige Programmieraufgaben gelöst
+und viele tolle Stunden Civilzation zusammen gespielt.&lt;/p&gt;
+&lt;p&gt;In Erinnerung wird mir bleiben, wie ich mir blutige Kratzer an deinem
+Innenleben geholt habe, als ich deinen kleinen Kühlkörper durch einen
+größeren ersetzt habe. Auch andere Operationen waren manchmal schwer,
+aber wir haben es immer beide überstanden. Leider konnte ich dir zuletzt
+aber nicht mehr helfen...&lt;/p&gt;
+&lt;p&gt;Inzwischen wurdest Du durch ein ein kleines, verschlossenes 08/15
+Notebook ersetzt. Du wirst mir fehlen!!! Möge deine Chips und Speicher
+in Frieden ruhen.&lt;/p&gt;
+&lt;img alt="/images/2014-07-12-Computer.jpg" src="https://turboscholz.github.io/blog/images/2014-07-12-Computer.jpg"&gt;&lt;/div&gt;</description><category>Computer</category><guid>https://turboscholz.github.io/blog/posts/auf-wiedersehen-mein-guter-freund/</guid><pubDate>Sat, 12 Jul 2014 15:42:48 GMT</pubDate></item><item><title>Zeitungen vs Blogs</title><link>https://turboscholz.github.io/blog/posts/zeitungen-vs-blogs/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Ich bin ja ein eifriger Zeitungsleser. Dabei kann ich mich irgendwie
+besser auf Artikel konzentieren, als beim Lesen von langatmigen Blogs
+und Internet-Artikeln. Über die Vielfalt der Beiträge bekomme ich ein
+gutes Bild darüber, was in der Welt und meiner Umgebung passiert. Nicht
+vollständig, aber schon umfassend. So. Und was macht man mit den
+Zeitungen, wenn sie durchgelesen sind?&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/zeitungen-vs-blogs/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Blogs</category><category>Lesen</category><category>Zeitungen</category><guid>https://turboscholz.github.io/blog/posts/zeitungen-vs-blogs/</guid><pubDate>Fri, 27 Jun 2014 14:32:34 GMT</pubDate></item><item><title>Feuerkäfer</title><link>https://turboscholz.github.io/blog/posts/feuerkafer/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;In flagranti - ein Pärchen Scharlachroter Feuerkäfer.&lt;/p&gt;
+&lt;img alt="/images/2014-06-27-Feuerkaefer.jpg" src="https://turboscholz.github.io/blog/images/2014-06-27-Feuerkaefer.jpg"&gt;&lt;/div&gt;</description><category>Garten</category><category>Insekten</category><guid>https://turboscholz.github.io/blog/posts/feuerkafer/</guid><pubDate>Fri, 27 Jun 2014 14:27:37 GMT</pubDate></item><item><title>Lebensmitteltransporte</title><link>https://turboscholz.github.io/blog/posts/lebensmitteltransporte/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Der Anteil der Lebensmittel, die per Lkw, Schiff oder Flugzeug Hunderte
+oder Tausende Kilometer oder sogar um den halben Globus transportiert
+werden, um dann in deutschen Geschäften im Regal zu landen, wächst
+rasant – und damit auch die Umweltbelastung durch die Transporte.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.fr.de/wirtschaft/oekologie-lebensmittel-reisen-immer-weiter-a-576171"&gt;http://www.fr.de/wirtschaft/oekologie-lebensmittel-reisen-immer-weiter-a-576171&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Gesellschaft</category><category>Umwelt</category><category>Wirtschaft</category><guid>https://turboscholz.github.io/blog/posts/lebensmitteltransporte/</guid><pubDate>Wed, 25 Jun 2014 14:21:47 GMT</pubDate></item><item><title>Mersenne-Primzahlen</title><link>https://turboscholz.github.io/blog/posts/mersenne-primzahlen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Gerade habe ich mal nach Primzahlen gestöbert. Die derzeit größte
+bekannte ist $2^{57885161}-1$, eine Mersenne-Primzahl der Form
+$(2^n-1)$. Unter diesem &lt;a class="reference external" href="http://prime.toldyouso.com/digit/m57885161/prime-c.html"&gt;Link&lt;/a&gt; kann man sich einen Teil dieser riesigen
+Zahl anschauen. Einen Teil nur deswegen, weil die vollständige Zahl etwa
+22,5MB groß ist - sie besitzt fast 17,5 millionen Stellen. ﻿&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/mersenne-primzahlen/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Mathe</category><category>mathjax</category><category>Primzahlen</category><category>Wissenschaft</category><guid>https://turboscholz.github.io/blog/posts/mersenne-primzahlen/</guid><pubDate>Mon, 23 Jun 2014 14:45:46 GMT</pubDate></item><item><title>Leckerer Radieschenquark</title><link>https://turboscholz.github.io/blog/posts/leckerer-radieschenquark/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Zutaten&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;200g Quark (ich nehme 20%igen),&lt;/li&gt;
+&lt;li&gt;100g Radieschen (in Streifen geschnitten),&lt;/li&gt;
+&lt;li&gt;1/3 Bund Schnittlauch,&lt;/li&gt;
+&lt;li&gt;Salz und Pfeffer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitung&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Umrühren, fertig. Hab ich eben gemacht und freue mich schon auf das
+morgige Frühstück. Und wenn's die Radieschen aus dem eigenen Garten
+sind, dann schmeckt's sicher gleich nochmal so gut. :-)&lt;/p&gt;
+&lt;img alt="/images/2014-05-21-Radieschenquark.jpg" src="https://turboscholz.github.io/blog/images/2014-05-21-Radieschenquark.jpg"&gt;&lt;/div&gt;</description><category>DIY</category><category>Essen</category><guid>https://turboscholz.github.io/blog/posts/leckerer-radieschenquark/</guid><pubDate>Wed, 21 May 2014 12:01:20 GMT</pubDate></item><item><title>Blumen für Bienen und Hummeln</title><link>https://turboscholz.github.io/blog/posts/blumen-fur-bienen-und-hummeln/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Jahr hat es unser Bienenfreund ("Phacelia") sehr leicht gehabt,
+denn der milde Winter hat die Samen aus dem letzten Jahr verschont. So
+steht er jetzt schon seit Anfang Mai in voller Blüte und bietet Nahrung
+für unsere kleinen fliegenden Besucher.&lt;/p&gt;
+&lt;img alt="/images/2014-05-07-Phacelia-1.jpg" src="https://turboscholz.github.io/blog/images/2014-05-07-Phacelia-1.jpg"&gt;
+&lt;img alt="/images/2014-05-07-Phacelia-2.jpg" src="https://turboscholz.github.io/blog/images/2014-05-07-Phacelia-2.jpg"&gt;&lt;/div&gt;</description><category>Blumen</category><category>Garten</category><category>Insekten</category><guid>https://turboscholz.github.io/blog/posts/blumen-fur-bienen-und-hummeln/</guid><pubDate>Wed, 07 May 2014 13:44:25 GMT</pubDate></item><item><title>Teichfroschkonzert</title><link>https://turboscholz.github.io/blog/posts/teichfroschkonzert/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Ein &lt;a class="reference external" href="https://www.youtube.com/watch?v=cs71CWZMXQ0"&gt;Nachtkonzert&lt;/a&gt; zu später Stunde. Man höre und staune :-)&lt;/p&gt;</description><category>Natur</category><category>Video</category><category>Youtube</category><guid>https://turboscholz.github.io/blog/posts/teichfroschkonzert/</guid><pubDate>Mon, 28 Apr 2014 12:09:34 GMT</pubDate></item></channel></rss>
