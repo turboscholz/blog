@@ -27,6 +27,8 @@
 ./assets/js/popper.min.js
 ./assets/xml/atom.xsl
 ./assets/xml/rss.xsl
+./categories/aktien.xml
+./categories/aktien/index.html
 ./categories/ausgehen.xml
 ./categories/ausgehen/index.html
 ./categories/basteln.xml
@@ -37,6 +39,8 @@
 ./categories/blogs/index.html
 ./categories/blumen.xml
 ./categories/blumen/index.html
+./categories/borse.xml
+./categories/borse/index.html
 ./categories/cat_ausflug.xml
 ./categories/cat_ausflug/index.html
 ./categories/cat_computer.xml
@@ -69,6 +73,8 @@
 ./categories/cat_software/index.html
 ./categories/cat_umwelt.xml
 ./categories/cat_umwelt/index.html
+./categories/cat_wirtschaft.xml
+./categories/cat_wirtschaft/index.html
 ./categories/cat_wissenschaft.xml
 ./categories/cat_wissenschaft/index.html
 ./categories/computer.xml
@@ -182,6 +188,8 @@
 ./categories/yansippet/index.html
 ./categories/youtube.xml
 ./categories/youtube/index.html
+./categories/zeitung.xml
+./categories/zeitung/index.html
 ./categories/zeitungen.xml
 ./categories/zeitungen/index.html
 ./favicon.ico
@@ -305,6 +313,8 @@
 ./posts/fisch-am-freitag/index.rst
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.html
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.rst
+./posts/global-challenges-index/index.html
+./posts/global-challenges-index/index.rst
 ./posts/hallo-nikola/index.html
 ./posts/hallo-nikola/index.rst
 ./posts/kiwi-sahne-torte/index.html
