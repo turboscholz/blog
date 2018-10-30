@@ -31,6 +31,8 @@
 ./categories/aktien/index.html
 ./categories/ausgehen.xml
 ./categories/ausgehen/index.html
+./categories/backen.xml
+./categories/backen/index.html
 ./categories/basteln.xml
 ./categories/basteln/index.html
 ./categories/bilder.xml
@@ -87,12 +89,16 @@
 ./categories/diy/index.html
 ./categories/drachen.xml
 ./categories/drachen/index.html
+./categories/einkaufen.xml
+./categories/einkaufen/index.html
 ./categories/emacs.xml
 ./categories/emacs/index.html
 ./categories/essen.xml
 ./categories/essen/index.html
 ./categories/fahrrad.xml
 ./categories/fahrrad/index.html
+./categories/feldahorn.xml
+./categories/feldahorn/index.html
 ./categories/film.xml
 ./categories/film/index.html
 ./categories/firefox.xml
@@ -109,6 +115,8 @@
 ./categories/geschichte/index.html
 ./categories/gesellschaft.xml
 ./categories/gesellschaft/index.html
+./categories/hecke.xml
+./categories/hecke/index.html
 ./categories/herbst.xml
 ./categories/herbst/index.html
 ./categories/hessen.xml
@@ -249,6 +257,10 @@
 ./images/2014-09-14-Odenwaldwanderung.thumbnail.jpg
 ./images/2014-10-26-Reformationsbroetchen.jpg
 ./images/2014-10-26-Reformationsbroetchen.thumbnail.jpg
+./images/2015-01-03-Kuchen.jpg
+./images/2015-01-03-Kuchen.thumbnail.jpg
+./images/2015-01-12-Hecke.jpg
+./images/2015-01-12-Hecke.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -319,6 +331,8 @@
 ./posts/hallo-nikola/index.rst
 ./posts/kiwi-sahne-torte/index.html
 ./posts/kiwi-sahne-torte/index.rst
+./posts/kuchen-shopping/index.html
+./posts/kuchen-shopping/index.rst
 ./posts/lass-deinen-drachen-steigen/index.html
 ./posts/lass-deinen-drachen-steigen/index.rst
 ./posts/lebensmitteltransporte/index.html
@@ -357,6 +371,8 @@
 ./posts/stolpersteine-in-langen/index.rst
 ./posts/teichfroschkonzert/index.html
 ./posts/teichfroschkonzert/index.rst
+./posts/unsere-feldahorn-hecke/index.html
+./posts/unsere-feldahorn-hecke/index.rst
 ./posts/unsere-neue-feldahornhecke/index.html
 ./posts/unsere-neue-feldahornhecke/index.rst
 ./posts/wanderung-im-odenwald/index.html
