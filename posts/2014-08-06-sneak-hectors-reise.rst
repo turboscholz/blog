@@ -1,7 +1,7 @@
 .. title: Sneak: Hectors Reise
 .. slug: sneak-hectors-reise
 .. date: 2014-08-06 19:01:58 UTC+01:00
-.. tags: Kino, Film, Sneak
+.. tags: Kino, Film, SneakPreview
 .. category: Film
 .. link: 
 .. description: 
