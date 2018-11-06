@@ -1,8 +1,8 @@
 .. title: Licht im geschlossenen Kühlschrank?
 .. slug: licht-im-geschlossenen-kuhlschrank
 .. date: 2012-01-21 19:13:35 UTC+02:00
-.. tags: 
-.. category: 
+.. tags: Technik, Video
+.. category: Technik
 .. link: 
 .. description: 
 .. type: text
