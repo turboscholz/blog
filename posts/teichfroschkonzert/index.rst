@@ -1,7 +1,7 @@
 .. title: Teichfroschkonzert
 .. slug: teichfroschkonzert
 .. date: 2014-04-28 14:09:34 UTC+02:00
-.. tags: Natur, Video, Youtube
+.. tags: Natur, Video
 .. category: Natur
 .. link: 
 .. description: 

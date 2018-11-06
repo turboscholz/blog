@@ -1,7 +1,7 @@
 .. title: Essen ist fertig
 .. slug: essen-ist-fertig
 .. date: 2015-09-19 10:19:22 UTC+01:00
-.. tags: Essen, Ausprobiert, DIY, Fleisch
+.. tags: Essen, Ausprobiert, Fleisch
 .. category: Essen
 .. link: 
 .. description: 
