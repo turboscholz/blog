@@ -89,6 +89,8 @@
 ./categories/cat_posts/index.html
 ./categories/cat_reisen.xml
 ./categories/cat_reisen/index.html
+./categories/cat_sneakpreview.xml
+./categories/cat_sneakpreview/index.html
 ./categories/cat_software.xml
 ./categories/cat_software/index.html
 ./categories/cat_technik.xml
@@ -329,6 +331,8 @@
 ./images/2015-09-19-Hackfleischbaellchen.thumbnail.jpg
 ./images/2016-01-19-Thunar.png
 ./images/2016-01-19-Thunar.thumbnail.png
+./images/2016-05-08-Kraeuterhochbeet.jpg
+./images/2016-05-08-Kraeuterhochbeet.thumbnail.jpg
 ./images/2016-05-16-Eintopf.jpg
 ./images/2016-05-16-Eintopf.thumbnail.jpg
 ./images/EinAutoWeniger.png
@@ -469,6 +473,8 @@
 ./posts/sneak-krampus/index.rst
 ./posts/sneak-nur-eine-stunde-ruhe/index.html
 ./posts/sneak-nur-eine-stunde-ruhe/index.rst
+./posts/sneak-the-finest-hours/index.html
+./posts/sneak-the-finest-hours/index.rst
 ./posts/sneak-whiplash/index.html
 ./posts/sneak-whiplash/index.rst
 ./posts/solarbox-selber-bauen/index.html
@@ -479,6 +485,8 @@
 ./posts/stolpersteine-in-langen/index.rst
 ./posts/teichfroschkonzert/index.html
 ./posts/teichfroschkonzert/index.rst
+./posts/unser-krauter-hochbeet/index.html
+./posts/unser-krauter-hochbeet/index.rst
 ./posts/unsere-feldahorn-hecke/index.html
 ./posts/unsere-feldahorn-hecke/index.rst
 ./posts/unsere-neue-feldahornhecke/index.html
