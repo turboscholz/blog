@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Wed, 07 Nov 2018 20:20:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Dateien sortieren</title><link>https://turboscholz.github.io/blog/posts/dateien-sortieren/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Dateien nach Name sortieren in Thunar und Gnome Commander&lt;/strong&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Fri, 09 Nov 2018 07:37:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Kartoffeleintopf mit Pumpernickel-Croûtons</title><link>https://turboscholz.github.io/blog/posts/kartoffeleintopf-mit-pumpernickel-croutons/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Diesen Eintopf gab es am vergangenen Pfingstwochenende bei uns, und ich
+fand ihn ziemlich lecker(*), dabei auch recht einfach zuzubereiten.&lt;/p&gt;
+&lt;p&gt;Man nehme also für vier Portionen:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;600g Kartoffeln (mehlig-kochend)&lt;/li&gt;
+&lt;li&gt;600ml Gemüsebrühe (instant)&lt;/li&gt;
+&lt;li&gt;250g fettreduzierter Kochsahne&lt;/li&gt;
+&lt;li&gt;400g tiefgekühlte Gemüsemischung (z.B. mit Erbsen, grünen Bohnen, Möhren, etc....)&lt;/li&gt;
+&lt;li&gt;Salz, Pfeffer&lt;/li&gt;
+&lt;li&gt;geriebene Muskatnuss&lt;/li&gt;
+&lt;li&gt;100g Pumpernickel in Scheiben&lt;/li&gt;
+&lt;li&gt;1 EL Butter&lt;/li&gt;
+&lt;li&gt;1-2 EL Puderzucker&lt;/li&gt;
+&lt;li&gt;1 Bund Schnittlauch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol class="upperalpha simple"&gt;
+&lt;li&gt;Kartoffeln schälen, waschen, würfeln. Brühe aufkochen, Kartoffeln, Kochsahne und tiefgekühlte Gemüsemischung dazugeben. Ca. 20 Minuten bei kleiner Hitze köcheln lassen. Ein Drittel beiseitestellen, den Rest pürieren, dann Gemüse wieder dazugeben. Mit Salz, Pfeffer und Muskatnuss würzen.&lt;/li&gt;
+&lt;li&gt;Inzwischen Pumpernickel 1cm groß würfeln. Butter in einer Pfanne erhitzen, Pumpernickelwürfel darin kurz anbraten, mit Puderzucker bestäuben und weiterbraten. Schnittlauch in Ringe schneiden. Eintopf zum Servieren mit Schnittlauch und Croûtons bestreuen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Wenn gewünscht dann kann man noch vier Wiener Würstchen klein schneiden und nach Schritt (A) zum Eintopf hinzugeben.&lt;/p&gt;
+&lt;p&gt;(*) Es gibt Stimmen, die das wegen der Möhren im Eintopf verneinen. 😉&lt;/p&gt;
+&lt;img alt="/images/2016-05-16-Eintopf.jpg" src="https://turboscholz.github.io/blog/images/2016-05-16-Eintopf.jpg"&gt;&lt;/div&gt;</description><category>Essen</category><category>Kochen</category><guid>https://turboscholz.github.io/blog/posts/kartoffeleintopf-mit-pumpernickel-croutons/</guid><pubDate>Mon, 16 May 2016 07:05:45 GMT</pubDate></item><item><title>Dateien sortieren</title><link>https://turboscholz.github.io/blog/posts/dateien-sortieren/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Dateien nach Name sortieren in Thunar und Gnome Commander&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Wenn man im Dateimanager Thunar oder Gnome Commander Dateien nach Namen
 sortiert, dann werden zusammenstehende Ziffern als ganze Zahlen
 interpretiert. Dies führt in einem Beispiel zu folgender
@@ -62,9 +83,4 @@ unterbrochen. Am schönsten war es, als die Amsel, die uns das ganze Jahr
 füttert. Das ging heute den ganzen Tag so. Aber auch die Stieglitze und
 eine Horde Meisen haben den Garten unsicher gemacht, da bei uns gerade
 ganz viele Sonnenblumensamen zu haben sind.&lt;/p&gt;
-&lt;p&gt;Das Buffet ist eröffnet, sozusagen... :)&lt;/p&gt;&lt;/div&gt;</description><category>Amsel</category><category>Garten</category><category>Sommer</category><category>Tiere</category><category>Video</category><guid>https://turboscholz.github.io/blog/posts/besuch-von-der-amsel/</guid><pubDate>Sun, 12 Jul 2015 11:11:21 GMT</pubDate></item><item><title>Unsere neue Küche</title><link>https://turboscholz.github.io/blog/posts/unsere-neue-kuche/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Mehrere Monate Planung und Renovierungsarbeiten neigen sich dem Ende
-entgegen...&lt;/p&gt;
-&lt;p&gt;Symbolbilder:&lt;/p&gt;
-&lt;img alt="/images/2015-07-07-Kuechenumbau-1.jpg" src="https://turboscholz.github.io/blog/images/2015-07-07-Kuechenumbau-1.jpg"&gt;
-&lt;img alt="/images/2015-07-07-Kuechenumbau-2.jpg" src="https://turboscholz.github.io/blog/images/2015-07-07-Kuechenumbau-2.jpg"&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://chaosisland.wordpress.com/2015/08/09/unsere-neue-kueche/"&gt;Hier&lt;/a&gt; gibt es etwas mehr Text und noch mehr Bilder nach der Fertigstellung.&lt;/p&gt;&lt;/div&gt;</description><category>DIY</category><category>Essen</category><category>Haushalt</category><guid>https://turboscholz.github.io/blog/posts/unsere-neue-kuche/</guid><pubDate>Tue, 07 Jul 2015 08:24:31 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Das Buffet ist eröffnet, sozusagen... :)&lt;/p&gt;&lt;/div&gt;</description><category>Amsel</category><category>Garten</category><category>Sommer</category><category>Tiere</category><category>Video</category><guid>https://turboscholz.github.io/blog/posts/besuch-von-der-amsel/</guid><pubDate>Sun, 12 Jul 2015 11:11:21 GMT</pubDate></item></channel></rss>

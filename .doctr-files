@@ -329,6 +329,8 @@
 ./images/2015-09-19-Hackfleischbaellchen.thumbnail.jpg
 ./images/2016-01-19-Thunar.png
 ./images/2016-01-19-Thunar.thumbnail.png
+./images/2016-05-16-Eintopf.jpg
+./images/2016-05-16-Eintopf.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -415,6 +417,8 @@
 ./posts/global-challenges-index/index.rst
 ./posts/hallo-nikola/index.html
 ./posts/hallo-nikola/index.rst
+./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.html
+./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.rst
 ./posts/kiwi-sahne-torte/index.html
 ./posts/kiwi-sahne-torte/index.rst
 ./posts/kuchen-shopping/index.html
