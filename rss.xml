@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Fri, 09 Nov 2018 20:48:46 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Kartoffeleintopf mit Pumpernickel-Croûtons</title><link>https://turboscholz.github.io/blog/posts/kartoffeleintopf-mit-pumpernickel-croutons/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Diesen Eintopf gab es am vergangenen Pfingstwochenende bei uns, und ich
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sat, 10 Nov 2018 17:22:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Rätsel am Ende von Edge of Tomorrow</title><link>https://turboscholz.github.io/blog/posts/ratsel-am-ende-von-edge-of-tomorrow/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Gestern haben wir wieder mal &lt;a class="reference external" href="https://www.youtube.com/watch?v=HjsUBrTKnrE"&gt;Edge of Tomorrow&lt;/a&gt; geschaut. Obwohl der Film
+echt Klasse ist, hat mich das Ende zum wiederholten Male ungläubig
+zurück gelassen: Wo kam dieser mysteriöse Energieimpuls her, der das
+Omega getötet hat, nachdem der Tag final zurück gesetzt wurde?!&lt;/p&gt;
+&lt;p&gt;Nach einiger Diskussion wurde es uns klar: Cage hat kurz vor seinem Tod
+die Granaten entsichert, die dann in das Omega gefallen sind. Das war ja
+offensichtlich. Der Punkt ist aber, dass diese Granaten auch beim
+letzten Zurücksetzen des Tages (durch Cage oder das Omega?) mit dem
+Omega zurück gesetzt wurden, weil sie ja in ihm drin waren. Und dadurch
+sind die Granaten gleich zu Beginn des zurückgesetzten Tages explodiert,
+was der Grund für den "mysteriösen Energieimpuls" war. Ha!&lt;/p&gt;
+&lt;p&gt;Klingt doch einleuchtend, oder?&lt;/p&gt;&lt;/div&gt;</description><category>Film</category><category>Freizeit</category><category>Rätsel</category><guid>https://turboscholz.github.io/blog/posts/ratsel-am-ende-von-edge-of-tomorrow/</guid><pubDate>Sat, 10 Dec 2016 13:16:51 GMT</pubDate></item><item><title>Hänchencreme</title><link>https://turboscholz.github.io/blog/posts/hanchencreme/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Hänchencreme haben wir gestern gemacht. Wir finden, sie ist
+ziemlich gut geworden.&lt;/p&gt;
+&lt;img alt="/images/2016-11-20-Haenchencreme.jpg" src="https://turboscholz.github.io/blog/images/2016-11-20-Haenchencreme.jpg"&gt;
+&lt;p&gt;Man nehme:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/hanchencreme/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Deftig</category><category>Essen</category><category>Rezept</category><guid>https://turboscholz.github.io/blog/posts/hanchencreme/</guid><pubDate>Sun, 20 Nov 2016 16:56:50 GMT</pubDate></item><item><title>Kommentar zum Heise-Kommentar</title><link>https://turboscholz.github.io/blog/posts/kommentar-zum-heise-kommentar/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Auf heise.de erschien heute ein Kommentar mit dem
+Titel “&lt;a class="reference external" href="https://href.li/?https://heise.de/-3356167"&gt;Beratung im Einzelhandel wird vollkommen überbewertet&lt;/a&gt;“. Ein sehr passender
+Artikel für meinen Blog, dachte ich mir. Hätte man auch hier
+veröffentlichen können. 🙂&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/kommentar-zum-heise-kommentar/"&gt;Weiterlesen…&lt;/a&gt; (2 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Einkaufen</category><category>Einzelhandel</category><category>Gesellschaft</category><guid>https://turboscholz.github.io/blog/posts/kommentar-zum-heise-kommentar/</guid><pubDate>Fri, 21 Oct 2016 16:37:30 GMT</pubDate></item><item><title>Nokia N9 kaputt</title><link>https://turboscholz.github.io/blog/posts/nokia-n9-kaputt/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Mist - heute ist mir mein Nokia N9 auf die Straße gefallen. Natürlich
+mit der Front nach unten. :-(&lt;/p&gt;
+&lt;p&gt;Das Glas ist kaputt und der Lichtsensor funktioniert leider auch nicht
+mehr. Das war's wohl mit meinem Nokia-Telefon...&lt;/p&gt;
+&lt;img alt="/images/2016-09-29-NokiaN9.jpg" src="https://turboscholz.github.io/blog/images/2016-09-29-NokiaN9.jpg"&gt;&lt;/div&gt;</description><category>Smartphone</category><category>Technik</category><guid>https://turboscholz.github.io/blog/posts/nokia-n9-kaputt/</guid><pubDate>Thu, 29 Sep 2016 16:30:47 GMT</pubDate></item><item><title>Wetterpark Offenbach</title><link>https://turboscholz.github.io/blog/posts/wetterpark-offenbach/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Durch einen Tipp im Lokalteil der Frankfurter Rundschau haben wir heute
+einen neuen Ort im RheinMain-Gebiet entdeckt: Den &lt;a class="reference external" href="https://www.offenbach.de//kultur-und-tourismus/besondere-orte/wetterpark/wetterpark.php"&gt;Wetterpark Offenbach&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In Offenbach hat der Deutsche Wetterdienst (DWD) seinen Sitz, deswegen
+hat man hier diesen Park errichtet. In dem nicht allzu großen Areal kann
+man alles mögliche über das Wetter lernen: Wie es entsteht, wie es unser
+Leben beeinflusst und natürlich auch, wie die verschiedenen Größen, die
+das Wetter beschreiben, gemessen werden.&lt;/p&gt;
+&lt;p&gt;Im Besucherzentrum kann man sogar an einigen Experimenten die Entstehung
+von bestimmten Wetterphänomenen selbst erkunden. Es gibt auch
+kostenloses Infomaterial mitzunehmen.&lt;/p&gt;
+&lt;p&gt;Aber am meisten hat mich wohl der abgesperrte Bereich mit den echten
+Messgeräten interessiert. Davor steht eine Infotafel, auf der jedes
+Gerät kurz erklärt und die Art der Messung sowie die Messgröße
+beschrieben wird - z.B. konnte man sehen, mit welchem Gerät die Art und
+die Menge vom aktuellen Niederschlag bestimmt wird. Alles automatisch
+und voll Hightech sag ich nur.&lt;/p&gt;
+&lt;p&gt;Fazit: Der Ausflug hat total Spaß gemacht, hier können wir ruhig mal
+wieder herkommen!&lt;/p&gt;&lt;/div&gt;</description><category>Ausflug</category><category>Fahrrad</category><category>Freizeit</category><category>Hessen</category><guid>https://turboscholz.github.io/blog/posts/wetterpark-offenbach/</guid><pubDate>Sun, 11 Sep 2016 17:13:59 GMT</pubDate></item><item><title>Warum ich mein Twitter-Konto schließe</title><link>https://turboscholz.github.io/blog/posts/warum-ich-mein-twitter-konto-schliesse/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Als ich mit Twitter anfing, hat mich interessiert, was in meiner Nähe so
+los ist. Tut es immer noch. Twitter konnte genau dafür eine Nische
+füllen. Am Wochenede noch nix vor? Schauste mal, was in der Timeline
+steht. Irgendjemand hat sicher ein cooles Projekt, dass dich auch
+interessiert und du verfolgen kannst oder über das du dich austauschen
+kannst. Immer hatte irgend jemand irgend etwas interessantes zu teilen.
+Sogar die Stadtverwaltung tweetete zur Lokalpolitik oder zu
+Veranstaltungen - so fühlte ich mich hier echt wohl.&lt;/p&gt;
+&lt;p&gt;Mittlerweile nervt Twitter aber zu sehr: zu viel (Welt)- Politik, zu
+viele Hater, zu viel flache Witze, zu viele Hypes, aber einfach zu wenig
+Content, der mich tatsächlich interessiert, und der eine Lücke füllen
+sollte. Viele für mich spannende Leute haben Twitter schon lange wieder
+verlassen.&lt;/p&gt;
+&lt;p&gt;Ja, es gibt sie immernoch: Leute, die sich aus dem politischen Zirkus
+(für den habe ich eine Tageszeitung(!)) raushalten, und trotzdem gute,
+informative Inhalte teilen. Danke, macht weiter so! :)&lt;/p&gt;
+&lt;p&gt;Aber ich bin es auch einfach Leid, zwischen diesen Tweets so viel Mist
+zu lesen. Sorry. Dafür fehlt mir die Geduld. Z.B. macht Google + da
+einiges besser. Oder mein RSS-Feed-Reader. Ich werde mich in Zukunft
+wieder anderen Informationsquellen zuwenden.&lt;/p&gt;
+&lt;p&gt;Von daher: &lt;em&gt;Danke für den Fisch&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Internet</category><category>Software</category><category>Twitter</category><guid>https://turboscholz.github.io/blog/posts/warum-ich-mein-twitter-konto-schliesse/</guid><pubDate>Sat, 16 Jul 2016 12:12:52 GMT</pubDate></item><item><title>Kartoffeleintopf mit Pumpernickel-Croûtons</title><link>https://turboscholz.github.io/blog/posts/kartoffeleintopf-mit-pumpernickel-croutons/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Diesen Eintopf gab es am vergangenen Pfingstwochenende bei uns, und ich
 fand ihn ziemlich lecker(*), dabei auch recht einfach zuzubereiten.&lt;/p&gt;
 &lt;p&gt;Man nehme also für vier Portionen:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -29,46 +89,4 @@ rein - fertig.&lt;/p&gt;
 &lt;img alt="/images/2016-05-08-Kraeuterhochbeet.jpg" src="https://turboscholz.github.io/blog/images/2016-05-08-Kraeuterhochbeet.jpg"&gt;&lt;/div&gt;</description><category>Basteln</category><category>DIY</category><category>Garten</category><category>Pflanzen</category><guid>https://turboscholz.github.io/blog/posts/unser-krauter-hochbeet/</guid><pubDate>Sun, 08 May 2016 20:42:12 GMT</pubDate></item><item><title>Sneak: The Finest Hours</title><link>https://turboscholz.github.io/blog/posts/sneak-the-finest-hours/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;&lt;a class="reference external" href="http://www.filmstarts.de/kritiken/221875/trailer/19551217.html"&gt;Diesen&lt;/a&gt; Film haben wir gestern im Kino gesehen. Ich fand ihn ganz gut,
 die grafische Umsetzung war klasse! Nur die Emotionen der
 Schauspieler schwappten nicht so recht rüber. Haha... Den Wortwitz
-Versteht man nur, wenn man den &lt;a class="reference external" href="http://www.filmstarts.de/kritiken/221875/trailer/19551217.html"&gt;Trailer&lt;/a&gt; anschaut... ;-)&lt;/p&gt;</description><category>Film</category><category>Kino</category><category>SneakPreview</category><guid>https://turboscholz.github.io/blog/posts/sneak-the-finest-hours/</guid><pubDate>Wed, 23 Mar 2016 20:36:59 GMT</pubDate></item><item><title>Dateien sortieren</title><link>https://turboscholz.github.io/blog/posts/dateien-sortieren/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Dateien nach Name sortieren in Thunar und Gnome Commander&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Wenn man im Dateimanager Thunar oder Gnome Commander Dateien nach Namen
-sortiert, dann werden zusammenstehende Ziffern als ganze Zahlen
-interpretiert. Dies führt in einem Beispiel zu folgender
-Sortierreihenfolge:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;datei1&lt;/li&gt;
-&lt;li&gt;datei5&lt;/li&gt;
-&lt;li&gt;datei10&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Würden die Dateimanager die Ziffern nicht zu einer Zahl zusammenfassen,
-so erhielte man folgendes Ergebnis:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;datei1&lt;/li&gt;
-&lt;li&gt;datei10&lt;/li&gt;
-&lt;li&gt;datei5&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Beispielsweise verhält sich der Midnight Commander (mc) so.&lt;/p&gt;
-&lt;p&gt;Diesen Umstand sollte man bedenken, wenn man Dateien sortieren möchte,
-bei denen Ziffern am Anfang des Dateinamens stehen, wie im unten
-angehängten Bild dargestellt:&lt;/p&gt;
-&lt;img alt="/images/2016-01-19-Thunar.png" src="https://turboscholz.github.io/blog/images/2016-01-19-Thunar.png"&gt;&lt;/div&gt;</description><category>Linux</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/dateien-sortieren/</guid><pubDate>Tue, 19 Jan 2016 20:10:31 GMT</pubDate></item><item><title>Papaya-Spinat-Cocktail</title><link>https://turboscholz.github.io/blog/posts/papaya-spinat-cocktail/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Wir haben vor kurzem einen &lt;a class="reference external" href="https://www.youtube.com/watch?v=-imYZJyHf3M"&gt;Papaya-Spinat-Cocktail&lt;/a&gt; gemacht. Geht ganz
-einfach. Wenn man den richtigen Stecker in der Steckdose hat. :-)&lt;/p&gt;
-&lt;p&gt;Das Ergebnis war total grün und lecker! Auf der Youtube-Seite steht das
-Rezept. Das Video sollte man sich bis zum Ende anschauen.&lt;/p&gt;&lt;/div&gt;</description><category>Cocktail</category><category>Essen</category><category>Video</category><guid>https://turboscholz.github.io/blog/posts/papaya-spinat-cocktail/</guid><pubDate>Tue, 22 Dec 2015 11:17:10 GMT</pubDate></item><item><title>Sneak: Krampus</title><link>https://turboscholz.github.io/blog/posts/sneak-krampus/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Endlich gab's mal wieder einen Film zum Gruseln, kombiniert mit alten
-Bräuchen und einer Weihnachtsgeschichte!&lt;/p&gt;
-&lt;p&gt;In &lt;strong&gt;Krampus&lt;/strong&gt; beginnt das Grauen aber schon mit dem Besuch der Großfamilie
-zum Weihnachtsfest: Scheinbar bis auf einen kleinen Jungen haben alle
-vergessen, dass Weihnachten auch die Zeit des Gebens ist, so wie es
-früher einmal war... Und das rächt sich jetzt!&lt;/p&gt;
-&lt;p&gt;Ein gut gemachter Horror-Film, der auch zum Nachdenken anregt. Ein paar
-lustige Einlagen waren ebenfalls dabei. Fazit: Kann man gucken :)﻿&lt;/p&gt;
-&lt;p&gt;Hier gehts zum &lt;a class="reference external" href="https://www.youtube.com/watch?v=nCa0KAsnm_s"&gt;Trailer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Horror</category><category>Kino</category><category>SneakPreview</category><guid>https://turboscholz.github.io/blog/posts/sneak-krampus/</guid><pubDate>Wed, 02 Dec 2015 11:52:32 GMT</pubDate></item><item><title>Buntes Linux-Terminal</title><link>https://turboscholz.github.io/blog/posts/buntes-linux-terminal/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Wer schon immer mal wissen wollte, wie man ein schönes buntes Terminal
-bekommt - &lt;a class="reference external" href="http://codurance.com/2015/03/16/installing-zprezto-a-quick-guide/"&gt;hier&lt;/a&gt; gibt es eine einfache Anleitung (auf Englisch). Ganz
-besonders toll ist die Zusammenarbeit von zpresto mit Git, denn damit
-weiß man immer, in welchem Branch man sich gerade befindet.&lt;/p&gt;</description><category>Linux</category><category>Software</category><category>Terminal</category><guid>https://turboscholz.github.io/blog/posts/buntes-linux-terminal/</guid><pubDate>Sat, 17 Oct 2015 09:59:04 GMT</pubDate></item><item><title>Essen ist fertig</title><link>https://turboscholz.github.io/blog/posts/essen-ist-fertig/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Bei uns gab es heute Hackfleischbällchen, gefüllt mit Feta-Käse. Sehr
-lecker, und gar nicht schwer zuzubereiten.&lt;/p&gt;
-&lt;p&gt;Vielen Dank, Maria Kulinarica für dieses schönes Rezept: &lt;a class="reference external" href="http://kulinarica.blogspot.de/2015/04/hackfleischfrikadellen-mit-feta-kase.html"&gt;http://kulinarica.blogspot.de/2015/04/hackfleischfrikadellen-mit-feta-kase.html&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="/images/2015-09-19-Hackfleischbaellchen.jpg" src="https://turboscholz.github.io/blog/images/2015-09-19-Hackfleischbaellchen.jpg"&gt;&lt;/div&gt;</description><category>Ausprobiert</category><category>Essen</category><category>Fleisch</category><guid>https://turboscholz.github.io/blog/posts/essen-ist-fertig/</guid><pubDate>Sat, 19 Sep 2015 09:19:22 GMT</pubDate></item><item><title>Manjaro Linux</title><link>https://turboscholz.github.io/blog/posts/manjaro-linux/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Gestern ist es geschehen: Ich bin nach vielen Jahren von gentoo zu
-&lt;a class="reference external" href="https://manjaro.org/"&gt;manjaro&lt;/a&gt; Linux gewechselt.&lt;/p&gt;
-&lt;p&gt;Derzeit bin ich noch dabei, mich im System zurechtzufinden. Bin
-gespannt, wie ich damit zurecht komme.&lt;/p&gt;
-&lt;img alt="/images/2015-09-13-manjaro.png" src="https://turboscholz.github.io/blog/images/2015-09-13-manjaro.png"&gt;&lt;/div&gt;</description><category>Gentoo</category><category>Linux</category><category>Manjaro</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/manjaro-linux/</guid><pubDate>Sun, 13 Sep 2015 11:46:21 GMT</pubDate></item></channel></rss>
+Versteht man nur, wenn man den &lt;a class="reference external" href="http://www.filmstarts.de/kritiken/221875/trailer/19551217.html"&gt;Trailer&lt;/a&gt; anschaut... ;-)&lt;/p&gt;</description><category>Film</category><category>Kino</category><category>SneakPreview</category><guid>https://turboscholz.github.io/blog/posts/sneak-the-finest-hours/</guid><pubDate>Wed, 23 Mar 2016 20:36:59 GMT</pubDate></item></channel></rss>
