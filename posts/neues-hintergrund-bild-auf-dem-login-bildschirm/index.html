@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Abwechselnde Hintergrund-Bilder beim Linux-Login | Mein Blog</title>
+<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://turboscholz.github.io/blog/posts/neues-hintergrund-bild-auf-dem-login-bildschirm/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Uwe Scholz">
+<link rel="prev" href="../ratsel-am-ende-von-edge-of-tomorrow/" title="Rätsel am Ende von Edge of Tomorrow" type="text/html">
+<link rel="next" href="../hallo-nikola/" title="Hallo Nikola" type="text/html">
+<meta property="og:site_name" content="Mein Blog">
+<meta property="og:title" content="Abwechselnde Hintergrund-Bilder beim Linux-Login">
+<meta property="og:url" content="https://turboscholz.github.io/blog/posts/neues-hintergrund-bild-auf-dem-login-bildschirm/">
+<meta property="og:description" content="Auf der Festplatte schlummern bei uns mittlerweile so viele Bilder, aber
+leider finden wir nie Zeit, diese auch mal anzuschauen. Daher habe ich
+mir irgendwann überlegt, beim Starten von Linux jedes ma">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2017-02-07T22:45:10+01:00">
+<meta property="article:tag" content="Freizeit">
+<meta property="article:tag" content="Linux">
+<meta property="article:tag" content="Software">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Springe zum Hauptinhalt</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-expand-md static-top mb-4
+navbar-dark bg-dark
+"><div class="container">
+<!-- This keeps the margins nice -->
+        <a class="navbar-brand" href="https://turboscholz.github.io/blog/">
+
+            <span id="blog-title">Mein Blog</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bs-navbar">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a href="../../archive.html" class="nav-link">Archiv</a>
+                </li>
+<li class="nav-item">
+<a href="../../categories/" class="nav-link">Tags</a>
+                </li>
+<li class="nav-item">
+<a href="../../pages/Datenschutz/index.html" class="nav-link">Datenschutzerklärung</a>
+                </li>
+<li class="nav-item">
+<a href="../../pages/impressum/index.html" class="nav-link">Impressum</a>
+                </li>
+<li class="nav-item">
+<a href="../../rss.xml" class="nav-link">RSS-Feed</a>
+
+                
+            </li>
+</ul>
+<ul class="navbar-nav navbar-right">
+<li class="nav-item">
+    <a href="index.rst" id="sourcelink" class="nav-link">Source</a>
+    </li>
+
+
+                
+            </ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+        
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Abwechselnde Hintergrund-Bilder beim Linux-Login</a></h1>
+
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                    Uwe Scholz
+            </span></p>
+            <p class="dateline">
+            <a href="." rel="bookmark">
+            <time class="published dt-published" datetime="2017-02-07T22:45:10+01:00" itemprop="datePublished" title="2017-02-07 22:45">2017-02-07 22:45</time></a>
+            </p>
+            
+        <p class="sourceline"><a href="index.rst" class="sourcelink">Source</a></p>
+
+        </div>
+        
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+<p>Auf der Festplatte schlummern bei uns mittlerweile so viele Bilder, aber
+leider finden wir nie Zeit, diese auch mal anzuschauen. Daher habe ich
+mir irgendwann überlegt, beim Starten von Linux jedes mal ein neues,
+zufälliges Login-Hintergrundbild anzeigen zu lassen. Wie das bei der
+Verwendung von LightDM geht, habe ich hier aufgeschrieben.</p>
+<!-- TEASER_END -->
+<p>Zunächst benötigen wir das Skript RandomPicture.sh, welches in <tt class="docutils literal">/usr/local/bin/</tt> liegt und ausführbar sein muss. Bitte die Variablen selbst anpassen: Der Bilderordner und das Alternativbild sollte vorhanden sein:</p>
+<pre class="literal-block">
+---
+#!/bin/bash
+#
+# Dieses Skript waehlt aus dem Verzeichnis $BILDERORDNER ein zufaelliges
+# Bild aus und gibt seinen Namen auf der Konsole aus. Ist im
+# BILDERORDNER keine Datei vorhanden, wird $ALTERNATIVBILD
+# ausgegeben.
+
+BILDERORDNER="/usr/local/share/pictures"
+ALTERNATIVBILD="/usr/share/backgrounds/lightdm/lightdm-gtk-greeter.jpg"
+
+NUMFILES=$( ls -1 $BILDERORDNER | wc -l )
+
+if [ $NUMFILES -ne 0 ]
+then
+    NUM=$[ ( $RANDOM % $NUMFILES ) + 1 ]
+    FNAME=$(ls -1 $BILDERORDNER | head -n ${NUM} | tail -n 1)
+    echo $BILDERORDNER/$FNAME
+    else
+    echo $ALTERNATIVBILD
+fi
+
+exit 0
+</pre>
+<p>Dieses Skript macht nichts anderes, als den vollen Pfad zu einem
+zufällig gewählten Bild im Bilderordner auf der Konsole auszugeben.</p>
+<p>Jetzt habe ich mir noch das Skript <tt class="docutils literal"><span class="pre">/usr/local/bin/lightdm-init.sh</span></tt>
+gebaut, welches auf dieses Bild einen Softlink im Verzeichnis <tt class="docutils literal">/tmp</tt>
+ablegt:</p>
+<pre class="literal-block">
+#!/bin/sh
+
+if [ ! -f /tmp/RandomPicture.jpg ] # Falls /tmp bei jedem Boot geleert wird
+then
+    ln -s "$(/usr/local/bin/RandomPicture.sh)" /tmp/RandomPicture.jpg
+fi
+exit 0
+</pre>
+<p><tt class="docutils literal">/tmp/RandomPicture.jpg</tt> soll als Hintergrund im light-dm-greeter angezeigt werden. Daher braucht man in <tt class="docutils literal"><span class="pre">/etc/lightdm/lightdm-gtk-greeter.conf</span></tt> die Einstellung:</p>
+<pre class="literal-block">
+background=/tmp/RandomPicture.jpg
+</pre>
+<p>Schließlich: Bei jedem Start von lightdm muss <tt class="docutils literal"><span class="pre">/usr/local/bin/lightdm-init.sh</span></tt> ausgeführt werden, um <tt class="docutils literal">/tmp/RandomPicture.jpg</tt> neu zu erstellen. Diese Einstellung nimmt man in <tt class="docutils literal">/etc/lightdm/lightdm.conf</tt> vor:</p>
+<pre class="literal-block">
+[Seat:*]
+greeter-setup-script=/usr/local/bin/lightdm-init.sh
+</pre>
+<p>Beim nächsten Start von Linux und LightDM müsste jetzt ein zufällig
+ausgewähltes Hintergrundbild auf dem Login-Bildschirm erscheinen.</p>
+</div>
+    </div>
+    <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
+<li><a class="tag p-category" href="../../categories/freizeit/" rel="tag">Freizeit</a></li>
+            <li><a class="tag p-category" href="../../categories/linux/" rel="tag">Linux</a></li>
+            <li><a class="tag p-category" href="../../categories/software/" rel="tag">Software</a></li>
+        </ul>
+<ul class="pager hidden-print">
+<li class="previous">
+                <a href="../ratsel-am-ende-von-edge-of-tomorrow/" rel="prev" title="Rätsel am Ende von Edge of Tomorrow">Vorheriger Eintrag</a>
+            </li>
+            <li class="next">
+                <a href="../hallo-nikola/" rel="next" title="Hallo Nikola">Nächster Eintrag</a>
+            </li>
+        </ul></nav></aside></article><!--End of body content--><footer id="footer">
+            Contents © 2018         <a href="mailto:u.scholz83@gmx.de">Uwe Scholz</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+
+        <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
+    moment.locale("de");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>
