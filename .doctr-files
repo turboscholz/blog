@@ -186,6 +186,8 @@
 ./categories/mathe/index.html
 ./categories/mathjax.xml
 ./categories/mathjax/index.html
+./categories/mull.xml
+./categories/mull/index.html
 ./categories/museum.xml
 ./categories/museum/index.html
 ./categories/natur.xml
@@ -353,6 +355,8 @@
 ./images/2016-09-29-NokiaN9.thumbnail.jpg
 ./images/2016-11-20-Haenchencreme.jpg
 ./images/2016-11-20-Haenchencreme.thumbnail.jpg
+./images/2017-02-05-Meullsammelaktion.jpg
+./images/2017-02-05-Meullsammelaktion.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -508,6 +512,8 @@
 ./posts/sneak-whiplash/index.rst
 ./posts/solarbox-selber-bauen/index.html
 ./posts/solarbox-selber-bauen/index.rst
+./posts/sonntags-mullsammelaktion/index.html
+./posts/sonntags-mullsammelaktion/index.rst
 ./posts/steuertricks/index.html
 ./posts/steuertricks/index.rst
 ./posts/stolpersteine-in-langen/index.html
