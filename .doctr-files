@@ -31,6 +31,8 @@
 ./categories/aktien/index.html
 ./categories/amsel.xml
 ./categories/amsel/index.html
+./categories/arbeit.xml
+./categories/arbeit/index.html
 ./categories/ausflug.xml
 ./categories/ausflug/index.html
 ./categories/ausgehen.xml
@@ -357,6 +359,8 @@
 ./images/2016-11-20-Haenchencreme.thumbnail.jpg
 ./images/2017-02-05-Meullsammelaktion.jpg
 ./images/2017-02-05-Meullsammelaktion.thumbnail.jpg
+./images/2017-03-18-SauberhaftesLangen.jpg
+./images/2017-03-18-SauberhaftesLangen.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -446,6 +450,8 @@
 ./posts/hallo-nikola/index.rst
 ./posts/hanchencreme/index.html
 ./posts/hanchencreme/index.rst
+./posts/insektenhotel/index.html
+./posts/insektenhotel/index.rst
 ./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.html
 ./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.rst
 ./posts/kiwi-sahne-torte/index.html
@@ -492,6 +498,8 @@
 ./posts/reformationsbrotchen/index.rst
 ./posts/rss2email/index.html
 ./posts/rss2email/index.rst
+./posts/sauberhaftes-langen/index.html
+./posts/sauberhaftes-langen/index.rst
 ./posts/schnappschuss-vom-hamburger-hafen/index.html
 ./posts/schnappschuss-vom-hamburger-hafen/index.rst
 ./posts/scrabble-abend/index.html
@@ -514,6 +522,8 @@
 ./posts/solarbox-selber-bauen/index.rst
 ./posts/sonntags-mullsammelaktion/index.html
 ./posts/sonntags-mullsammelaktion/index.rst
+./posts/sozialer-tag-aufraumen/index.html
+./posts/sozialer-tag-aufraumen/index.rst
 ./posts/steuertricks/index.html
 ./posts/steuertricks/index.rst
 ./posts/stolpersteine-in-langen/index.html

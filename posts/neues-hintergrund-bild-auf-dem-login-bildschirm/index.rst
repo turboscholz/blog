@@ -17,7 +17,6 @@ Verwendung von LightDM geht, habe ich hier aufgeschrieben.
 
 Zunächst benötigen wir das Skript RandomPicture.sh, welches in ``/usr/local/bin/`` liegt und ausführbar sein muss. Bitte die Variablen selbst anpassen: Der Bilderordner und das Alternativbild sollte vorhanden sein::
 
-    ---
     #!/bin/bash
     #
     # Dieses Skript waehlt aus dem Verzeichnis $BILDERORDNER ein zufaelliges
