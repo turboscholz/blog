@@ -39,6 +39,8 @@
 ./categories/ausgehen/index.html
 ./categories/ausprobiert.xml
 ./categories/ausprobiert/index.html
+./categories/auto.xml
+./categories/auto/index.html
 ./categories/backen.xml
 ./categories/backen/index.html
 ./categories/basteln.xml
@@ -254,6 +256,8 @@
 ./categories/twitter/index.html
 ./categories/umwelt.xml
 ./categories/umwelt/index.html
+./categories/verkehr.xml
+./categories/verkehr/index.html
 ./categories/verschlusselung.xml
 ./categories/verschlusselung/index.html
 ./categories/video.xml
@@ -361,6 +365,8 @@
 ./images/2017-02-05-Meullsammelaktion.thumbnail.jpg
 ./images/2017-03-18-SauberhaftesLangen.jpg
 ./images/2017-03-18-SauberhaftesLangen.thumbnail.jpg
+./images/2017-06-11-eAuto.jpg
+./images/2017-06-11-eAuto.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -372,6 +378,7 @@
 ./index-4.html
 ./index-5.html
 ./index-6.html
+./index-7.html
 ./index.html
 ./listings/hello.py
 ./listings/hello.py.html
@@ -434,6 +441,8 @@
 ./posts/datenschutz-ist-eine-krankheit/index.rst
 ./posts/ein-auto-weniger/index.html
 ./posts/ein-auto-weniger/index.rst
+./posts/erste-fahrt-mit-einem-elektroauto/index.html
+./posts/erste-fahrt-mit-einem-elektroauto/index.rst
 ./posts/essen-ist-fertig/index.html
 ./posts/essen-ist-fertig/index.rst
 ./posts/feuerkafer/index.html
