@@ -57,6 +57,8 @@
 ./categories/blumen/index.html
 ./categories/borse.xml
 ./categories/borse/index.html
+./categories/bucher.xml
+./categories/bucher/index.html
 ./categories/cat_ausflug.xml
 ./categories/cat_ausflug/index.html
 ./categories/cat_computer.xml
@@ -431,6 +433,8 @@
 ./posts/besuch-von-der-amsel/index.rst
 ./posts/blumen-fur-bienen-und-hummeln/index.html
 ./posts/blumen-fur-bienen-und-hummeln/index.rst
+./posts/bookcrossing/index.html
+./posts/bookcrossing/index.rst
 ./posts/buntes-linux-terminal/index.html
 ./posts/buntes-linux-terminal/index.rst
 ./posts/chermoula-bananen-mit-erdnussreis/index.html
