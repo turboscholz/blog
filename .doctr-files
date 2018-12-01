@@ -103,6 +103,8 @@
 ./categories/cat_kultur/index.html
 ./categories/cat_lustiges.xml
 ./categories/cat_lustiges/index.html
+./categories/cat_mull.xml
+./categories/cat_mull/index.html
 ./categories/cat_natur.xml
 ./categories/cat_natur/index.html
 ./categories/cat_posts.xml
@@ -300,6 +302,8 @@
 ./categories/unterhaltung/index.html
 ./categories/verkehr.xml
 ./categories/verkehr/index.html
+./categories/verpackung.xml
+./categories/verpackung/index.html
 ./categories/verschlusselung.xml
 ./categories/verschlusselung/index.html
 ./categories/video.xml
@@ -421,6 +425,8 @@
 ./images/2017-10-31-Kuerbiskuchen.thumbnail.jpg
 ./images/2017-12-31-Aufraeumen.jpg
 ./images/2017-12-31-Aufraeumen.thumbnail.jpg
+./images/2018-01-29-Kaffee.jpg
+./images/2018-01-29-Kaffee.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -532,6 +538,8 @@
 ./posts/hanchencreme/index.rst
 ./posts/insektenhotel/index.html
 ./posts/insektenhotel/index.rst
+./posts/kaffee-ohne-einwegverpackung/index.html
+./posts/kaffee-ohne-einwegverpackung/index.rst
 ./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.html
 ./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.rst
 ./posts/kiwi-sahne-torte/index.html
