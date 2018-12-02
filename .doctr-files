@@ -121,6 +121,8 @@
 ./categories/cat_umwelt/index.html
 ./categories/cat_unterhaltung.xml
 ./categories/cat_unterhaltung/index.html
+./categories/cat_verkehr.xml
+./categories/cat_verkehr/index.html
 ./categories/cat_wandern.xml
 ./categories/cat_wandern/index.html
 ./categories/cat_wirtschaft.xml
@@ -173,6 +175,8 @@
 ./categories/garten/index.html
 ./categories/gebacken.xml
 ./categories/gebacken/index.html
+./categories/gelesen.xml
+./categories/gelesen/index.html
 ./categories/gentoo.xml
 ./categories/gentoo/index.html
 ./categories/geschichte.xml
@@ -280,6 +284,8 @@
 ./categories/spam/index.html
 ./categories/speyer.xml
 ./categories/speyer/index.html
+./categories/spiel.xml
+./categories/spiel/index.html
 ./categories/spiele.xml
 ./categories/spiele/index.html
 ./categories/technik.xml
@@ -310,6 +316,8 @@
 ./categories/video/index.html
 ./categories/wandern.xml
 ./categories/wandern/index.html
+./categories/wasserstoff.xml
+./categories/wasserstoff/index.html
 ./categories/werbung.xml
 ./categories/werbung/index.html
 ./categories/wetter.xml
@@ -425,8 +433,12 @@
 ./images/2017-10-31-Kuerbiskuchen.thumbnail.jpg
 ./images/2017-12-31-Aufraeumen.jpg
 ./images/2017-12-31-Aufraeumen.thumbnail.jpg
+./images/2018-01-22-Scrabble.jpg
+./images/2018-01-22-Scrabble.thumbnail.jpg
 ./images/2018-01-29-Kaffee.jpg
 ./images/2018-01-29-Kaffee.thumbnail.jpg
+./images/2018-01-31-Wasserstoffbus.jpg
+./images/2018-01-31-Wasserstoffbus.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -440,6 +452,7 @@
 ./index-6.html
 ./index-7.html
 ./index-8.html
+./index-9.html
 ./index.html
 ./listings/hello.py
 ./listings/hello.py.html
@@ -526,6 +539,8 @@
 ./posts/frau-muller-muss-weg/index.rst
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.html
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.rst
+./posts/gelesen-aussenseiter-in-der-wissenschaft/index.html
+./posts/gelesen-aussenseiter-in-der-wissenschaft/index.rst
 ./posts/gelesen-das-fahrrad/index.html
 ./posts/gelesen-das-fahrrad/index.rst
 ./posts/gleich-zwei-mal-im-kino-valerian/index.html
@@ -536,6 +551,8 @@
 ./posts/hallo-nikola/index.rst
 ./posts/hanchencreme/index.html
 ./posts/hanchencreme/index.rst
+./posts/im-wasserstoffbus/index.html
+./posts/im-wasserstoffbus/index.rst
 ./posts/insektenhotel/index.html
 ./posts/insektenhotel/index.rst
 ./posts/kaffee-ohne-einwegverpackung/index.html
@@ -554,6 +571,8 @@
 ./posts/kurbis-birnenkuchen/index.rst
 ./posts/kurztripp-regensburg/index.html
 ./posts/kurztripp-regensburg/index.rst
+./posts/landesticket-in-hessen/index.html
+./posts/landesticket-in-hessen/index.rst
 ./posts/lass-deinen-drachen-steigen/index.html
 ./posts/lass-deinen-drachen-steigen/index.rst
 ./posts/lebensmitteltransporte/index.html
@@ -602,6 +621,8 @@
 ./posts/schnappschuss-vom-hamburger-hafen/index.rst
 ./posts/scrabble-abend/index.html
 ./posts/scrabble-abend/index.rst
+./posts/scrabble-runde/index.html
+./posts/scrabble-runde/index.rst
 ./posts/sieht-nach-regen-aus/index.html
 ./posts/sieht-nach-regen-aus/index.rst
 ./posts/sneak-hectors-reise/index.html
