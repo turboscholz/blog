@@ -1,7 +1,7 @@
 .. title: Gelesen: Das Fahrrad
 .. slug: gelesen-das-fahrrad
 .. date: 2017-12-28 22:47:35 UTC+01:00
-.. tags: Buch, Fahrrad, Geschichte
+.. tags: Buch, Fahrrad, Geschichte, Gelesen
 .. category: Fahrrad
 .. link: 
 .. description: 
