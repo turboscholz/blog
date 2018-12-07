@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Thu, 06 Dec 2018 20:46:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Update fürs Insektenhotel</title><link>https://turboscholz.github.io/blog/posts/update-furs-insektenhotel/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Unser Upgrade fürs Insektenhotel ist fertig. Dieses Jahr habe ich die
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Fri, 07 Dec 2018 11:48:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Birnenkuchen mit Preiselbeer-Bananencreme</title><link>https://turboscholz.github.io/blog/posts/birnenkuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nach langer Zeit haben wir wieder mal einen Birnenkuchen gebacken. Das
+Rezept für diesen hier haben wir aus einem ziemlich alten Kochbuch, aber
+das Ergebnis ist himmlisch!!! 😋&lt;/p&gt;
+&lt;p&gt;Wer das Rezept haben will schreibt bitte eine eMail, dann sende ich das
+Rezept zu.&lt;/p&gt;
+&lt;p&gt;PS: Wir haben Preiselbeermarmelade mit Weihnachtlichen Gewürzen
+genommen, die wir sie seit mindestens einem Jahr im Schrank stehen
+hatten. Damit hat es super geschmeckt.&lt;/p&gt;
+&lt;img alt="/images/2018-10-14-Birnenkuchen.jpg" src="https://turboscholz.github.io/blog/images/2018-10-14-Birnenkuchen.jpg"&gt;&lt;/div&gt;</description><category>Backen</category><category>Kuchen</category><category>Obst</category><guid>https://turboscholz.github.io/blog/posts/birnenkuchen/</guid><pubDate>Sun, 14 Oct 2018 11:29:42 GMT</pubDate></item><item><title>Gelesen: Kleine Kulturgeschichte des Geldes</title><link>https://turboscholz.github.io/blog/posts/gelesen-kleine-kulturgeschichte-des-geldes/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Buch von Dieter Schnaas erschien im Wilhelm Fink Verlag, 2010,
+München, und hat 170 Seiten.&lt;/p&gt;
+&lt;p&gt;Nachdem ich vor kurzem das Buch "Eine Billion Dollar" von Andreas
+Eschbach gelesen habe, wollte ich etwas mehr über die Geschichte des
+Geldes erfahren. In unserer Bibliothek fiel mir dieses Buch hier in die
+Hände.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/gelesen-kleine-kulturgeschichte-des-geldes/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Buch</category><category>Geld</category><category>Gelesen</category><category>Geschichte</category><guid>https://turboscholz.github.io/blog/posts/gelesen-kleine-kulturgeschichte-des-geldes/</guid><pubDate>Sat, 22 Sep 2018 11:09:49 GMT</pubDate></item><item><title>Gelesen: Eine Billion Dollar</title><link>https://turboscholz.github.io/blog/posts/gelesen-eine-billion-dollar/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;von Andreas Eschbach, erschienen bei Bastei Lübbe&lt;/p&gt;
+&lt;p&gt;Es geht darum, dass ein New Yorker Pizza-Ausfahrer von einem entfernten
+italienischen Verwandten aus dem 15. Jhr. eine sehr sehr große Geldsumme
+erbt, mit der er der Menschheit "die verlorene Zukunft zurückgeben"
+soll. Leider hat er keine Ahnung, wie er das anstellen soll...&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/gelesen-eine-billion-dollar/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Buch</category><category>Geld</category><category>Gelesen</category><category>Thriller</category><guid>https://turboscholz.github.io/blog/posts/gelesen-eine-billion-dollar/</guid><pubDate>Sun, 26 Aug 2018 21:20:02 GMT</pubDate></item><item><title>Mein schönster Radmoment 2018</title><link>https://turboscholz.github.io/blog/posts/mein-schonster-radmoment-2018/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Bei Mit-dem-Rad-zur-Arbeit.de wird im August, dem letzten Aktions-Monat,
+nach dem schönsten Radmoment 2018 gefragt. Hier mein schönstes Erlebnis:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/mein-schonster-radmoment-2018/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Fahhrad</category><category>Regen</category><category>Wetter</category><guid>https://turboscholz.github.io/blog/posts/mein-schonster-radmoment-2018/</guid><pubDate>Sat, 18 Aug 2018 21:38:51 GMT</pubDate></item><item><title>Klima-Arten-Matrix für Bäume und Sträucher</title><link>https://turboscholz.github.io/blog/posts/klima-arten-matrix-fur-baume-und-straucher/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Wer demnächst einen Baum pflanzen will, der sollte sich unbedingt die
+&lt;a class="reference external" href="https://www.die-gruene-stadt.de/klimaartenmatrix-stadtbaeume.pdfx"&gt;Klimar-Arten-Matrix&lt;/a&gt; anschauen. Dort findet man Baumsorten und -arten,
+gestaffelt nach ihrer Verträglichkeit auf bestimmte klimatische
+Verhältnisse (Hitze und Trockenheit, Kälte).&lt;/p&gt;
+&lt;p&gt;Der Link oben führt zu einer sehr informativen PDF-Datei mit dem Stand
+der Matrix aus dem Jahr 2008. Durch Forschungsarbeiten verschiedener
+Institute wird dieser Liste aber beständig weiterentwickelt. (Dazu
+einfach mal googlen.)&lt;/p&gt;
+&lt;p&gt;Ganz oben auf der Liste steht der Feldahorn, der am besten mit zunehmend
+trockenem und heißem Wetter zurechtkommen. Zudem ist er ein sehr guter
+Nektarlieferant für Insekten und Bienen.&lt;/p&gt;
+&lt;p&gt;Umbeding mal reinschauen. Und wenn in eurer Stadt mal wieder neue Bäume
+gepflanzt werden sollen, fragt doch mal nach, ob sich euer Grünflächenamt
+an dieser Liste orientiert. :)&lt;/p&gt;&lt;/div&gt;</description><category>Garten</category><category>Klima</category><category>Klimawandel</category><category>Pflanzen</category><guid>https://turboscholz.github.io/blog/posts/klima-arten-matrix-fur-baume-und-straucher/</guid><pubDate>Wed, 20 Jun 2018 21:24:37 GMT</pubDate></item><item><title>Gießaktion mit Fahrradanhänger</title><link>https://turboscholz.github.io/blog/posts/giessaktion-mit-fahrradanhanger/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Hallo zusammen. Heute Mal ein paar Bilder von meinem regelmäßigen
+Gieß-Aktionen. Wie in ganz vielen Gegenden in Deutschland ist es derzeit
+auch bei uns unfassbar trocken und die ersten Bäume zeigen schon
+deutliche Zeichen von Wasserunterversorgung. ☀ ☀ ☀ 😐&lt;/p&gt;
+&lt;p&gt;In meiner Stadt gibt es zwei öffentliche Wasserspender, deren Wasser
+ständig läuft. Ich habe mir überlegt, das ich dieses Wasser lieber
+nutzen möchte und an Büsche und Bäume in der Stadt verteile. Leider
+kostet das recht viel Zeit, aber vielleicht hilft es dem ein oder
+anderen Gewächs. 🙂&lt;/p&gt;
+&lt;p&gt;In meinen Fahrradanhänger passen etwa 40-50 Liter. Unten ein paar
+ausgewählte Bilder. 😅 Bei den zwei Bildern mit den vielen Blättern kann
+man den Unterschied zwischen vor und nach dem Gießen erkennen; die
+Blätter hängen auf dem zweiten Bild viel weniger nach unten. Ich habe es
+am Tag nach dem Gießen geschossen. Und eine Hornisse hat auch immer
+wieder Wasser getrunken...&lt;/p&gt;
+&lt;img alt="/images/2018-06-07-Waessern.jpg" src="https://turboscholz.github.io/blog/images/2018-06-07-Waessern.jpg"&gt;&lt;/div&gt;</description><category>Fahrrad</category><category>Garten</category><category>Pflanzen</category><category>Trockenheit</category><guid>https://turboscholz.github.io/blog/posts/giessaktion-mit-fahrradanhanger/</guid><pubDate>Thu, 07 Jun 2018 21:44:05 GMT</pubDate></item><item><title>Sauber Machen im Wald</title><link>https://turboscholz.github.io/blog/posts/sauber-machen-im-wald/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Am Tag der Arbeit kann ich nicht einfach nur rumsitzen und nichts tun...
+😸 Diesmal bin ich mit Rad und Anhänger zum Langener Waldsee gefahren.
+Es ist unglaublich, wie viel Plastikmüll und alte Glasflaschen dort
+herum liegen!&lt;/p&gt;
+&lt;p&gt;Meinen Fahrradanhänger habe ich in nicht einmal 20 Minuten randvoll
+bekommen. Leute, werft euren Müll bitte nicht achtlos in der Gegend rum.
+😠 Die Scherben können furchtbare Verletzungen hervorrufen, wenn man
+reintritt. Und das Plastik verrottet in 100 Jahren nicht. Das sieht echt
+💩 aus...!&lt;/p&gt;
+&lt;img alt="/images/2018-05-01-SauberMachen.jpg" src="https://turboscholz.github.io/blog/images/2018-05-01-SauberMachen.jpg"&gt;&lt;/div&gt;</description><category>Aufräumen</category><category>Müll</category><category>NoPlastic</category><category>Plastik</category><category>Wald</category><guid>https://turboscholz.github.io/blog/posts/sauber-machen-im-wald/</guid><pubDate>Tue, 01 May 2018 11:41:29 GMT</pubDate></item><item><title>Update fürs Insektenhotel</title><link>https://turboscholz.github.io/blog/posts/update-furs-insektenhotel/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Unser Upgrade fürs Insektenhotel ist fertig. Dieses Jahr habe ich die
 Bambus- und Sonnenblumenstäbe mit einem Bohrer angebohrt (5er und 6er).
 Dabei kamen so viele Stöcke zusammen, dass es noch zum Füllen einer
 alten Dose gereicht hat. Die habe ich auch wieder zum Schutz vor Vögeln
@@ -19,48 +77,4 @@ wird aktuell keine Werbung angezeigt. Leider ist die App momentan
 komplett auf Englisch, aber es gibt nur wenige Menüs und somit ist das
 eigentlich nicht so schlimm. Die Firma, die hinter der App steht, kommt
 aus Québec, Kanada, und arbeitet an neuen Funktionen in der App.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/one-piece-a-day/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>App</category><category>Software</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/one-piece-a-day/</guid><pubDate>Tue, 03 Apr 2018 20:22:43 GMT</pubDate></item><item><title>Gelesen: Unsere Vögel</title><link>https://turboscholz.github.io/blog/posts/gelesen-unsere-vogel/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor kurzem habe ich das Buch &lt;strong&gt;Unsere Vögel&lt;/strong&gt; von Peter Berthold
-gelesen, welches im Ullstein-Verlag erschienen ist. Ich habe es sehr
-gerne gelesen.&lt;/p&gt;
-&lt;p&gt;Das Buch kommt mit relativ wenigen Bildern aber mit umso mehr
-interessanten Texten und Fakten über die gefiederten Freunde daher. Die
-Kapitel sind klar strukturiert und beginnen beim ersten dokumentierten
-Rückgang der Vögel in der Mitte des 19. Jahrhunderts in Deutschland und
-erstreckt sich bis in die Gegenwart und lässt auch die Situation
-außerhalb von Deutschland nicht aus.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/gelesen-unsere-vogel/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Buch</category><category>Freizeit</category><category>Gelesen</category><category>Natur</category><category>Vögel</category><guid>https://turboscholz.github.io/blog/posts/gelesen-unsere-vogel/</guid><pubDate>Tue, 13 Mar 2018 07:05:36 GMT</pubDate></item><item><title>Eine Mail gegen den Müll</title><link>https://turboscholz.github.io/blog/posts/eine-mail-gegen-den-mull/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Ich komme in diesen Tagen immer wieder an einer echt dreckigen Ecke in
-Frankfurt vorbei. Da es irgendwann einfach zu viel wurde, um hier
-selber noch aufzuräumen, habe ich die FES, das Umweltamt und die
-Verwaltung des Bezirks Gateway Gardens angeschrieben. Und siehe da:
-Heute sieht der Parkplatz wie verwandelt aus. Ist doch nicht schlecht,
-oder? 👍💚🌳🌻🐞&lt;/p&gt;
-&lt;p&gt;Da hat meine Mail vielleicht wirklich etwas bewirkt.&lt;/p&gt;
-&lt;img alt="/images/2018-03-05-MuellGatewayGardens.jpg" src="https://turboscholz.github.io/blog/images/2018-03-05-MuellGatewayGardens.jpg"&gt;&lt;/div&gt;</description><category>Aufräumen</category><category>Müll</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/eine-mail-gegen-den-mull/</guid><pubDate>Mon, 05 Mar 2018 06:48:08 GMT</pubDate></item><item><title>Auflauf aus der App</title><link>https://turboscholz.github.io/blog/posts/auflauf-aus-der-app/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Was ihr hier seht ist Kartoffelauflauf mit Béchamelsauße. Dieser Auflauf
-schmeckte besser, als er hier aussieht. 😅&lt;/p&gt;
-&lt;p&gt;Erwähnenswert ist, dass das Rezept aus der App "Zu gut für die Tonne!"
-(oder "Beste Reste") stammt. Ich hatte Kartoffeln und die Paprika übrig
-und konnte sie in der App als Ausgangszutaten eingeben. Die App hat mir
-dann dieses Auflaufrezept vorgeschlagen, und so konnten wir die
-Lebensmittelverschwendung wieder etwas eindämmen. 😋&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://www.zugutfuerdietonne.de/praktische-helfer/app/"&gt;https://www.zugutfuerdietonne.de/praktische-helfer/app/&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="/images/2018-02-08-Auflauf.jpg" src="https://turboscholz.github.io/blog/images/2018-02-08-Auflauf.jpg"&gt;&lt;/div&gt;</description><category>App</category><category>Essen</category><category>Kochen</category><guid>https://turboscholz.github.io/blog/posts/auflauf-aus-der-app/</guid><pubDate>Thu, 08 Feb 2018 06:58:23 GMT</pubDate></item><item><title>Müllvermeidung beim Metzger</title><link>https://turboscholz.github.io/blog/posts/mullvermeidung-beim-metzger/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Für die einen ist es nur eine mit Wurst gefüllte Plastikdose, für mich
-ein geglückter Versuch: habe beim Metzger um die Ecke meine mitgebrachte
-Plastikdose mit Wurst und Aufschnitt füllen lassen. Und damit die
-Plastik-Tüte gespart, die man sonst immer zwangsweise mit dazu bekommt.&lt;/p&gt;
-&lt;img alt="/images/2018-02-04-Dose.jpg" src="https://turboscholz.github.io/blog/images/2018-02-04-Dose.jpg"&gt;&lt;/div&gt;</description><category>Essen</category><category>Müll</category><category>Müllvermeidung</category><category>NoPlastic</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/mullvermeidung-beim-metzger/</guid><pubDate>Sun, 04 Feb 2018 07:18:10 GMT</pubDate></item><item><title>Im Wasserstoffbus</title><link>https://turboscholz.github.io/blog/posts/im-wasserstoffbus/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Gestern das erste Mal mit einem Wasserstoffbus unterwegs gewesen. Fährt
-sich ganz angenehm. Wegen der Klimaanlage innen gar nicht so lautlos,
-wie erhofft, aber schon deutlich leiser als ein Diesel-Verbrenner.&lt;/p&gt;
-&lt;p&gt;Ganz toll ist es natürlich außen: es eben keine rußenden Abgase mehr,
-sondern nur noch gewöhnlichen Wasserdampf. Man sieht, wir er sich aus
-einem Loch im Fach verflüchtigt. Echt faszinierend!&lt;/p&gt;
-&lt;p&gt;Hier der &lt;a class="reference external" href="http://www.fr.de/rhein-main/verkehr/frankfurter-flughafen-mit-wasserstoff-und-strom-unterwegs-a-1435098"&gt;Link&lt;/a&gt; zur Ankündigung in der Frankfurter Rundschau.&lt;/p&gt;
-&lt;img alt="/images/2018-01-31-Wasserstoffbus.jpg" src="https://turboscholz.github.io/blog/images/2018-01-31-Wasserstoffbus.jpg"&gt;&lt;/div&gt;</description><category>Frankfurt</category><category>Technik</category><category>Verkehr</category><category>Wasserstoff</category><guid>https://turboscholz.github.io/blog/posts/im-wasserstoffbus/</guid><pubDate>Wed, 31 Jan 2018 10:27:12 GMT</pubDate></item><item><title>Kaffee ohne Einwegverpackung</title><link>https://turboscholz.github.io/blog/posts/kaffee-ohne-einwegverpackung/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Gestern haben wir das Geldmuseum in Frankfurt/Main besucht. Im
-zugehörigen Café hat es mich total gefreut, dass dort der Zucker in
-kleinen Gläschen zu haben war. Oftmals gibt es ihn ja stattdessen in
-solchen Einweg-Aufreißverpackungen, was die Müllberge schnell anwachsen
-lässt. Hier aber nicht. Daumen hoch! 👍😊💚&lt;/p&gt;
-&lt;p&gt;Ach ja, die Ausstellung war auch total interessant. Wer mal in der
-Finanzmetropole Frankfurt zu Besuch ist, sollte sie sich nicht entgehen
-lassen!&lt;/p&gt;
-&lt;img alt="/images/2018-01-29-Kaffee.jpg" src="https://turboscholz.github.io/blog/images/2018-01-29-Kaffee.jpg"&gt;&lt;/div&gt;</description><category>Museum</category><category>Müll</category><category>Verpackung</category><guid>https://turboscholz.github.io/blog/posts/kaffee-ohne-einwegverpackung/</guid><pubDate>Mon, 29 Jan 2018 19:16:58 GMT</pubDate></item><item><title>Scrabble-Runde</title><link>https://turboscholz.github.io/blog/posts/scrabble-runde/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Ergebnis der gestrigen Scrabble-Runde. Ich hab verloren 😁&lt;/p&gt;
-&lt;img alt="/images/2018-01-22-Scrabble.jpg" src="https://turboscholz.github.io/blog/images/2018-01-22-Scrabble.jpg"&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Scrabble</category><category>Spiel</category><guid>https://turboscholz.github.io/blog/posts/scrabble-runde/</guid><pubDate>Mon, 22 Jan 2018 21:29:27 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/one-piece-a-day/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>App</category><category>Software</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/one-piece-a-day/</guid><pubDate>Tue, 03 Apr 2018 20:22:43 GMT</pubDate></item></channel></rss>
