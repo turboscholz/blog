@@ -127,6 +127,8 @@
 ./categories/cat_software/index.html
 ./categories/cat_technik.xml
 ./categories/cat_technik/index.html
+./categories/cat_traume.xml
+./categories/cat_traume/index.html
 ./categories/cat_umwelt.xml
 ./categories/cat_umwelt/index.html
 ./categories/cat_unterhaltung.xml
@@ -332,6 +334,8 @@
 ./categories/tiere/index.html
 ./categories/torte.xml
 ./categories/torte/index.html
+./categories/traum.xml
+./categories/traum/index.html
 ./categories/trockenheit.xml
 ./categories/trockenheit/index.html
 ./categories/tulpen.xml
@@ -612,6 +616,8 @@
 ./posts/gelesen-kleine-kulturgeschichte-des-geldes/index.rst
 ./posts/gelesen-unsere-vogel/index.html
 ./posts/gelesen-unsere-vogel/index.rst
+./posts/getraumt-von-fahrradern-und-vogeln/index.html
+./posts/getraumt-von-fahrradern-und-vogeln/index.rst
 ./posts/giessaktion-mit-fahrradanhanger/index.html
 ./posts/giessaktion-mit-fahrradanhanger/index.rst
 ./posts/gleich-zwei-mal-im-kino-valerian/index.html

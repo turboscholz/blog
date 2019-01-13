@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2018 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Tue, 11 Dec 2018 18:09:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;</description><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Birnenkuchen mit Preiselbeer-Bananencreme</title><link>https://turboscholz.github.io/blog/posts/birnenkuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nach langer Zeit haben wir wieder mal einen Birnenkuchen gebacken. Das
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein erster Blog auf GitHub</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2019 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 13 Jan 2019 19:25:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Geträumt: von Fahrrädern und Vögeln</title><link>https://turboscholz.github.io/blog/posts/getraumt-von-fahrradern-und-vogeln/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Heute nacht bin ich mit meiner Frau auf einem Schloss gewesen. Dieses
+war ziemlich hoch und man konnte weit gucken. Überall waren Touristen.
+Das wurde mir wohl zu viel - also nahm ich mein Fahrrad und bin die
+Wendeltreppe heruntergerauscht, an den Touristen vorbei. Erstaunlich:
+Das ging ganz einfach und niemand hat sich beschwert. Naja, es war ja
+ein Traum.&lt;/p&gt;
+&lt;p&gt;Irgendwie bin ich plötzlich im Haus von &lt;a class="reference external" href="https://www.kosmos.de/content/buecher/ratgeber/natur/voegel/peter-berthold-biographie/"&gt;Peter Berthold&lt;/a&gt; erschienen. Er war
+gerade beim Vögel beobachten und bat mich, mitzumachen. In einem Busch
+vor dem Fenster wuselten mindestens zwanzig Meisen herum!&lt;/p&gt;
+&lt;p&gt;Ich habe Peter freudig berichtet, dass ich für die Heinz Sielmann
+Stiftung gespendet habe. Das fand er klasse und hat mir eine riesige
+Mohnblume, groß wie eine Sonnenblume, geschenkt.&lt;/p&gt;&lt;/div&gt;</description><category>Fahrrad</category><category>Traum</category><category>Vögel</category><guid>https://turboscholz.github.io/blog/posts/getraumt-von-fahrradern-und-vogeln/</guid><pubDate>Sun, 13 Jan 2019 18:14:20 GMT</pubDate></item><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;
+&lt;p&gt;Da Google+ demächst geschlossen wird, habe ich nach einer Alternative
+gesucht - und Nikola gefunden. Dies ist kein soziales Netzwerk, sondern
+ein Generator für statische Webseiten.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/hallo-nikola/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Blog</category><category>Internet</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/hallo-nikola/</guid><pubDate>Wed, 17 Oct 2018 21:06:10 GMT</pubDate></item><item><title>Birnenkuchen mit Preiselbeer-Bananencreme</title><link>https://turboscholz.github.io/blog/posts/birnenkuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nach langer Zeit haben wir wieder mal einen Birnenkuchen gebacken. Das
 Rezept für diesen hier haben wir aus einem ziemlich alten Kochbuch, aber
 das Ergebnis ist himmlisch!!! 😋&lt;/p&gt;
 &lt;p&gt;Wer das Rezept haben will schreibt bitte eine eMail, dann sende ich das
@@ -68,15 +83,4 @@ mit einem Gitter versehen.&lt;/p&gt;
 angebracht, sodass das Hotel gut in der Sonne steht. Die ersten
 Interessenten für ein Zimmer haben sich auch schon blicken lassen.
 🐝💚😁&lt;/p&gt;
-&lt;img alt="/images/2018-04-14-Insektenhotel.jpg" src="https://turboscholz.github.io/blog/images/2018-04-14-Insektenhotel.jpg"&gt;&lt;/div&gt;</description><category>Basteln</category><category>DIY</category><category>Garten</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/update-furs-insektenhotel/</guid><pubDate>Sat, 14 Apr 2018 20:39:07 GMT</pubDate></item><item><title>Die App "One Piece a Day"</title><link>https://turboscholz.github.io/blog/posts/one-piece-a-day/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Bei der App "One piece a day" geht es darum, zu dokumentieren, wie viel
-Müll man vom Straßenrand aufgehoben hat. Man kann sich ein selbst
-gestecktes Ziel aussuchen z.B. 300 Stück im Jahr oder auch mehr oder
-weniger. Es gibt eine öffentlich einsehbare Rangliste, so dass man
-motiviert wird, am Ball zu bleiben und noch mehr Müll aufzusammeln.
-Durch Abzeichen, die bei Meilensteinen freigeschaltet werden, soll man
-zusätzlich motiviert werden. Die App ist nicht gewinnorientiert und es
-wird aktuell keine Werbung angezeigt. Leider ist die App momentan
-komplett auf Englisch, aber es gibt nur wenige Menüs und somit ist das
-eigentlich nicht so schlimm. Die Firma, die hinter der App steht, kommt
-aus Québec, Kanada, und arbeitet an neuen Funktionen in der App.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/one-piece-a-day/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>App</category><category>Software</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/one-piece-a-day/</guid><pubDate>Tue, 03 Apr 2018 20:22:43 GMT</pubDate></item></channel></rss>
+&lt;img alt="/images/2018-04-14-Insektenhotel.jpg" src="https://turboscholz.github.io/blog/images/2018-04-14-Insektenhotel.jpg"&gt;&lt;/div&gt;</description><category>Basteln</category><category>DIY</category><category>Garten</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/update-furs-insektenhotel/</guid><pubDate>Sat, 14 Apr 2018 20:39:07 GMT</pubDate></item></channel></rss>
