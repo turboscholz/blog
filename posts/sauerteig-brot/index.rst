@@ -1,7 +1,7 @@
 .. title: Sauerteig-Brot
 .. slug: sauerteig-brot
 .. date: 2019-02-01 21:40:43 UTC+01:00
-.. tags: Backen, Brot
+.. tags: Backen, Essen
 .. category: Backen
 .. link: 
 .. description: 
@@ -139,7 +139,7 @@ Möhren-Kartoffelbrot (Bild unten) herangetraut. Genial!
 
 .. image:: /images/2019-02-02-brot/moehren-kartoffelbrot.jpg
 
-Aus Umweltgründen möchte ich noch folgendes empfehlen:
+Aus Umweltschutzgründen möchte ich noch folgendes empfehlen:
 
 1. Im Handel gibt es ganz tolles wiederverwendbares Backpapier. Dieses verwenden wir zum Backen und es hat uns schon ganz viel normales Backpapier eingespart. Auch wenn es etwas teurer ist, es rentiert sich!
 2. Damit das Brot nicht zu dunkel wird soll man es vor dem Ende der Backzeit mit Alufolie abdecken. Wir machen das auch, aber ich verwende immer wieder dasselbe Stück Alufolie. Nach dem Backen ist es noch genauso sauber, wie vorher, und daher kommt es bei uns in einen Küchenschrank wo es nicht stört und wartet auf seinen nächsten Einsatz.
