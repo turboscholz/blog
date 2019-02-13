@@ -90,12 +90,13 @@ Danach kommt der Teig nochmal in eine Gehform und schließlich in den
 Ofen.
 
 Wer sich jetzt noch fragt, was eigentlich dieses **Anstellgut** ist: Im
-Grunde ist es nichts anderes als Sauerteig, der auf seinen Einsatz
-wartet. Sauerteig wird zu Anstellgut, wenn die Bakterien einen Großteil
-des Mehls umgesetzt haben und keine neuen Bläschen mehr entstehen.
-Dieses Anstellgut kann man bis zu zehn Tage im Kühlschrank aufbewahren
-bevor die Bakterien langsam absterben. Also muss man es ab und zu mit
-neuem Mehl und Wasser füttern. Im Netz findet man mehr Infos dazu.
+Grunde ist es nichts anderes als Sauerteig (eine Mischung aus Milchsäure
+und Hefe-Bakterien, Mehl und Wasser), der auf seinen Einsatz wartet.
+Sauerteig wird zu Anstellgut, wenn die Bakterien einen Großteil des
+Mehls umgesetzt haben und keine neuen Bläschen mehr entstehen. Dieses
+Anstellgut kann man bis zu zehn Tage im Kühlschrank aufbewahren bevor
+die Bakterien langsam absterben. Also muss man es ab und zu mit neuem
+Mehl und Wasser füttern. Im Netz findet man mehr Infos dazu.
 
 .. image:: /images/2019-02-02-brot/sauerteig.jpg
 
