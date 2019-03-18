@@ -125,6 +125,8 @@
 ./categories/cat_sneakpreview/index.html
 ./categories/cat_software.xml
 ./categories/cat_software/index.html
+./categories/cat_sonstiges.xml
+./categories/cat_sonstiges/index.html
 ./categories/cat_technik.xml
 ./categories/cat_technik/index.html
 ./categories/cat_traume.xml
@@ -314,6 +316,8 @@
 ./categories/solarbox/index.html
 ./categories/sommer.xml
 ./categories/sommer/index.html
+./categories/sonstiges.xml
+./categories/sonstiges/index.html
 ./categories/spam.xml
 ./categories/spam/index.html
 ./categories/speyer.xml
@@ -600,6 +604,8 @@
 ./posts/ein-auto-weniger/index.rst
 ./posts/eine-mail-gegen-den-mull/index.html
 ./posts/eine-mail-gegen-den-mull/index.rst
+./posts/entfernungsangaben/index.html
+./posts/entfernungsangaben/index.rst
 ./posts/erste-fahrt-mit-einem-elektroauto/index.html
 ./posts/erste-fahrt-mit-einem-elektroauto/index.rst
 ./posts/essen-ist-fertig/index.html
