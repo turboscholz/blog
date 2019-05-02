@@ -191,6 +191,8 @@
 ./categories/garten/index.html
 ./categories/gebacken.xml
 ./categories/gebacken/index.html
+./categories/gedanken.xml
+./categories/gedanken/index.html
 ./categories/geld.xml
 ./categories/geld/index.html
 ./categories/gelesen.xml
@@ -370,6 +372,8 @@
 ./categories/werbung/index.html
 ./categories/wetter.xml
 ./categories/wetter/index.html
+./categories/wetterbericht.xml
+./categories/wetterbericht/index.html
 ./categories/wirtschaft.xml
 ./categories/wirtschaft/index.html
 ./categories/wissenschaft.xml
@@ -672,6 +676,8 @@
 ./posts/kurztripp-regensburg/index.rst
 ./posts/landesticket-in-hessen/index.html
 ./posts/landesticket-in-hessen/index.rst
+./posts/landregen/index.html
+./posts/landregen/index.rst
 ./posts/lass-deinen-drachen-steigen/index.html
 ./posts/lass-deinen-drachen-steigen/index.rst
 ./posts/lebensmitteltransporte/index.html
