@@ -13,14 +13,14 @@ von einer Kollegin...
 
 .. image:: /images/2019-02-02-brot/kastenbrot.jpg
 
-.. TEASER_END
-
 Erfahrung mit Sauerteig hatte ich gar keine, aber wollte es unbedingt
 einmal ausprobieren. Daher lieh mir die Kollegin noch ein
 Sauerteig-Brotbackbuch vom Autor von Pötzblog_ und gab mir ein paar
 Tipps auf den Weg. Sie erzählte was von der "Finger-Probe", von Brotteig
 "falten", von Anstellgut "füttern" und einigen anderen Dingen. Okayyy.
 Klang irgendwie kompliziert.
+
+.. TEASER_END
 
 Die Rezepte und Tipps im Backbuch haben mich zunächst eher ratlos
 zurückgelassen. Ich bekam sogar etwas "Angst" davor, etwas falsch zu
