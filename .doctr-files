@@ -521,6 +521,8 @@
 ./images/2019-02-02-brot/moehren-kartoffelbrot.thumbnail.jpg
 ./images/2019-02-02-brot/sauerteig.jpg
 ./images/2019-02-02-brot/sauerteig.thumbnail.jpg
+./images/2019-05-05-Scrabble.jpg
+./images/2019-05-05-Scrabble.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -528,6 +530,7 @@
 ./images/nikola.png
 ./index-1.html
 ./index-10.html
+./index-11.html
 ./index-2.html
 ./index-3.html
 ./index-4.html
@@ -764,6 +767,8 @@
 ./posts/steuertricks/index.rst
 ./posts/stolpersteine-in-langen/index.html
 ./posts/stolpersteine-in-langen/index.rst
+./posts/stuss-shit-und-andere-tolle-worter/index.html
+./posts/stuss-shit-und-andere-tolle-worter/index.rst
 ./posts/teichfroschkonzert/index.html
 ./posts/teichfroschkonzert/index.rst
 ./posts/tour-zum-goetheturm/index.html
