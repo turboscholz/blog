@@ -294,6 +294,8 @@
 ./categories/reformationsbrotchen/index.html
 ./categories/regen.xml
 ./categories/regen/index.html
+./categories/regional.xml
+./categories/regional/index.html
 ./categories/reisen.xml
 ./categories/reisen/index.html
 ./categories/rezept.xml
@@ -465,6 +467,8 @@
 ./images/2016-05-08-Kraeuterhochbeet.thumbnail.jpg
 ./images/2016-05-16-Eintopf.jpg
 ./images/2016-05-16-Eintopf.thumbnail.jpg
+./images/2016-09-10-Kietzkaufhaus-rad.jpg
+./images/2016-09-10-Kietzkaufhaus-rad.thumbnail.jpg
 ./images/2016-09-29-NokiaN9.jpg
 ./images/2016-09-29-NokiaN9.thumbnail.jpg
 ./images/2016-11-20-Haenchencreme.jpg
@@ -611,6 +615,8 @@
 ./posts/chermoula-bananen-mit-erdnussreis/index.rst
 ./posts/darwins-tulpen/index.html
 ./posts/darwins-tulpen/index.rst
+./posts/das-kiezkaufhaus-in-wiesbaden/index.html
+./posts/das-kiezkaufhaus-in-wiesbaden/index.rst
 ./posts/dateien-sortieren/index.html
 ./posts/dateien-sortieren/index.rst
 ./posts/datenschutz-ist-eine-krankheit/index.html
