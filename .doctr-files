@@ -207,6 +207,8 @@
 ./categories/gesellschaft/index.html
 ./categories/google.xml
 ./categories/google/index.html
+./categories/gutschein.xml
+./categories/gutschein/index.html
 ./categories/handarbeit.xml
 ./categories/handarbeit/index.html
 ./categories/handel.xml
@@ -242,6 +244,8 @@
 ./categories/kuchen/index.html
 ./categories/kultur.xml
 ./categories/kultur/index.html
+./categories/langen.xml
+./categories/langen/index.html
 ./categories/lesen.xml
 ./categories/lesen/index.html
 ./categories/lesezeichen.xml
@@ -467,6 +471,8 @@
 ./images/2016-05-08-Kraeuterhochbeet.thumbnail.jpg
 ./images/2016-05-16-Eintopf.jpg
 ./images/2016-05-16-Eintopf.thumbnail.jpg
+./images/2016-09-03-Langener-einkaufsgutschein.jpg
+./images/2016-09-03-Langener-einkaufsgutschein.thumbnail.jpg
 ./images/2016-09-10-Kietzkaufhaus-rad.jpg
 ./images/2016-09-10-Kietzkaufhaus-rad.thumbnail.jpg
 ./images/2016-09-29-NokiaN9.jpg
@@ -625,6 +631,8 @@
 ./posts/ein-auto-weniger/index.rst
 ./posts/eine-mail-gegen-den-mull/index.html
 ./posts/eine-mail-gegen-den-mull/index.rst
+./posts/einkaufsgutschein-fur-langen/index.html
+./posts/einkaufsgutschein-fur-langen/index.rst
 ./posts/entfernungsangaben/index.html
 ./posts/entfernungsangaben/index.rst
 ./posts/erste-fahrt-mit-einem-elektroauto/index.html
