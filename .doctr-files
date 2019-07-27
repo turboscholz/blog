@@ -304,6 +304,8 @@
 ./categories/reisen/index.html
 ./categories/rezept.xml
 ./categories/rezept/index.html
+./categories/roller.xml
+./categories/roller/index.html
 ./categories/rss.xml
 ./categories/rss/index.html
 ./categories/sachsen.xml
@@ -541,6 +543,8 @@
 ./images/2019-05-26-Kaffee-und-Kuchen.thumbnail.jpg
 ./images/2019-05-26-Schnecke.jpg
 ./images/2019-05-26-Schnecke.thumbnail.jpg
+./images/2019-07-27-Roller.jpg
+./images/2019-07-27-Roller.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -677,6 +681,8 @@
 ./posts/hallo-nikola/index.rst
 ./posts/hanchencreme/index.html
 ./posts/hanchencreme/index.rst
+./posts/huschhhh/index.html
+./posts/huschhhh/index.rst
 ./posts/im-wasserstoffbus/index.html
 ./posts/im-wasserstoffbus/index.rst
 ./posts/insektenhotel/index.html
