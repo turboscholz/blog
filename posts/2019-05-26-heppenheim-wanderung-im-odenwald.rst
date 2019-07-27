@@ -33,10 +33,5 @@ Ausblick auf Kaffee und Kuchen:
 
 .. image:: /images/2019-05-26-Kaffee-und-Kuchen.jpg
 
-Wer sich den detailierten Track für sein Navi herunterladen möchte,
-findet die gpx-Datei auf GPSies.com_.
-
 Das Bild vom Streckenverlauf habe ich über die Seite GPSies.com
 erstellt, das Kartenmaterial stammt von OpenStreetMap.
-
-.. _GPSies.com: https://www.gpsies.com/map.do?fileId=xkjturbpeiitidbk
