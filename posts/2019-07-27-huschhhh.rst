@@ -8,7 +8,7 @@
 .. type: text
 
 So ein e-Roller ist eine tolle Sache. Klein, schnell, man kann ihn
-überall mit hin nehmen. Leider etwas teuer. Und man muss man eine
+überall mit hin nehmen. Leider etwas teuer. Und man muss eine
 Versicherung dafür abschließen. Außerdem machen der Akku und der e-Motor
 die kleinen Flitzer auch sehr schwer.
 
