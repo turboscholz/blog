@@ -163,6 +163,8 @@
 ./categories/einzelhandel/index.html
 ./categories/emacs.xml
 ./categories/emacs/index.html
+./categories/erde.xml
+./categories/erde/index.html
 ./categories/essen.xml
 ./categories/essen/index.html
 ./categories/fahhrad.xml
@@ -625,6 +627,8 @@
 ./posts/chermoula-bananen-mit-erdnussreis/index.rst
 ./posts/darwins-tulpen/index.html
 ./posts/darwins-tulpen/index.rst
+./posts/das-experiment-erde-ist-ein-scheiss/index.html
+./posts/das-experiment-erde-ist-ein-scheiss/index.rst
 ./posts/das-kiezkaufhaus-in-wiesbaden/index.html
 ./posts/das-kiezkaufhaus-in-wiesbaden/index.rst
 ./posts/dateien-sortieren/index.html
