@@ -207,6 +207,8 @@
 ./categories/geschichte/index.html
 ./categories/gesellschaft.xml
 ./categories/gesellschaft/index.html
+./categories/getraumt.xml
+./categories/getraumt/index.html
 ./categories/google.xml
 ./categories/google/index.html
 ./categories/gutschein.xml
@@ -637,6 +639,8 @@
 ./posts/datenschutz-ist-eine-krankheit/index.rst
 ./posts/ein-auto-weniger/index.html
 ./posts/ein-auto-weniger/index.rst
+./posts/eine-machtige-waffe/index.html
+./posts/eine-machtige-waffe/index.rst
 ./posts/eine-mail-gegen-den-mull/index.html
 ./posts/eine-mail-gegen-den-mull/index.rst
 ./posts/einkaufsgutschein-fur-langen/index.html
