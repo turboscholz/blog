@@ -7,12 +7,12 @@
 .. description: 
 .. type: text
 
-Mein Wort des Jahres kühre ich schon heute. Der Gewinner ist:
+Mein Wort des Jahres küre ich schon heute. Der Gewinner ist:
 
 "**Landregen**"
 
 Kein Wort schaffte es in letzter Zeit besser, meinen Blutdruck in
-Wallung zu bringen. Jedes Mal wenn ich einen Meteorologen im Radio sagen
+Wallung zu bringen. Jedes Mal, wenn ich einen Meteorologen im Radio sagen
 höre "*Deutschlands Bauern und Waldbesitzer hoffen auf einen ausgedehnten Landregen*"
 oder
 "*Was wir jetzt mal wieder bräuchten wäre ein richtig schöner Landregen.*"
@@ -38,7 +38,7 @@ Versorgungsleitungen aus dem Hinterland in Deutsche Großstädte nach
 verlegt (z.B. `Frankfurt/Main <https://www.hessenschau.de/panorama/im-taunus-wird-wegen-duerre-das-trinkwasser-knapp,wassernot-taunus-100.html>`_), um hier die Wasserversorgung
 sicherzustellen. Viele Leute wollen sich am liebsten zweimal täglich
 Duschen: morgens vor der Arbeit und abends nach dem Fitnessstudio. Für
-die Klohspühlung wird natürlich auch frisches Trinkwasser verwendet, und
+die Klospühlung wird natürlich auch frisches Trinkwasser verwendet und
 wenn der Rasen nicht mehr grünt, dann darf er ruhig den ganzen Abend lang
 gewässert werden. Aber wir brauchen Landregen! Grrr!!!
 
