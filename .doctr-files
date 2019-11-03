@@ -85,6 +85,8 @@
 ./categories/cat_diy/index.html
 ./categories/cat_einkaufen.xml
 ./categories/cat_einkaufen/index.html
+./categories/cat_elektroantrieb.xml
+./categories/cat_elektroantrieb/index.html
 ./categories/cat_essen.xml
 ./categories/cat_essen/index.html
 ./categories/cat_fahrrad.xml
@@ -161,6 +163,8 @@
 ./categories/einkaufen/index.html
 ./categories/einzelhandel.xml
 ./categories/einzelhandel/index.html
+./categories/elektroantrieb.xml
+./categories/elektroantrieb/index.html
 ./categories/emacs.xml
 ./categories/emacs/index.html
 ./categories/erde.xml
@@ -288,6 +292,8 @@
 ./categories/pflanzen/index.html
 ./categories/plastik.xml
 ./categories/plastik/index.html
+./categories/post.xml
+./categories/post/index.html
 ./categories/primzahlen.xml
 ./categories/primzahlen/index.html
 ./categories/qr-code.xml
@@ -366,6 +372,8 @@
 ./categories/unterhaltung/index.html
 ./categories/verkehr.xml
 ./categories/verkehr/index.html
+./categories/verkehrswende.xml
+./categories/verkehrswende/index.html
 ./categories/verpackung.xml
 ./categories/verpackung/index.html
 ./categories/verschlusselung.xml
@@ -549,6 +557,8 @@
 ./images/2019-05-26-Schnecke.thumbnail.jpg
 ./images/2019-07-27-Roller.jpg
 ./images/2019-07-27-Roller.thumbnail.jpg
+./images/2019-11-04-Post-Elektro.jpg
+./images/2019-11-04-Post-Elektro.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -695,6 +705,8 @@
 ./posts/im-wasserstoffbus/index.rst
 ./posts/insektenhotel/index.html
 ./posts/insektenhotel/index.rst
+./posts/issenschaftnachrichten-von-vor-25-jahren/index.html
+./posts/issenschaftnachrichten-von-vor-25-jahren/index.rst
 ./posts/kaffee-ohne-einwegverpackung/index.html
 ./posts/kaffee-ohne-einwegverpackung/index.rst
 ./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.html

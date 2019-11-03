@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog (Einträge über Linux)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/linux.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2019 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Wed, 25 Sep 2019 08:29:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Abwechselnde Hintergrund-Bilder beim Linux-Login</title><link>https://turboscholz.github.io/blog/posts/neues-hintergrund-bild-auf-dem-login-bildschirm/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Auf der Festplatte schlummern bei uns mittlerweile so viele Bilder, aber
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mein Blog (Einträge über Linux)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/linux.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2019 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 03 Nov 2019 20:55:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Abwechselnde Hintergrund-Bilder beim Linux-Login</title><link>https://turboscholz.github.io/blog/posts/neues-hintergrund-bild-auf-dem-login-bildschirm/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Auf der Festplatte schlummern bei uns mittlerweile so viele Bilder, aber
 leider finden wir nie Zeit, diese auch mal anzuschauen. Daher habe ich
 mir irgendwann überlegt, beim Starten von Linux jedes mal ein neues,
 zufälliges Login-Hintergrundbild anzeigen zu lassen. Wie das bei der
@@ -10,16 +10,16 @@ sortiert, dann werden zusammenstehende Ziffern als ganze Zahlen
 interpretiert. Dies führt in einem Beispiel zu folgender
 Sortierreihenfolge:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;datei1&lt;/li&gt;
-&lt;li&gt;datei5&lt;/li&gt;
-&lt;li&gt;datei10&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;datei1&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;datei5&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;datei10&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Würden die Dateimanager die Ziffern nicht zu einer Zahl zusammenfassen,
 so erhielte man folgendes Ergebnis:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;datei1&lt;/li&gt;
-&lt;li&gt;datei10&lt;/li&gt;
-&lt;li&gt;datei5&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;datei1&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;datei10&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;datei5&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Beispielsweise verhält sich der Midnight Commander (mc) so.&lt;/p&gt;
 &lt;p&gt;Diesen Umstand sollte man bedenken, wenn man Dateien sortieren möchte,
