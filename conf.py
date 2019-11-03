@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Uwe Scholz"  # (translatable)
-BLOG_TITLE = "Mein Blog"  # (translatable)
+BLOG_TITLE = "Der Gedöns-Blog"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://turboscholz.github.io/blog/"
@@ -26,7 +26,7 @@ SITE_URL = "https://turboscholz.github.io/blog/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "u.scholz83@gmx.de"
-BLOG_DESCRIPTION = "Dies ist mein erster Blog auf GitHub"  # (translatable)
+BLOG_DESCRIPTION = "Dies ist mein persönlicher Blog - über Gedöns"  # (translatable)
 
 # Nikola is multilingual!
 #
