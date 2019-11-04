@@ -17,7 +17,7 @@ Artikel über die Deutsche Post. Der Artikel beginnt so:
 
 Im Artikel wird auf zwei Seiten dargestellt, welche verschiedenen
 Batterie-Technologien es damals gab und welche man in Zukunft bei der
-Post einsetzen wollte. Die Wahl viel damals auf die Zink-Luft-Batterie,
+Post einsetzen wollte. Die Wahl fiel damals auf die Zink-Luft-Batterie,
 die später aber wegen der problematischen Wiederaufladung gegen die
 Streetscooter mit Litium-Ionen-Akkus verloren. Interessant dabei: Die
 Post hat schon vor so langer Zeit erkannt, dass die Reparatur und
