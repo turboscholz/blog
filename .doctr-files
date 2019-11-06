@@ -75,6 +75,8 @@
 ./categories/cat_ausflug/index.html
 ./categories/cat_backen.xml
 ./categories/cat_backen/index.html
+./categories/cat_basteln.xml
+./categories/cat_basteln/index.html
 ./categories/cat_buch.xml
 ./categories/cat_buch/index.html
 ./categories/cat_computer.xml
@@ -559,6 +561,8 @@
 ./images/2019-07-27-Roller.thumbnail.jpg
 ./images/2019-11-04-Post-Elektro.jpg
 ./images/2019-11-04-Post-Elektro.thumbnail.jpg
+./images/2019-11-06-Mausreparatur.jpg
+./images/2019-11-06-Mausreparatur.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -739,6 +743,8 @@
 ./posts/licht-im-geschlossenen-kuhlschrank/index.rst
 ./posts/manjaro-linux/index.html
 ./posts/manjaro-linux/index.rst
+./posts/mausreparatur-per-lotkolben/index.html
+./posts/mausreparatur-per-lotkolben/index.rst
 ./posts/mein-schonster-radmoment-2018/index.html
 ./posts/mein-schonster-radmoment-2018/index.rst
 ./posts/meine-erste-cryptoparty/index.html
