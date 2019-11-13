@@ -17,13 +17,13 @@ Meine Meinung ist gespalten. An sich finde ich das Experiment für einen
 Film ganz reizvoll, aber die Umsetzung... Hach, ich weiß nicht. Ich
 hatte die ganze Zeit das Gefühl, dass sich die Figuren nur des Films
 wegen auf dieses Experiment einließen. Irgendwie wirkte alles sehr
-gestellt. Auch die kleinen Sticheleien der "Freunde" untereinander,
+gestellt. Auch die kleinen Sticheleien der "Freunde" untereinander
 wirkten, als ob es sich hier keinesfalls um echte Freunde handelte. Ich
 würde mich beim Essen mit Freunden niemals so angiften.
 
 Richtig dreckig wurde es auch nicht, sondern es lief doch "nur" auf eine
 Beziehungskiste hinaus. Hmmmm. Also, man hätte hier echt mehr daraus
-machen können (wie z.B. bei "Der Vorname_") Aber ich bin ja kein
+machen können (wie z.B. bei "Der Vorname_"). Aber ich bin ja kein
 Regisseur und Drehbuchautor... ^_^
 
 Hier geht's zum Trailer_.
