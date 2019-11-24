@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2019 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Wed, 13 Nov 2019 20:45:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Kino: Das perfekte Geheimnis</title><link>https://turboscholz.github.io/blog/posts/kino-das-perfekte-geheimnis/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen haben wir &lt;strong&gt;Das perfekte Geheimnis&lt;/strong&gt; im Kino
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2019 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 24 Nov 2019 18:54:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Rätsel-Wochenende mit Kuchen</title><link>https://turboscholz.github.io/blog/posts/ratsel-wochenende-mit-kuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Wochenende war absolut unspektakulär. Meine Frau musste leider
+beide Tage arbeiten. So habe ich sie mit Pizza und Kuchen versorgt,
+damit sie die Tage übersteht, abends gab es dann einen
+Möhren-Apfel-Salat, für das gute Gewissen und so...&lt;/p&gt;
+&lt;img alt="/images/2019-11-24-NusskuchenOhneMehl.jpg" src="https://turboscholz.github.io/blog/images/2019-11-24-NusskuchenOhneMehl.jpg"&gt;
+&lt;p&gt;Der Kuchen ist ziemlich lecker und war recht einfach zuzubereiten. Wir
+hatten noch ganze Walnüsse und Pistazien, die habe ich grob gehackt und
+unter den Teig gemischt. Das Ergebnis ist sehr lecker und schön saftig.
+Das Original-Rezept findet ihr auf &lt;a class="reference external" href="https://www.lecker.de/saftiger-nusskuchen-ohne-mehl-so-einfach-gehts-75202.html"&gt;lecker.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Außerdem war in der aktuellen Wochenendausgabe der Frankfurter Rundschau
+wieder ein &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Kakuro"&gt;Kakuro&lt;/a&gt;-Rätsel dabei. Sehr schön. Langsam aber sicher
+verstehe ich, wie man die löst. Das macht noch mehr Spaß, als Sudoku zu
+lösen.&lt;/p&gt;
+&lt;img alt="/images/2019-11-24-Kakuro.jpg" src="https://turboscholz.github.io/blog/images/2019-11-24-Kakuro.jpg"&gt;
+&lt;p&gt;Mein Leben ist so aufregend. 😄&lt;/p&gt;&lt;/div&gt;</description><category>Backen</category><category>Freizeit</category><category>Hobby</category><guid>https://turboscholz.github.io/blog/posts/ratsel-wochenende-mit-kuchen/</guid><pubDate>Sun, 24 Nov 2019 18:21:15 GMT</pubDate></item><item><title>Kino: Das perfekte Geheimnis</title><link>https://turboscholz.github.io/blog/posts/kino-das-perfekte-geheimnis/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen haben wir &lt;strong&gt;Das perfekte Geheimnis&lt;/strong&gt; im Kino
 geschaut. Ich bin ganz unvoreingenommen in die Vorstellung spaziert, da
 ich nur ein einziges Mal den Trailer gesehen habe, und das auch gar
 nicht mit voller Aufmerksamkeit. Meine Frau wollte den Film unbedingt
@@ -111,10 +125,4 @@ gewässert werden. Aber wir brauchen Landregen! Grrr!!!&lt;/p&gt;
 &lt;p&gt;Und wenn es dann einmal wirklich beginnt zu regnen, dann wird sich
 beklagt, dass das Wetter schlecht ist... Es wäre schön, wenn im
 Wetterbericht den Leuten gesagt werden würde, sie sollen Wasser sparen,
-anstatt einen Landregen herbeizubeten.&lt;/p&gt;&lt;/div&gt;</description><category>Gedanken</category><category>Trockenheit</category><category>Wetter</category><category>Wetterbericht</category><guid>https://turboscholz.github.io/blog/posts/landregen/</guid><pubDate>Wed, 01 May 2019 20:57:07 GMT</pubDate></item><item><title>Entfernungsangaben</title><link>https://turboscholz.github.io/blog/posts/entfernungsangaben/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Zwei Frauen unterhalten sich im Zug. "Und wie weit musst Du jetzt bis zu
-Deiner neuen Arbeit fahren?" "Hm, die Strecke ist recht kurz, ungefähr,
-... also, nach einem Song bin ich schon da."&lt;/p&gt;
-&lt;p&gt;Früher war unsere Zugreise quer durch Deutschland zwei Frankfurter
-Rundschauen lang. Heute können wir uns ein ICE-Ticket leisten, damit
-verkürzte sich die Reisezeit auf genau eine Frankfurter Rundschau und
-ich hoffe, die Bahn wird nicht noch schneller. ☺&lt;/p&gt;&lt;/div&gt;</description><category>Reisen</category><category>Sonstiges</category><guid>https://turboscholz.github.io/blog/posts/entfernungsangaben/</guid><pubDate>Mon, 18 Mar 2019 07:44:09 GMT</pubDate></item></channel></rss>
+anstatt einen Landregen herbeizubeten.&lt;/p&gt;&lt;/div&gt;</description><category>Gedanken</category><category>Trockenheit</category><category>Wetter</category><category>Wetterbericht</category><guid>https://turboscholz.github.io/blog/posts/landregen/</guid><pubDate>Wed, 01 May 2019 20:57:07 GMT</pubDate></item></channel></rss>
