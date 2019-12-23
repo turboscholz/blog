@@ -392,6 +392,8 @@
 ./categories/wandern/index.html
 ./categories/wasserstoff.xml
 ./categories/wasserstoff/index.html
+./categories/weihnachten.xml
+./categories/weihnachten/index.html
 ./categories/werbung.xml
 ./categories/werbung/index.html
 ./categories/wetter.xml
@@ -555,6 +557,10 @@
 ./images/2019-11-24-Kakuro.thumbnail.jpg
 ./images/2019-11-24-NusskuchenOhneMehl.jpg
 ./images/2019-11-24-NusskuchenOhneMehl.thumbnail.jpg
+./images/2019-12-01-Bratapfelkaesekuchen.jpg
+./images/2019-12-01-Bratapfelkaesekuchen.thumbnail.jpg
+./images/2019-12-08-Quarkstollen.jpg
+./images/2019-12-08-Quarkstollen.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -812,6 +818,8 @@
 ./posts/warum-gehe-ich-noch-einkaufen/index.rst
 ./posts/warum-ich-mein-twitter-konto-schliesse/index.html
 ./posts/warum-ich-mein-twitter-konto-schliesse/index.rst
+./posts/weihnachtsbackerei-2019/index.html
+./posts/weihnachtsbackerei-2019/index.rst
 ./posts/wetterpark-offenbach/index.html
 ./posts/wetterpark-offenbach/index.rst
 ./posts/wir-brauchen-eine-mittlere-katastrophe/index.html
