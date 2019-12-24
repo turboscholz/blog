@@ -23,8 +23,8 @@ diesen ultraleckeren Bratapfel-Käsekuchen gebacken. Hmmiammm!!! Ich
 hatte Lust auf einen Apfelkuchen, meine Frau war aber schon in
 Weihnachtsstimmung. Daher kam uns dieses Kuchenrezept gerade recht. In
 der Quarkfüllung ist Karamellsirup und Zimt drinne, und drunter liegen
-vorgebackene Elstar-Äpfel. Open drauf krönen den Kuchen geröstete
-Mandeln, gebratene Apfelscheiben und Puderzucker. Himmlisch! 😋
+vorgebackene Elstar-Äpfel. Oben drauf krönen den Kuchen geröstete
+Mandeln, gebratene Apfelscheibchen und Puderzucker. Himmlisch! 😋
 
 .. image:: /images/2019-12-01-Bratapfelkaesekuchen.jpg
 
