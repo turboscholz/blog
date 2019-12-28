@@ -49,6 +49,8 @@
 ./categories/auto/index.html
 ./categories/backen.xml
 ./categories/backen/index.html
+./categories/banking.xml
+./categories/banking/index.html
 ./categories/basteln.xml
 ./categories/basteln/index.html
 ./categories/baumarkt.xml
@@ -103,6 +105,8 @@
 ./categories/cat_garten/index.html
 ./categories/cat_gelesen.xml
 ./categories/cat_gelesen/index.html
+./categories/cat_geschaftliches.xml
+./categories/cat_geschaftliches/index.html
 ./categories/cat_gesellschaft.xml
 ./categories/cat_gesellschaft/index.html
 ./categories/cat_haushalt.xml
@@ -812,6 +816,8 @@
 ./posts/teichfroschkonzert/index.rst
 ./posts/tour-zum-goetheturm/index.html
 ./posts/tour-zum-goetheturm/index.rst
+./posts/tschuess-sparkasse-leipzig/index.html
+./posts/tschuess-sparkasse-leipzig/index.rst
 ./posts/unser-krauter-hochbeet/index.html
 ./posts/unser-krauter-hochbeet/index.rst
 ./posts/unsere-feldahorn-hecke/index.html
