@@ -7,7 +7,7 @@
 .. description: 
 .. type: text 
 
-Für kleine Unternehmen ist Kundenbindung im Internet sehr wichtig, aber keine einfache Aufgabe. In dem interessanten Artikel vom BIEG Hessen über `Tante Emmas Facebook Page <https://www.bieg-hessen.de/blog/online-marketing/tante-emmas-facebook-page-kundenbindung-im-internet/`>_ werden interessante und wichtige Tipps für Unternehmen gegeben, die sich diesen Schritt ins soziale Netz überlegen. 
+Für kleine Unternehmen ist Kundenbindung im Internet sehr wichtig, aber keine einfache Aufgabe. In dem interessanten Artikel vom BIEG Hessen über `Tante Emmas Facebook Page <https://www.bieg-hessen.de/blog/online-marketing/tante-emmas-facebook-page-kundenbindung-im-internet/>`_ werden interessante und wichtige Tipps für Unternehmen gegeben, die sich diesen Schritt ins soziale Netz überlegen. 
 
 In unserer Stadt gibt es leider genug Geschäfte, die schon bei der Gestaltung ihrer Schaufenster einiges an Nachhilfe-Unterricht benötigen. Neben `defekten Tastaturen </posts/so-eine-tastatur-wollen-sie-hammernich/>`_ in der Auslage im IT-Geschäft gibt es andere, bei denen die Werbung auf selbstbeschriebenen DIN-A4 Zetteln ins Fenster gehängt wird. Schönschrift? Kommt nicht in Frage. Hübsche Verzierungen? Denkste! Jeden Tag, an dem ich dort vorbei laufe, schüttelt es mich. Da können die Produkte noch so hochwertig sein, wenn das Schaufenster lieblos gestaltet ist, hat der Laden für mich verloren. In so einem Fall sollten die Ladenbesitzer eine eigene Internet- bzw. Facebookseite erst mal ganz nach hinten stellen. 
 
