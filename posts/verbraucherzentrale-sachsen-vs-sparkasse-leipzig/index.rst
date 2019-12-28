@@ -1,7 +1,7 @@
 .. title: Verbraucherzentrale vs Sparkasse Leipzig
 .. slug: verbraucherzentrale-sachsen-vs-sparkasse-leipzig
 .. date: 2016-06-02 15:00:00 UTC+01:00
-.. tags: Banking, Kundenbindung, Daten
+.. tags: Banking, Kundenbindung, Datenschutz, Bonusprogramm
 .. category: Geschäftliches
 .. link: 
 .. description: 

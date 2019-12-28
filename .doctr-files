@@ -67,6 +67,8 @@
 ./categories/blogs/index.html
 ./categories/blumen.xml
 ./categories/blumen/index.html
+./categories/bonusprogramm.xml
+./categories/bonusprogramm/index.html
 ./categories/borse.xml
 ./categories/borse/index.html
 ./categories/buch.xml
@@ -159,8 +161,6 @@
 ./categories/computer/index.html
 ./categories/cryptoparty.xml
 ./categories/cryptoparty/index.html
-./categories/daten.xml
-./categories/daten/index.html
 ./categories/datenschutz.xml
 ./categories/datenschutz/index.html
 ./categories/deftig.xml
