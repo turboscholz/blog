@@ -51,6 +51,8 @@
 ./categories/backen/index.html
 ./categories/basteln.xml
 ./categories/basteln/index.html
+./categories/baumarkt.xml
+./categories/baumarkt/index.html
 ./categories/bayern.xml
 ./categories/bayern/index.html
 ./categories/beamer.xml
@@ -195,6 +197,8 @@
 ./categories/frankfurt/index.html
 ./categories/freizeit.xml
 ./categories/freizeit/index.html
+./categories/gardine.xml
+./categories/gardine/index.html
 ./categories/garten.xml
 ./categories/garten/index.html
 ./categories/gebacken.xml
@@ -648,6 +652,8 @@
 ./posts/fisch-am-freitag/index.rst
 ./posts/frau-muller-muss-weg/index.html
 ./posts/frau-muller-muss-weg/index.rst
+./posts/gardine-aus-dem-baumarkt/index.html
+./posts/gardine-aus-dem-baumarkt/index.rst
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.html
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.rst
 ./posts/gelesen-aussenseiter-in-der-wissenschaft/index.html
