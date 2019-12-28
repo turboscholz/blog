@@ -260,6 +260,8 @@
 ./categories/kuchen/index.html
 ./categories/kultur.xml
 ./categories/kultur/index.html
+./categories/kundenbindung.xml
+./categories/kundenbindung/index.html
 ./categories/langen.xml
 ./categories/langen/index.html
 ./categories/lesen.xml
@@ -330,6 +332,8 @@
 ./categories/sachsen/index.html
 ./categories/sarkasmus.xml
 ./categories/sarkasmus/index.html
+./categories/schaufenster.xml
+./categories/schaufenster/index.html
 ./categories/sciencefiction.xml
 ./categories/sciencefiction/index.html
 ./categories/scrabble.xml
@@ -802,6 +806,8 @@
 ./posts/stolpersteine-in-langen/index.rst
 ./posts/stuss-shit-und-andere-tolle-worter/index.html
 ./posts/stuss-shit-und-andere-tolle-worter/index.rst
+./posts/tante-emmas-schaufenster/index.html
+./posts/tante-emmas-schaufenster/index.rst
 ./posts/teichfroschkonzert/index.html
 ./posts/teichfroschkonzert/index.rst
 ./posts/tour-zum-goetheturm/index.html
