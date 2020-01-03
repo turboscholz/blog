@@ -364,6 +364,8 @@
 ./categories/spiel/index.html
 ./categories/spiele.xml
 ./categories/spiele/index.html
+./categories/stationarer-handel.xml
+./categories/stationarer-handel/index.html
 ./categories/technik.xml
 ./categories/technik/index.html
 ./categories/techniktagebuch.xml
@@ -479,6 +481,8 @@
 ./images/2015-07-07-Kuechenumbau-2.thumbnail.jpg
 ./images/2015-07-12-Amsel.jpg
 ./images/2015-07-12-Amsel.thumbnail.jpg
+./images/2015-09-08-SonyKamera.jpg
+./images/2015-09-08-SonyKamera.thumbnail.jpg
 ./images/2015-09-13-manjaro.png
 ./images/2015-09-13-manjaro.thumbnail.png
 ./images/2015-09-19-Hackfleischbaellchen.jpg
@@ -698,6 +702,8 @@
 ./posts/issenschaftnachrichten-von-vor-25-jahren/index.rst
 ./posts/kaffee-ohne-einwegverpackung/index.html
 ./posts/kaffee-ohne-einwegverpackung/index.rst
+./posts/kamera-zubehor-kann-man-das-auch-offline-kaufen/index.html
+./posts/kamera-zubehor-kann-man-das-auch-offline-kaufen/index.rst
 ./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.html
 ./posts/kartoffeleintopf-mit-pumpernickel-croutons/index.rst
 ./posts/kino-das-perfekte-geheimnis/index.html
