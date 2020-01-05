@@ -59,6 +59,8 @@
 ./categories/bayern/index.html
 ./categories/beamer.xml
 ./categories/beamer/index.html
+./categories/becherbonus.xml
+./categories/becherbonus/index.html
 ./categories/bilder.xml
 ./categories/bilder/index.html
 ./categories/blog.xml
@@ -203,6 +205,8 @@
 ./categories/flughafen/index.html
 ./categories/frankfurt.xml
 ./categories/frankfurt/index.html
+./categories/frankfurter-rundschau.xml
+./categories/frankfurter-rundschau/index.html
 ./categories/freizeit.xml
 ./categories/freizeit/index.html
 ./categories/gardine.xml
@@ -254,6 +258,8 @@
 ./categories/insekten/index.html
 ./categories/internet.xml
 ./categories/internet/index.html
+./categories/kaffee.xml
+./categories/kaffee/index.html
 ./categories/kino.xml
 ./categories/kino/index.html
 ./categories/klima.xml
@@ -505,6 +511,8 @@
 ./images/2016-01-27-Laden-Kitzscher-4.thumbnail.jpg
 ./images/2016-01-27-Laden-Kitzscher-5.jpg
 ./images/2016-01-27-Laden-Kitzscher-5.thumbnail.jpg
+./images/2016-04-20-Kaffeebecher.jpg
+./images/2016-04-20-Kaffeebecher.thumbnail.jpg
 ./images/2016-05-08-Kraeuterhochbeet.jpg
 ./images/2016-05-08-Kraeuterhochbeet.thumbnail.jpg
 ./images/2016-05-16-Eintopf.jpg
@@ -628,6 +636,8 @@
 ./posts/aufraumen-zum-jahresende/index.rst
 ./posts/ausflug-zum-keltenmuseum/index.html
 ./posts/ausflug-zum-keltenmuseum/index.rst
+./posts/becherbonus/index.html
+./posts/becherbonus/index.rst
 ./posts/besuch-im-technikmuseum-speyer/index.html
 ./posts/besuch-im-technikmuseum-speyer/index.rst
 ./posts/besuch-von-der-amsel/index.html
