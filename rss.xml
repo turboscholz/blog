@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 05 Jan 2020 17:34:12 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Weihnachtsbäckerei 2019</title><link>https://turboscholz.github.io/blog/posts/weihnachtsbackerei-2019/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Jahr haben wir das erste Mal einen (Quark-)Stollen gebacken. Das
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 06 Jan 2020 23:13:27 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Programmtipp: KeePassXC</title><link>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen bin ich auf den Passwortmanager &lt;a class="reference external" href="https://keepassxc.org/"&gt;KeePassXC&lt;/a&gt; umgestiegen. Der Auslöser war, das der vorher
+verwendete Passwort(PW)-Manager von meiner Linux-Distribution nicht mehr
+angeboten wurde.&lt;/p&gt;
+&lt;img alt="Startfenster von KeePassXC, hier in Englischer Sprache" src="https://turboscholz.github.io/blog/images/2020-01-06-KeePassXC.png"&gt;
+&lt;p&gt;Screenshot vom KeePassXC-Startfenster, hier in Englischer Sprache, Quelle:
+KeePassXC Homepage&lt;/p&gt;
+&lt;div class="section" id="warum-habe-ich-mich-fur-keepassxc-entschieden"&gt;
+&lt;h2&gt;Warum habe ich mich für KeePassXC entschieden?&lt;/h2&gt;
+&lt;p&gt;Weil es ein OpenSource offline-Passwortmanager ist, der aktiv entwickelt
+wird und nette Features mitbringt. Wichtig ist mir zum Beispiel die
+Auto-Fill-Option mit der man durch eine Tastenkombination (Strg-Shift-V)
+den Benutzernamen und das Passwort auf einer Internetseite ausfüllen
+lassen kann. Wie bei vielen anderen PW-Managern gibt es einen
+Passwort-Generator und man kann die Passwörter in Kategorien
+einsortieren.&lt;/p&gt;
+&lt;p&gt;Sehr schön ist auch, dass man im unteren Bereich die Informationen zu
+einem Account direkt sieht, ohne ihn extra aufklappen zu müssen.
+Einfaches Anklicken reicht. Und man kann sehr einfach nach einem Account
+suchen, indem man oben in der Suchleiste einen Begriff, beispielsweise
+den Namen der Hausbank, eintippt. Dann werden automatisch nur noch die
+Accounts angezeigt, die dem Suchbegriff entsprechen.&lt;/p&gt;
+&lt;p&gt;Ebenso ein nettes Feature: Das Programm existiert sowohl für Linux, als
+auch für macOS und Windows.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="wie-bin-ich-zu-keepassxc-gewechselt"&gt;
+&lt;h2&gt;Wie bin ich zu KeePassXC gewechselt?&lt;/h2&gt;
+&lt;p&gt;Da KeePassXC nur wenige Dateiformate versteht, von denen man Passwörter
+importieren kann, habe ich zunächst das original, &lt;a class="reference external" href="https://keepass.info/"&gt;KeePass&lt;/a&gt; installiert und die Passwörter in meinem alten
+PW-Manager in eine unverschlüsselte Textdatei exportiert. Diese Datei
+habe ich nicht auf die Festplatte, sondern unter &lt;code class="docutils literal"&gt;/dev/shm&lt;/code&gt;
+gespeichert, einem Bereich, der nur im Arbeitsspeicher des Rechners
+existiert. So bleiben nach einem Reboot des Rechners keine
+unverschlüsselten Passwörter auf der Festplatte zurück. Diese Datei habe
+ich dann mit KeePass importiert und als &lt;code class="docutils literal"&gt;.kdbx&lt;/code&gt; Datei verschlüsselt
+gespeichert. Dies ist das normale KeePass-Format und kann auch von
+KeePassXC gelesen werden.&lt;/p&gt;
+&lt;p&gt;Damit war der Umzug auch schon fast abgeschlossen. Ich musste allerdings
+noch ein paar kleinere Korrekturen in KeePassXC vornehmen, da der Import
+nicht immer fehlerfrei geklappt hat. Aber zeitsparender, als alle
+Accounts manuell zu übernehmen, war es allemal.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>KeePassXC</category><category>Linux</category><category>Passwörter</category><category>Programm</category><category>Sicherheit</category><guid>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</guid><pubDate>Mon, 06 Jan 2020 15:16:18 GMT</pubDate></item><item><title>Weihnachtsbäckerei 2019</title><link>https://turboscholz.github.io/blog/posts/weihnachtsbackerei-2019/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Jahr haben wir das erste Mal einen (Quark-)Stollen gebacken. Das
 Rezept für diesen haben wir aus einem Backbuch meiner Mutter. Und das
 haben wir auch nur ausgewählt, weil es wirklich ganz einfach war, man
 brauchte nur alle Zutaten zusammenschütten und kneten (lassen). Das
@@ -109,7 +149,4 @@ Bergstraße.&lt;/p&gt;
 vielen schattigen Waldwegen, bis wir schließlich an der Starkenburg
 ankamen. Der Ausblick vom dortigen Biergarten auf die Stadt und auf den
 Kuchen entschädigt für die zurückligenden 20 Kilomenter. 😊&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Natur</category><category>Odenwald</category><category>Wandern</category><guid>https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/</guid><pubDate>Sun, 02 Jun 2019 17:22:30 GMT</pubDate></item><item><title>Stuss, Shit, und andere tolle Wörter</title><link>https://turboscholz.github.io/blog/posts/stuss-shit-und-andere-tolle-worter/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor kurzem haben wir endlich wieder einmal eine Runde Scrabble gespielt.
-Die gelegten Wörter waren, naja, teilweise unter der Gürtellinie.
-hüstel, hüstel&lt;/p&gt;
-&lt;img alt="/images/2019-05-05-Scrabble.jpg" src="https://turboscholz.github.io/blog/images/2019-05-05-Scrabble.jpg"&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Scrabble</category><category>Spiele</category><guid>https://turboscholz.github.io/blog/posts/stuss-shit-und-andere-tolle-worter/</guid><pubDate>Sun, 02 Jun 2019 11:06:31 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Natur</category><category>Odenwald</category><category>Wandern</category><guid>https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/</guid><pubDate>Sun, 02 Jun 2019 17:22:30 GMT</pubDate></item></channel></rss>

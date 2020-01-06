@@ -123,6 +123,8 @@
 ./categories/cat_kuchen/index.html
 ./categories/cat_kultur.xml
 ./categories/cat_kultur/index.html
+./categories/cat_linux.xml
+./categories/cat_linux/index.html
 ./categories/cat_lustiges.xml
 ./categories/cat_lustiges/index.html
 ./categories/cat_mull.xml
@@ -260,6 +262,8 @@
 ./categories/internet/index.html
 ./categories/kaffee.xml
 ./categories/kaffee/index.html
+./categories/keepassxc.xml
+./categories/keepassxc/index.html
 ./categories/kino.xml
 ./categories/kino/index.html
 ./categories/klima.xml
@@ -312,6 +316,8 @@
 ./categories/offline/index.html
 ./categories/ostwest.xml
 ./categories/ostwest/index.html
+./categories/passworter.xml
+./categories/passworter/index.html
 ./categories/pflanzen.xml
 ./categories/pflanzen/index.html
 ./categories/plastik.xml
@@ -320,6 +326,8 @@
 ./categories/post/index.html
 ./categories/primzahlen.xml
 ./categories/primzahlen/index.html
+./categories/programm.xml
+./categories/programm/index.html
 ./categories/qr-code.xml
 ./categories/qr-code/index.html
 ./categories/quitten.xml
@@ -354,6 +362,8 @@
 ./categories/scrabble/index.html
 ./categories/shopping.xml
 ./categories/shopping/index.html
+./categories/sicherheit.xml
+./categories/sicherheit/index.html
 ./categories/smartphone.xml
 ./categories/smartphone/index.html
 ./categories/sneakpreview.xml
@@ -601,6 +611,8 @@
 ./images/2019-12-01-Bratapfelkaesekuchen.thumbnail.jpg
 ./images/2019-12-08-Quarkstollen.jpg
 ./images/2019-12-08-Quarkstollen.thumbnail.jpg
+./images/2020-01-06-KeePassXC.png
+./images/2020-01-06-KeePassXC.thumbnail.png
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -788,6 +800,8 @@
 ./posts/one-piece-a-day/index.rst
 ./posts/papaya-spinat-cocktail/index.html
 ./posts/papaya-spinat-cocktail/index.rst
+./posts/programmtipp-keepassxc/index.html
+./posts/programmtipp-keepassxc/index.rst
 ./posts/qr-code-topflappen/index.html
 ./posts/qr-code-topflappen/index.rst
 ./posts/quark-streuselkuchen/index.html
