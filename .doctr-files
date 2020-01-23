@@ -1,3 +1,4 @@
+./2020-01-23-Blume.wav
 ./archive.html
 ./assets/css/all-nocdn.css
 ./assets/css/all.css
@@ -33,6 +34,8 @@
 ./categories/amsel/index.html
 ./categories/app.xml
 ./categories/app/index.html
+./categories/apps.xml
+./categories/apps/index.html
 ./categories/arbeit.xml
 ./categories/arbeit/index.html
 ./categories/artenschutz.xml
@@ -324,6 +327,8 @@
 ./categories/plastik/index.html
 ./categories/post.xml
 ./categories/post/index.html
+./categories/postcrossing.xml
+./categories/postcrossing/index.html
 ./categories/primzahlen.xml
 ./categories/primzahlen/index.html
 ./categories/programm.xml
@@ -384,6 +389,8 @@
 ./categories/spiel/index.html
 ./categories/spiele.xml
 ./categories/spiele/index.html
+./categories/sstv.xml
+./categories/sstv/index.html
 ./categories/stationarer-handel.xml
 ./categories/stationarer-handel/index.html
 ./categories/technik.xml
@@ -613,6 +620,8 @@
 ./images/2019-12-08-Quarkstollen.thumbnail.jpg
 ./images/2020-01-06-KeePassXC.png
 ./images/2020-01-06-KeePassXC.thumbnail.png
+./images/2020-01-23-Blume.png
+./images/2020-01-23-Blume.thumbnail.png
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -622,6 +631,7 @@
 ./index-10.html
 ./index-11.html
 ./index-12.html
+./index-13.html
 ./index-2.html
 ./index-3.html
 ./index-4.html
@@ -674,6 +684,8 @@
 ./posts/dateien-sortieren/index.rst
 ./posts/datenschutz-ist-eine-krankheit/index.html
 ./posts/datenschutz-ist-eine-krankheit/index.rst
+./posts/die-beste-postkarte-der-welt/index.html
+./posts/die-beste-postkarte-der-welt/index.rst
 ./posts/ein-auto-weniger/index.html
 ./posts/ein-auto-weniger/index.rst
 ./posts/eine-machtige-waffe/index.html

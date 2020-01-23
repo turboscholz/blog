@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Freizeit)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_freizeit.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 06 Jan 2020 23:13:27 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Rätsel-Wochenende mit Kuchen</title><link>https://turboscholz.github.io/blog/posts/ratsel-wochenende-mit-kuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Wochenende war absolut unspektakulär. Meine Frau musste leider
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Freizeit)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_freizeit.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Thu, 23 Jan 2020 21:53:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Die beste Postkarte der Welt</title><link>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Am vergangenen Wochenende haben wir die allerbeste Postkarte über
+&lt;a class="reference external" href="https://www.postcrossing.com"&gt;postcrossing.com&lt;/a&gt; erhalten, die es gibt.&lt;/p&gt;
+&lt;p&gt;Diese Karte haben wir von Eugene aus Minsk zugeschickt bekommen. Eugene
+hat auf diese einen NFC-Tag geklebt - was schon echt sensationell ist!
+Als wir diesen Tag mit dem Smartphone eingescannt hatten, wurden wir zu
+diesem &lt;a class="reference external" href="https://www.youtube.com/watch?v=hGJGqYtPgMo"&gt;Youtube-Video&lt;/a&gt;
+gleitet.&lt;/p&gt;
+&lt;p&gt;In diesem Video sieht man Eugene, wie er in der Minsker Winternacht zum
+31.12.2019 mit einem Funkempfänger in der Kälte steht und SSTV-Signale
+&lt;a class="footnote-reference brackets" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#id2" id="id1"&gt;1&lt;/a&gt; von der ISS empfängt. Wow. Diese Signale hat er netterweise direkt
+auf die Tonspur des Videos gelegt (ab Sekunde 37). Klingt abgefahren,
+wie eine Art Musik, aber dann doch wieder nicht.&lt;/p&gt;
+&lt;p&gt;Und was macht man nun mit diesen Signalen? Das haben wir uns auch
+gefragt. Aber dann hat Eugene es uns erklärt: Man lade sich die App
+&lt;code class="docutils literal"&gt;robot36&lt;/code&gt; aufs Android-Handy (und erlaubt Zugriff auf den Speicher und
+das Mikrofon, ansonsten funktioniert es nicht), und dann startet man
+diese App. Sie aktiviert das Mikrofon, nimmt das Gepiepe aus dem Video
+auf und wandelt diese Signale sogleich in ein Bild um. Und es
+funktioniert! Genial!!!&lt;/p&gt;
+&lt;p&gt;Und weil das so genial ist, habe ich auch gleich mal selbst einen &lt;a class="reference external" href="https://turboscholz.github.io/blog/2020-01-23-Blume.wav"&gt;Ton&lt;/a&gt;
+erstellt, der diesem Bild hier zugrunde liegt:&lt;/p&gt;
+&lt;img alt="Ein selbst erstelltes Bild. :-D" src="https://turboscholz.github.io/blog/images/2020-01-23-Blume.png"&gt;
+&lt;p&gt;Wer die Wav-Datei abspielt und dazu &lt;code class="docutils literal"&gt;robot36&lt;/code&gt; laufen lässt, kann
+sehen, wie sich dieses Bild auf dem Handy-Display aufbaut. Klasse, oder? 🤓&lt;/p&gt;
+&lt;dl class="footnote brackets"&gt;
+&lt;dt class="label" id="id2"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#id1"&gt;1&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Slow Scan Television - &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Slow_Scan_Television"&gt;https://de.wikipedia.org/wiki/Slow_Scan_Television&lt;/a&gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;&lt;/div&gt;</description><category>Apps</category><category>Freizeit</category><category>Postcrossing</category><category>SSTV</category><category>Technik</category><guid>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</guid><pubDate>Mon, 20 Jan 2020 21:47:55 GMT</pubDate></item><item><title>Rätsel-Wochenende mit Kuchen</title><link>https://turboscholz.github.io/blog/posts/ratsel-wochenende-mit-kuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Wochenende war absolut unspektakulär. Meine Frau musste leider
 beide Tage arbeiten. So habe ich sie mit Pizza und Kuchen versorgt,
 damit sie die Tage übersteht, abends gab es dann einen
 Möhren-Apfel-Salat, für das gute Gewissen und so...&lt;/p&gt;
@@ -86,14 +114,4 @@ zurück nach Hetzbach.&lt;/p&gt;
 &lt;p&gt;Unterwegs haben wir den ältesten und besterhaltenen Galgen in
 Deutschland gesehen: &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Beerfelder_Galgen"&gt;https://de.wikipedia.org/wiki/Beerfelder_Galgen&lt;/a&gt;.
 Die letzte Hinrichtung fand dort 1804 statt.&lt;/p&gt;
-&lt;img alt="/images/2014-09-14-Odenwaldwanderung.jpg" src="https://turboscholz.github.io/blog/images/2014-09-14-Odenwaldwanderung.jpg"&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Hessen</category><category>Odenwald</category><category>Wandern</category><guid>https://turboscholz.github.io/blog/posts/wanderung-im-odenwald/</guid><pubDate>Sat, 20 Sep 2014 19:33:59 GMT</pubDate></item><item><title>Sieht nach Regen aus...</title><link>https://turboscholz.github.io/blog/posts/sieht-nach-regen-aus/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;... soll aber Kaffee sein!&lt;/p&gt;
-&lt;p&gt;Heute haben wir seit langem wieder den Altstadtmarkt in Langen besucht
-und zum ersten Mal die Pilzpfanne mit Semmelknödel des hiesigen
-Pilzverkäufers probiert. Fazit: Sehr lecker. Aber auch die Rostbratwurst
-war wieder super. Außerdem haben wir noch super-knackige Gurken vom
-lokalen Bauern gekauft, die den Tag nicht lange überstanden. Miam!&lt;/p&gt;
-&lt;p&gt;Der kurze Regenschauer (siehe Foto) tat der guten Stimmung unter den
-Marktbesuchern (denen der Wein auch heute wieder zu schmecken schien)
-keinen Abbruch. Viele zückten die Regenschirme und -capes: So konnte das
-"Gebabbel" weitergeh'n...&lt;/p&gt;
-&lt;img alt="/images/2014-08-16-Kaffee.jpg" src="https://turboscholz.github.io/blog/images/2014-08-16-Kaffee.jpg"&gt;&lt;/div&gt;</description><category>Ausgehen</category><category>Freizeit</category><category>Wetter</category><guid>https://turboscholz.github.io/blog/posts/sieht-nach-regen-aus/</guid><pubDate>Sat, 16 Aug 2014 18:14:26 GMT</pubDate></item></channel></rss>
+&lt;img alt="/images/2014-09-14-Odenwaldwanderung.jpg" src="https://turboscholz.github.io/blog/images/2014-09-14-Odenwaldwanderung.jpg"&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Hessen</category><category>Odenwald</category><category>Wandern</category><guid>https://turboscholz.github.io/blog/posts/wanderung-im-odenwald/</guid><pubDate>Sat, 20 Sep 2014 19:33:59 GMT</pubDate></item></channel></rss>
