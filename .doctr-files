@@ -118,6 +118,8 @@
 ./categories/cat_gesellschaft/index.html
 ./categories/cat_haushalt.xml
 ./categories/cat_haushalt/index.html
+./categories/cat_internet.xml
+./categories/cat_internet/index.html
 ./categories/cat_kino.xml
 ./categories/cat_kino/index.html
 ./categories/cat_kritisches.xml
@@ -423,6 +425,8 @@
 ./categories/verkehrswende/index.html
 ./categories/verpackung.xml
 ./categories/verpackung/index.html
+./categories/verschenkmarkt.xml
+./categories/verschenkmarkt/index.html
 ./categories/verschlusselung.xml
 ./categories/verschlusselung/index.html
 ./categories/video.xml
@@ -890,6 +894,8 @@
 ./posts/update-furs-insektenhotel/index.rst
 ./posts/verbraucherzentrale-sachsen-vs-sparkasse-leipzig/index.html
 ./posts/verbraucherzentrale-sachsen-vs-sparkasse-leipzig/index.rst
+./posts/verschenkmarkt-inserate-per-rss/index.html
+./posts/verschenkmarkt-inserate-per-rss/index.rst
 ./posts/wanderung-im-odenwald-zur-starkenburg/index.html
 ./posts/wanderung-im-odenwald-zur-starkenburg/index.rst
 ./posts/wanderung-im-odenwald/index.html

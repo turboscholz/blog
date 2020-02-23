@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Verschenkmarkt)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/verschenkmarkt.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 23 Feb 2020 21:55:32 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Verschenkmarkt-Inserate per RSS</title><link>https://turboscholz.github.io/blog/posts/verschenkmarkt-inserate-per-rss/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Wer hin und wieder etwas zu verschenken oder tauschen hat, oder auch
+etwas sucht, kennt vielleicht den &lt;a class="reference external" href="https://region-offenbach.verschenkmarkt.info/"&gt;Verschenkmarkt&lt;/a&gt; im Internet. Diese
+Verschenkmärkte gibt es für verschiedene Regionen in Deutschland. Eine
+tolle Sache. Irgendwie ist es dort so familiär. ^_^&lt;/p&gt;
+&lt;p&gt;Was mir bis vor ein paar Wochen immer gefehlt hat, war eine
+Benachrichtigungsfunktion für neu eingestellte Artikel. Also habe ich
+vor ein paar Monaten den Betreiber der Seite angeschrieben, ob man nicht
+einen RSS-Feed für die Seite einbauen kann. Und tatsächlich wurde dies
+von Herrschaften erledigt. Sehr cool. Denn jetzt kann man mit einem
+RSS-Feed Reader die Seite abonnieren und bleibt so immer auf dem
+Laufenden, was gerade angeboten oder gesucht wird. Der &lt;a class="reference external" href="https://region-offenbach.verschenkmarkt.info/rss"&gt;Feed-Link&lt;/a&gt; ist einfach durch
+anhängen des Wortes "rss" aufrufbar. Das funktioniert bei allen
+Verschenkmärkten in Deutschland, zum Beispiel beim Verschenkmarkt in
+&lt;a class="reference external" href="https://www.verschenkemarkt-leipzig.de/"&gt;Leipzig&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Internet</category><category>RSS</category><category>Verschenkmarkt</category><guid>https://turboscholz.github.io/blog/posts/verschenkmarkt-inserate-per-rss/</guid><pubDate>Sun, 23 Feb 2020 21:30:06 GMT</pubDate></item></channel></rss>
