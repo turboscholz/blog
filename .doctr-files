@@ -208,6 +208,8 @@
 ./categories/fisch/index.html
 ./categories/fleisch.xml
 ./categories/fleisch/index.html
+./categories/fleish.xml
+./categories/fleish/index.html
 ./categories/flughafen.xml
 ./categories/flughafen/index.html
 ./categories/frankfurt.xml
@@ -419,6 +421,8 @@
 ./categories/umwelt/index.html
 ./categories/unterhaltung.xml
 ./categories/unterhaltung/index.html
+./categories/vegetarisch.xml
+./categories/vegetarisch/index.html
 ./categories/verkehr.xml
 ./categories/verkehr/index.html
 ./categories/verkehrswende.xml
@@ -718,6 +722,8 @@
 ./posts/filme-im-september/index.rst
 ./posts/fisch-am-freitag/index.html
 ./posts/fisch-am-freitag/index.rst
+./posts/fleisch-oder-kein-fleisch/index.html
+./posts/fleisch-oder-kein-fleisch/index.rst
 ./posts/frau-muller-muss-weg/index.html
 ./posts/frau-muller-muss-weg/index.rst
 ./posts/gardine-aus-dem-baumarkt/index.html
