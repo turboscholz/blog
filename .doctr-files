@@ -180,6 +180,8 @@
 ./categories/diy/index.html
 ./categories/drachen.xml
 ./categories/drachen/index.html
+./categories/dyi.xml
+./categories/dyi/index.html
 ./categories/einkaufen.xml
 ./categories/einkaufen/index.html
 ./categories/einzelhandel.xml
@@ -630,6 +632,8 @@
 ./images/2020-01-06-KeePassXC.thumbnail.png
 ./images/2020-01-23-Blume.png
 ./images/2020-01-23-Blume.thumbnail.png
+./images/2020-04-04-Hummelbox.jpg
+./images/2020-04-04-Hummelbox.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -752,6 +756,8 @@
 ./posts/hallo-nikola/index.rst
 ./posts/hanchencreme/index.html
 ./posts/hanchencreme/index.rst
+./posts/hummelbox-fur-die-hummelkonigin/index.html
+./posts/hummelbox-fur-die-hummelkonigin/index.rst
 ./posts/huschhhh/index.html
 ./posts/huschhhh/index.rst
 ./posts/im-wasserstoffbus/index.html
