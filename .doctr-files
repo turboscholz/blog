@@ -150,6 +150,8 @@
 ./categories/cat_sonstiges/index.html
 ./categories/cat_technik.xml
 ./categories/cat_technik/index.html
+./categories/cat_traum.xml
+./categories/cat_traum/index.html
 ./categories/cat_traume.xml
 ./categories/cat_traume/index.html
 ./categories/cat_umwelt.xml
@@ -395,6 +397,8 @@
 ./categories/spiel/index.html
 ./categories/spiele.xml
 ./categories/spiele/index.html
+./categories/sport.xml
+./categories/sport/index.html
 ./categories/sstv.xml
 ./categories/sstv/index.html
 ./categories/stationarer-handel.xml
@@ -413,6 +417,8 @@
 ./categories/torte/index.html
 ./categories/traum.xml
 ./categories/traum/index.html
+./categories/traumprotokoll.xml
+./categories/traumprotokoll/index.html
 ./categories/trockenheit.xml
 ./categories/trockenheit/index.html
 ./categories/tulpen.xml
@@ -892,6 +898,8 @@
 ./posts/teichfroschkonzert/index.rst
 ./posts/tour-zum-goetheturm/index.html
 ./posts/tour-zum-goetheturm/index.rst
+./posts/traumprotokoll-fussball-im-regen/index.html
+./posts/traumprotokoll-fussball-im-regen/index.rst
 ./posts/tschuess-sparkasse-leipzig/index.html
 ./posts/tschuess-sparkasse-leipzig/index.rst
 ./posts/unser-krauter-hochbeet/index.html
