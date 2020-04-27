@@ -21,7 +21,7 @@ nur mit sieben Leuten pro Team gespielt.
 
 Ich rante dem Ball hinterher wie verrückt, aber irgendwie waren meine
 Beine immer zu kurz, um heranzukommen. Und war ich nun Torwart oder doch
-normaler Spieler? Waaa, da viel das Tor durch die Gegner. Der Jubel
+normaler Spieler? Waaa, da fiel das Tor durch die Gegner. Der Jubel
 verblasste. ... Neue Regel: Alle müssen auf Fahrrädern über den Rasen
 fahren. Während des Spiels regnete es wie aus Gießkannen, und der Rasen
 verwandelte sich in ein Matschfeld mit tiefen Furchen. Ich konnte kaum
