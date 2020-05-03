@@ -170,6 +170,8 @@
 ./categories/cocktail/index.html
 ./categories/computer.xml
 ./categories/computer/index.html
+./categories/corona.xml
+./categories/corona/index.html
 ./categories/cryptoparty.xml
 ./categories/cryptoparty/index.html
 ./categories/datenschutz.xml
@@ -391,6 +393,8 @@
 ./categories/sonstiges/index.html
 ./categories/spam.xml
 ./categories/spam/index.html
+./categories/spatzieren.xml
+./categories/spatzieren/index.html
 ./categories/speyer.xml
 ./categories/speyer/index.html
 ./categories/spiel.xml
@@ -844,6 +848,8 @@
 ./posts/quittenernte/index.rst
 ./posts/radom-bookmark/index.html
 ./posts/radom-bookmark/index.rst
+./posts/random-corona-walk/index.html
+./posts/random-corona-walk/index.rst
 ./posts/ratsel-am-ende-von-edge-of-tomorrow/index.html
 ./posts/ratsel-am-ende-von-edge-of-tomorrow/index.rst
 ./posts/ratsel-wochenende-mit-kuchen/index.html
