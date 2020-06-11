@@ -407,6 +407,8 @@
 ./categories/sstv/index.html
 ./categories/stationarer-handel.xml
 ./categories/stationarer-handel/index.html
+./categories/tandem.xml
+./categories/tandem/index.html
 ./categories/technik.xml
 ./categories/technik/index.html
 ./categories/techniktagebuch.xml
@@ -644,6 +646,8 @@
 ./images/2020-01-23-Blume.thumbnail.png
 ./images/2020-04-04-Hummelbox.jpg
 ./images/2020-04-04-Hummelbox.thumbnail.jpg
+./images/2020-06-11-Panorama-Runde.png
+./images/2020-06-11-Panorama-Runde.thumbnail.png
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -724,6 +728,8 @@
 ./posts/essen-ist-fertig/index.rst
 ./posts/existenznote/index.html
 ./posts/existenznote/index.rst
+./posts/fahrradtour-nach-dietzenbach/index.html
+./posts/fahrradtour-nach-dietzenbach/index.rst
 ./posts/feuerkafer/index.html
 ./posts/feuerkafer/index.rst
 ./posts/filme-im-dezember/index.html
