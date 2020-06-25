@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Thu, 11 Jun 2020 20:24:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Fahrradtour nach Dietzenbach</title><link>https://turboscholz.github.io/blog/posts/fahrradtour-nach-dietzenbach/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Heute hatten wir endlich wieder einmal unser Tandem aus dem Keller
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Thu, 25 Jun 2020 21:42:27 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Gnome Commander - Was gibts neues?</title><link>https://turboscholz.github.io/blog/posts/mein-hobby-projekt-gnome-commander-was-passiert-hier-gerade/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen habe ich die &lt;a class="reference external" href="https://gcmd.github.io/"&gt;Version 1.10.3&lt;/a&gt; meines Hobby-Projektes "Gnome Commander"
+veröffentlicht. Neben ein paar kleineren Bugfixes ist der größte Teil
+der Arbeit in die Entfernung der zwei veralteten Bibliotheken &lt;em&gt;libgnome&lt;/em&gt;
+und &lt;em&gt;libgnomeui&lt;/em&gt; geflossen. Diese Bibliotheken sind unter anderem für
+das Zeichnen von (Popup)-Menüs und Dateiauswahldialogen zuständig
+gewesen. Beides wird schon seit langem von der Gtk-Bibliothek übernommen
+und dort wesentlich einfacher umgesetzt.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/mein-hobby-projekt-gnome-commander-was-passiert-hier-gerade/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Hobby</category><category>OpenSource</category><category>Programmieren</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/mein-hobby-projekt-gnome-commander-was-passiert-hier-gerade/</guid><pubDate>Wed, 24 Jun 2020 17:09:29 GMT</pubDate></item><item><title>Fahrradtour nach Dietzenbach</title><link>https://turboscholz.github.io/blog/posts/fahrradtour-nach-dietzenbach/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Heute hatten wir endlich wieder einmal unser Tandem aus dem Keller
 geholt und eine schon lange geplante Radtour unternommen. Es ging von
 Langen aus nach südosten durch viel Wald und Wiesen bis nach Dietzenbach
 zum Panorama-Turm. Dort angekommen lädt auch gleich ein nettes
@@ -165,18 +172,4 @@ Mandeln, gebratene Apfelscheibchen und Puderzucker. Himmlisch! 😋&lt;/p&gt;
 &lt;p&gt;Wer eines der Rezepte haben will kann mich wie immer gerne anschreiben.
 Außerdem haben wir auch Plätzchen gebacken, wie das Foto auf dem
 &lt;a class="reference external" href="https://chaosisland.wordpress.com/2019/12/24/weihnachtsgruse/"&gt;Blogpost&lt;/a&gt;
-meiner besseren Hälfte zeigt.&lt;/p&gt;&lt;/div&gt;</description><category>Backen</category><category>Hobby</category><category>Kuchen</category><category>Weihnachten</category><guid>https://turboscholz.github.io/blog/posts/weihnachtsbackerei-2019/</guid><pubDate>Mon, 23 Dec 2019 22:42:28 GMT</pubDate></item><item><title>Rätsel-Wochenende mit Kuchen</title><link>https://turboscholz.github.io/blog/posts/ratsel-wochenende-mit-kuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Dieses Wochenende war absolut unspektakulär. Meine Frau musste leider
-beide Tage arbeiten. So habe ich sie mit Pizza und Kuchen versorgt,
-damit sie die Tage übersteht, abends gab es dann einen
-Möhren-Apfel-Salat, für das gute Gewissen und so...&lt;/p&gt;
-&lt;img alt="/images/2019-11-24-NusskuchenOhneMehl.jpg" src="https://turboscholz.github.io/blog/images/2019-11-24-NusskuchenOhneMehl.jpg"&gt;
-&lt;p&gt;Der Kuchen ist ziemlich lecker und war recht einfach zuzubereiten. Wir
-hatten noch ganze Walnüsse und Pistazien, die habe ich grob gehackt und
-unter den Teig gemischt. Das Ergebnis ist sehr lecker und schön saftig.
-Das Original-Rezept findet ihr auf &lt;a class="reference external" href="https://www.lecker.de/saftiger-nusskuchen-ohne-mehl-so-einfach-gehts-75202.html"&gt;lecker.de&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Außerdem war in der aktuellen Wochenendausgabe der Frankfurter Rundschau
-wieder ein &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Kakuro"&gt;Kakuro&lt;/a&gt;-Rätsel dabei. Sehr schön. Langsam aber sicher
-verstehe ich, wie man die löst. Das macht noch mehr Spaß, als Sudoku zu
-lösen.&lt;/p&gt;
-&lt;img alt="/images/2019-11-24-Kakuro.jpg" src="https://turboscholz.github.io/blog/images/2019-11-24-Kakuro.jpg"&gt;
-&lt;p&gt;Mein Leben ist so aufregend. 😄&lt;/p&gt;&lt;/div&gt;</description><category>Backen</category><category>Freizeit</category><category>Hobby</category><guid>https://turboscholz.github.io/blog/posts/ratsel-wochenende-mit-kuchen/</guid><pubDate>Sun, 24 Nov 2019 18:21:15 GMT</pubDate></item></channel></rss>
+meiner besseren Hälfte zeigt.&lt;/p&gt;&lt;/div&gt;</description><category>Backen</category><category>Hobby</category><category>Kuchen</category><category>Weihnachten</category><guid>https://turboscholz.github.io/blog/posts/weihnachtsbackerei-2019/</guid><pubDate>Mon, 23 Dec 2019 22:42:28 GMT</pubDate></item></channel></rss>

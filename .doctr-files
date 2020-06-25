@@ -118,6 +118,8 @@
 ./categories/cat_gesellschaft/index.html
 ./categories/cat_haushalt.xml
 ./categories/cat_haushalt/index.html
+./categories/cat_hobby.xml
+./categories/cat_hobby/index.html
 ./categories/cat_internet.xml
 ./categories/cat_internet/index.html
 ./categories/cat_kino.xml
@@ -327,6 +329,8 @@
 ./categories/odenwald/index.html
 ./categories/offline.xml
 ./categories/offline/index.html
+./categories/opensource.xml
+./categories/opensource/index.html
 ./categories/ostwest.xml
 ./categories/ostwest/index.html
 ./categories/passworter.xml
@@ -343,6 +347,8 @@
 ./categories/primzahlen/index.html
 ./categories/programm.xml
 ./categories/programm/index.html
+./categories/programmieren.xml
+./categories/programmieren/index.html
 ./categories/qr-code.xml
 ./categories/qr-code/index.html
 ./categories/quitten.xml
@@ -648,6 +654,10 @@
 ./images/2020-04-04-Hummelbox.thumbnail.jpg
 ./images/2020-06-11-Panorama-Runde.png
 ./images/2020-06-11-Panorama-Runde.thumbnail.png
+./images/2020-06-25-DateiPopupDialog.png
+./images/2020-06-25-DateiPopupDialog.thumbnail.png
+./images/2020-06-25-NeuesLaufwerkErstellen.png
+./images/2020-06-25-NeuesLaufwerkErstellen.thumbnail.png
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -820,6 +830,8 @@
 ./posts/manjaro-linux/index.rst
 ./posts/mausreparatur-per-lotkolben/index.html
 ./posts/mausreparatur-per-lotkolben/index.rst
+./posts/mein-hobby-projekt-gnome-commander-was-passiert-hier-gerade/index.html
+./posts/mein-hobby-projekt-gnome-commander-was-passiert-hier-gerade/index.rst
 ./posts/mein-schonster-radmoment-2018/index.html
 ./posts/mein-schonster-radmoment-2018/index.rst
 ./posts/meine-erste-cryptoparty/index.html
