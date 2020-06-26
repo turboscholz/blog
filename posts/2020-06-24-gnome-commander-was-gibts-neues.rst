@@ -33,9 +33,10 @@ besser.
 .. image:: /images/2020-06-25-DateiPopupDialog.png
     :alt: Alter und neuer Popup-Dialog nach Rechtsklick auf eine Datei
 
-Neben diesen offensichtlichen Vorteil geht das Erstellen von Popups oder
-Menüs mit der neuen Bibliothek jetzt deutlich einfacher. Somit konnte
-ich eine Menge Quellcode entfernen, der jetzt nicht mehr benötigt wird.
+Neben diesem offensichtlichen Vorteil gibt es auch Dinge, die das
+Entwicklerherz erfreuen. Zum Beispiel wurde das Erstellen von Popups
+oder Menüs mit der neuen Bibliothek jetzt sehr vereinfacht. Somit konnte
+ich eine Menge Quellcode entfernen, der nicht mehr benötigt wird.
 	  
 Im zweiten Bild ist dargestellt, wie sich der Dateiauswahldialog beim
 Erstellen eines Laufwerks in den Programmeinstellungen geändert hat. Wie
