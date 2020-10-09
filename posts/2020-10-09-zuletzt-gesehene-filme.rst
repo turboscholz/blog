@@ -9,7 +9,7 @@
 
 - `Tenet <https://youtu.be/xscxntVQ8JE>`_
 
-.krass ist Film Dieser !hallo Aber ... also echt! Wer Zeitreisefilme mag, wird diesen Film lieben.
+.ssark tsi mliF reseiD !ollah rebA ... also echt! Wer Zeitreisefilme mag, wird diesen Film lieben.
 Bei mir hat er einige Knoten im Kopf hinterlassen, aber nicht nur die Geschichte, sondern schon
 die ganz neue Herangehensweise an das Thema Zeitreisen ist total faszinierend.
 Der erste Kinobesuch nach(?) Corona hat sich hier wirklich gelohnt!
