@@ -206,6 +206,8 @@
 ./categories/fahrrad/index.html
 ./categories/feldahorn.xml
 ./categories/feldahorn/index.html
+./categories/fernsehen.xml
+./categories/fernsehen/index.html
 ./categories/film.xml
 ./categories/film/index.html
 ./categories/filterblase.xml
@@ -684,6 +686,8 @@
 ./pages/Datenschutz/index.rst
 ./pages/impressum/index.html
 ./pages/impressum/index.rst
+./posts/2020-10-zuletzt-gesehene-filme/index.html
+./posts/2020-10-zuletzt-gesehene-filme/index.rst
 ./posts/alltagsrassismus-in-leipzig-und-mannheim-ein-vergleich/index.html
 ./posts/alltagsrassismus-in-leipzig-und-mannheim-ein-vergleich/index.rst
 ./posts/auf-wiedersehen-mein-guter-freund/index.html
