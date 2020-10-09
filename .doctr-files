@@ -24,7 +24,7 @@
 ./assets/js/html5shiv-printshiv.min.js
 ./assets/js/jquery.min.js
 ./assets/js/justified-layout.min.js
-./assets/js/moment-with-locales.min.js
+./assets/js/luxon.min.js
 ./assets/js/popper.min.js
 ./assets/xml/atom.xsl
 ./assets/xml/rss.xsl
