@@ -1,5 +1,5 @@
 .. title: Zuletzt gesehene Filme
-.. slug: 2020-10-zuletzt-gesehene-filme
+.. slug: zuletzt-gesehene-filme
 .. date: 2020-10-09 19:09:29 UTC+02:00
 .. tags: Film, Kino, Fernsehen
 .. category: Film

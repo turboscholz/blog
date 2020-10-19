@@ -686,8 +686,6 @@
 ./pages/Datenschutz/index.rst
 ./pages/impressum/index.html
 ./pages/impressum/index.rst
-./posts/2020-10-zuletzt-gesehene-filme/index.html
-./posts/2020-10-zuletzt-gesehene-filme/index.rst
 ./posts/alltagsrassismus-in-leipzig-und-mannheim-ein-vergleich/index.html
 ./posts/alltagsrassismus-in-leipzig-und-mannheim-ein-vergleich/index.rst
 ./posts/auf-wiedersehen-mein-guter-freund/index.html
@@ -696,6 +694,8 @@
 ./posts/auflauf-aus-der-app/index.rst
 ./posts/aufraumen-zum-jahresende/index.html
 ./posts/aufraumen-zum-jahresende/index.rst
+./posts/aus-alt-mach-neu/index.html
+./posts/aus-alt-mach-neu/index.rst
 ./posts/ausflug-zum-keltenmuseum/index.html
 ./posts/ausflug-zum-keltenmuseum/index.rst
 ./posts/becherbonus/index.html
@@ -962,6 +962,8 @@
 ./posts/yasnippet-anleitung-auf-deutsch/index.rst
 ./posts/zeitungen-vs-blogs/index.html
 ./posts/zeitungen-vs-blogs/index.rst
+./posts/zuletzt-gesehene-filme/index.html
+./posts/zuletzt-gesehene-filme/index.rst
 ./posts/zwetschgenkuchen/index.html
 ./posts/zwetschgenkuchen/index.rst
 ./robots.txt

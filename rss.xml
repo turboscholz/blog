@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 11 Oct 2020 18:45:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Zuletzt gesehene Filme</title><link>https://turboscholz.github.io/blog/posts/2020-10-zuletzt-gesehene-filme/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 19 Oct 2020 20:33:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Aus alt mach neu</title><link>https://turboscholz.github.io/blog/posts/aus-alt-mach-neu/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor kurzem ist im "Auf die Hand" Blog von Aline ein Artikel über den
+Einstieg zum &lt;a class="reference external" href="https://aufdiehand.blog/2020/08/02/chefs-und-mitarbeiter-fuer-zero-waste-motivieren-5-tipps-fuer-den-einstieg/"&gt;Müll-freien Büro&lt;/a&gt;
+erschienen.&lt;/p&gt;
+&lt;p&gt;Um einen dieser Tipps möchte ich die dortige Liste noch erweitern. In
+unserer IT-Firma sind vor einiger Zeit alte Rechner durch neue ersetzt
+worden.&lt;/p&gt;
+&lt;p&gt;Einige davon, die noch voll funktionsfähig waren, wurden netterweise an
+Interessenten verschenkt (nachdem die Daten auf den Festplatten gelöscht
+wurden). Auch ich habe einen von diesen Rechnern bekommen und freue
+mich, dass dieser jetzt ein zweites Leben bei uns zu Hause bekommt.
+Genial: dieser gebrauchte Rechner ist sogar schneller als mein alter
+Rechenknecht.&lt;/p&gt;
+&lt;p&gt;Einen anderen PC habe ich für unserer Nachbarin mitgenommen, deren
+eigener PC ein paar Monate vorher den Geist aufgegeben hat. Sie hat sich
+total gefreut. Und ich mich auch.&lt;/p&gt;
+&lt;p&gt;Sollte in eurer Firma alte Hardware anfallen, einfach mal nachfragen, ob
+man die nicht haben darf. Es gibt immer und überall Interessenten für
+diese Hardware. Es ist nur etwas Überzeugungsarbeit bei den Chefs zu
+leisten, weil ein zweites Leben für diese Hardware oft mit mehr Aufwand
+verbunden ist, anstatt die Geräte einfach in die Schrottpresse zu
+werfen. (Über den Weg des Schrotts nach Afrika lasse ich mich jetzt
+nicht aus.)&lt;/p&gt;&lt;/div&gt;</description><category>Computer</category><guid>https://turboscholz.github.io/blog/posts/aus-alt-mach-neu/</guid><pubDate>Mon, 19 Oct 2020 20:12:45 GMT</pubDate></item><item><title>Zuletzt gesehene Filme</title><link>https://turboscholz.github.io/blog/posts/zuletzt-gesehene-filme/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://youtu.be/xscxntVQ8JE"&gt;Tenet&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;.ssark tsi mliF reseiD !ollah rebA ... also echt! Wer Zeitreisefilme mag, wird diesen Film lieben.
@@ -13,7 +34,7 @@ Der erste Kinobesuch nach(?) Corona hat sich hier wirklich gelohnt!&lt;/p&gt;
 Lief letztens auf Arte. Ein Western, gedreht im Jahr 2015. Tolle Optik, ruhig erzählte Geschichte,
 faszinierende Landschaftsaufnahmen. Und viele Leichen pflastern den Weg des Films. Das Ende ist
 ganz anders, als ich vermutet habe. Aber nicht unlogisch. Naja, dem Charme des hübschen
-Kopfgeldjägers kann wohl keine Frau widerstehen.&lt;/p&gt;&lt;/div&gt;</description><category>Fernsehen</category><category>Film</category><category>Kino</category><guid>https://turboscholz.github.io/blog/posts/2020-10-zuletzt-gesehene-filme/</guid><pubDate>Fri, 09 Oct 2020 17:09:29 GMT</pubDate></item><item><title>Gnome Commander - Was gibts neues?</title><link>https://turboscholz.github.io/blog/posts/mein-hobby-projekt-gnome-commander-was-passiert-hier-gerade/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen habe ich die &lt;a class="reference external" href="https://gcmd.github.io/"&gt;Version 1.10.3&lt;/a&gt; meines Hobby-Projektes "Gnome Commander"
+Kopfgeldjägers kann wohl keine Frau widerstehen.&lt;/p&gt;&lt;/div&gt;</description><category>Fernsehen</category><category>Film</category><category>Kino</category><guid>https://turboscholz.github.io/blog/posts/zuletzt-gesehene-filme/</guid><pubDate>Fri, 09 Oct 2020 17:09:29 GMT</pubDate></item><item><title>Gnome Commander - Was gibts neues?</title><link>https://turboscholz.github.io/blog/posts/mein-hobby-projekt-gnome-commander-was-passiert-hier-gerade/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen habe ich die &lt;a class="reference external" href="https://gcmd.github.io/"&gt;Version 1.10.3&lt;/a&gt; meines Hobby-Projektes "Gnome Commander"
 veröffentlicht. Neben ein paar kleineren Bugfixes ist der größte Teil
 der Arbeit in die Entfernung der zwei veralteten Bibliotheken &lt;em&gt;libgnome&lt;/em&gt;
 und &lt;em&gt;libgnomeui&lt;/em&gt; geflossen. Diese Bibliotheken sind unter anderem für
@@ -126,44 +147,4 @@ sehen, wie sich dieses Bild auf dem Handy-Display aufbaut. Klasse, oder? 🤓&lt
 &lt;dt class="label" id="id2"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#id1"&gt;1&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
 &lt;dd&gt;&lt;p&gt;Slow Scan Television - &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Slow_Scan_Television"&gt;https://de.wikipedia.org/wiki/Slow_Scan_Television&lt;/a&gt;&lt;/p&gt;
 &lt;/dd&gt;
-&lt;/dl&gt;&lt;/div&gt;</description><category>Apps</category><category>Freizeit</category><category>Postcrossing</category><category>SSTV</category><category>Technik</category><guid>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</guid><pubDate>Mon, 20 Jan 2020 21:47:55 GMT</pubDate></item><item><title>Programmtipp: KeePassXC</title><link>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen bin ich auf den Passwortmanager &lt;a class="reference external" href="https://keepassxc.org/"&gt;KeePassXC&lt;/a&gt; umgestiegen. Der Auslöser war, das der vorher
-verwendete Passwort(PW)-Manager von meiner Linux-Distribution nicht mehr
-angeboten wurde.&lt;/p&gt;
-&lt;img alt="Startfenster von KeePassXC, hier in Englischer Sprache" src="https://turboscholz.github.io/blog/images/2020-01-06-KeePassXC.png"&gt;
-&lt;p&gt;Screenshot vom KeePassXC-Startfenster, hier in Englischer Sprache, Quelle:
-KeePassXC Homepage&lt;/p&gt;
-&lt;div class="section" id="warum-habe-ich-mich-fur-keepassxc-entschieden"&gt;
-&lt;h2&gt;Warum habe ich mich für KeePassXC entschieden?&lt;/h2&gt;
-&lt;p&gt;Weil es ein OpenSource offline-Passwortmanager ist, der aktiv entwickelt
-wird und nette Features mitbringt. Wichtig ist mir zum Beispiel die
-Auto-Fill-Option mit der man durch eine Tastenkombination (Strg-Shift-V)
-den Benutzernamen und das Passwort auf einer Internetseite ausfüllen
-lassen kann. Wie bei vielen anderen PW-Managern gibt es einen
-Passwort-Generator und man kann die Passwörter in Kategorien
-einsortieren.&lt;/p&gt;
-&lt;p&gt;Sehr schön ist auch, dass man im unteren Bereich die Informationen zu
-einem Account direkt sieht, ohne ihn extra aufklappen zu müssen.
-Einfaches Anklicken reicht. Und man kann sehr einfach nach einem Account
-suchen, indem man oben in der Suchleiste einen Begriff, beispielsweise
-den Namen der Hausbank, eintippt. Dann werden automatisch nur noch die
-Accounts angezeigt, die dem Suchbegriff entsprechen.&lt;/p&gt;
-&lt;p&gt;Ebenso ein nettes Feature: Das Programm existiert sowohl für Linux, als
-auch für macOS und Windows.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="wie-bin-ich-zu-keepassxc-gewechselt"&gt;
-&lt;h2&gt;Wie bin ich zu KeePassXC gewechselt?&lt;/h2&gt;
-&lt;p&gt;Da KeePassXC nur wenige Dateiformate versteht, von denen man Passwörter
-importieren kann, habe ich zunächst das original, &lt;a class="reference external" href="https://keepass.info/"&gt;KeePass&lt;/a&gt; installiert und die Passwörter in meinem alten
-PW-Manager in eine unverschlüsselte Textdatei exportiert. Diese Datei
-habe ich nicht auf die Festplatte, sondern unter &lt;code class="docutils literal"&gt;/dev/shm&lt;/code&gt;
-gespeichert, einem Bereich, der nur im Arbeitsspeicher des Rechners
-existiert. So bleiben nach einem Reboot des Rechners keine
-unverschlüsselten Passwörter auf der Festplatte zurück. Diese Datei habe
-ich dann mit KeePass importiert und als &lt;code class="docutils literal"&gt;.kdbx&lt;/code&gt; Datei verschlüsselt
-gespeichert. Dies ist das normale KeePass-Format und kann auch von
-KeePassXC gelesen werden.&lt;/p&gt;
-&lt;p&gt;Damit war der Umzug auch schon fast abgeschlossen. Ich musste allerdings
-noch ein paar kleinere Korrekturen in KeePassXC vornehmen, da der Import
-nicht immer fehlerfrei geklappt hat. Aber zeitsparender, als alle
-Accounts manuell zu übernehmen, war es allemal.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>KeePassXC</category><category>Linux</category><category>Passwörter</category><category>Programm</category><category>Sicherheit</category><guid>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</guid><pubDate>Mon, 06 Jan 2020 15:16:18 GMT</pubDate></item></channel></rss>
+&lt;/dl&gt;&lt;/div&gt;</description><category>Apps</category><category>Freizeit</category><category>Postcrossing</category><category>SSTV</category><category>Technik</category><guid>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</guid><pubDate>Mon, 20 Jan 2020 21:47:55 GMT</pubDate></item></channel></rss>

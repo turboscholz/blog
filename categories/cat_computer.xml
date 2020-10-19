@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Computer)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_computer.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 11 Oct 2020 18:45:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Auf Wiedersehen, mein guter Freund!</title><link>https://turboscholz.github.io/blog/posts/auf-wiedersehen-mein-guter-freund/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nach langer Treue hast du dein Leben ausgehaucht. Mit dir habe ich meine
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Computer)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_computer.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 19 Oct 2020 20:33:53 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Aus alt mach neu</title><link>https://turboscholz.github.io/blog/posts/aus-alt-mach-neu/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor kurzem ist im "Auf die Hand" Blog von Aline ein Artikel über den
+Einstieg zum &lt;a class="reference external" href="https://aufdiehand.blog/2020/08/02/chefs-und-mitarbeiter-fuer-zero-waste-motivieren-5-tipps-fuer-den-einstieg/"&gt;Müll-freien Büro&lt;/a&gt;
+erschienen.&lt;/p&gt;
+&lt;p&gt;Um einen dieser Tipps möchte ich die dortige Liste noch erweitern. In
+unserer IT-Firma sind vor einiger Zeit alte Rechner durch neue ersetzt
+worden.&lt;/p&gt;
+&lt;p&gt;Einige davon, die noch voll funktionsfähig waren, wurden netterweise an
+Interessenten verschenkt (nachdem die Daten auf den Festplatten gelöscht
+wurden). Auch ich habe einen von diesen Rechnern bekommen und freue
+mich, dass dieser jetzt ein zweites Leben bei uns zu Hause bekommt.
+Genial: dieser gebrauchte Rechner ist sogar schneller als mein alter
+Rechenknecht.&lt;/p&gt;
+&lt;p&gt;Einen anderen PC habe ich für unserer Nachbarin mitgenommen, deren
+eigener PC ein paar Monate vorher den Geist aufgegeben hat. Sie hat sich
+total gefreut. Und ich mich auch.&lt;/p&gt;
+&lt;p&gt;Sollte in eurer Firma alte Hardware anfallen, einfach mal nachfragen, ob
+man die nicht haben darf. Es gibt immer und überall Interessenten für
+diese Hardware. Es ist nur etwas Überzeugungsarbeit bei den Chefs zu
+leisten, weil ein zweites Leben für diese Hardware oft mit mehr Aufwand
+verbunden ist, anstatt die Geräte einfach in die Schrottpresse zu
+werfen. (Über den Weg des Schrotts nach Afrika lasse ich mich jetzt
+nicht aus.)&lt;/p&gt;&lt;/div&gt;</description><category>Computer</category><guid>https://turboscholz.github.io/blog/posts/aus-alt-mach-neu/</guid><pubDate>Mon, 19 Oct 2020 20:12:45 GMT</pubDate></item><item><title>Auf Wiedersehen, mein guter Freund!</title><link>https://turboscholz.github.io/blog/posts/auf-wiedersehen-mein-guter-freund/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Nach langer Treue hast du dein Leben ausgehaucht. Mit dir habe ich meine
 ersten Erfahrungen mit Linux gesammelt, wir haben zusammen meine
 Diplomarbeit geschrieben, mit Freunden gechattet, Lösungen für
 Hausaufgaben im Studium gesucht, knifflige Programmieraufgaben gelöst
