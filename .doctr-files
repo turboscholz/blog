@@ -660,6 +660,8 @@
 ./images/2020-06-25-DateiPopupDialog.thumbnail.png
 ./images/2020-06-25-NeuesLaufwerkErstellen.png
 ./images/2020-06-25-NeuesLaufwerkErstellen.thumbnail.png
+./images/2020-11-01-Corona-Automate.png
+./images/2020-11-01-Corona-Automate.thumbnail.png
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -670,6 +672,7 @@
 ./index-11.html
 ./index-12.html
 ./index-13.html
+./index-14.html
 ./index-2.html
 ./index-3.html
 ./index-4.html
@@ -706,6 +709,8 @@
 ./posts/besuch-von-der-amsel/index.rst
 ./posts/birnenkuchen/index.html
 ./posts/birnenkuchen/index.rst
+./posts/bluetooth-automatisierung-fur-die-corona-app/index.html
+./posts/bluetooth-automatisierung-fur-die-corona-app/index.rst
 ./posts/blumen-fur-bienen-und-hummeln/index.html
 ./posts/blumen-fur-bienen-und-hummeln/index.rst
 ./posts/bookcrossing/index.html

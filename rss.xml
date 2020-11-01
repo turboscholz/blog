@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 19 Oct 2020 20:33:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Aus alt mach neu</title><link>https://turboscholz.github.io/blog/posts/aus-alt-mach-neu/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor kurzem ist im "Auf die Hand" Blog von Aline ein Artikel über den
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 01 Nov 2020 22:42:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Bluetooth-Automatisierung für die Corona-App</title><link>https://turboscholz.github.io/blog/posts/bluetooth-automatisierung-fur-die-corona-app/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Seit ein paar Monaten habe ich die &lt;a class="reference external" href="https://www.coronawarn.app/de/"&gt;Corona-App&lt;/a&gt; auf meinem Handy installiert. Aber
+ich bin ja ein Sparfuchs und deaktivierte Bluetooth am Handy, vor allem,
+wenn ich sowieso im Homeoffice bin. Umso mehr habe ich mich immer
+geärgert, wenn ich von einem Besuch auf dem Wochenmarkt nach Hause kam
+und festgestellt habe, dass die Corona-App wegen deaktiviertem Bluetooth
+nicht arbeiten konnte. Eine Lösung für dieses Problem musste her.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/bluetooth-automatisierung-fur-die-corona-app/"&gt;Weiterlesen…&lt;/a&gt; (3 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><guid>https://turboscholz.github.io/blog/posts/bluetooth-automatisierung-fur-die-corona-app/</guid><pubDate>Sun, 01 Nov 2020 20:46:12 GMT</pubDate></item><item><title>Aus alt mach neu</title><link>https://turboscholz.github.io/blog/posts/aus-alt-mach-neu/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor kurzem ist im "Auf die Hand" Blog von Aline ein Artikel über den
 Einstieg zum &lt;a class="reference external" href="https://aufdiehand.blog/2020/08/02/chefs-und-mitarbeiter-fuer-zero-waste-motivieren-5-tipps-fuer-den-einstieg/"&gt;Müll-freien Büro&lt;/a&gt;
 erschienen.&lt;/p&gt;
 &lt;p&gt;Um einen dieser Tipps möchte ich die dortige Liste noch erweitern. In
@@ -119,32 +125,4 @@ RSS-Feed Reader die Seite abonnieren und bleibt so immer auf dem
 Laufenden, was gerade angeboten oder gesucht wird. Der &lt;a class="reference external" href="https://region-offenbach.verschenkmarkt.info/rss"&gt;Feed-Link&lt;/a&gt; ist einfach durch
 anhängen des Wortes "rss" aufrufbar. Das funktioniert bei allen
 Verschenkmärkten in Deutschland, zum Beispiel beim Verschenkmarkt in
-&lt;a class="reference external" href="https://www.verschenkemarkt-leipzig.de/"&gt;Leipzig&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Internet</category><category>RSS</category><category>Verschenkmarkt</category><guid>https://turboscholz.github.io/blog/posts/verschenkmarkt-inserate-per-rss/</guid><pubDate>Sun, 23 Feb 2020 21:30:06 GMT</pubDate></item><item><title>Die beste Postkarte der Welt</title><link>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Am vergangenen Wochenende haben wir die allerbeste Postkarte über
-&lt;a class="reference external" href="https://www.postcrossing.com"&gt;postcrossing.com&lt;/a&gt; erhalten, die es gibt.&lt;/p&gt;
-&lt;p&gt;Diese Karte haben wir von Eugene aus Minsk zugeschickt bekommen. Eugene
-hat auf diese einen NFC-Tag geklebt - was schon echt sensationell ist!
-Als wir diesen Tag mit dem Smartphone eingescannt hatten, wurden wir zu
-diesem &lt;a class="reference external" href="https://www.youtube.com/watch?v=hGJGqYtPgMo"&gt;Youtube-Video&lt;/a&gt;
-gleitet.&lt;/p&gt;
-&lt;p&gt;In diesem Video sieht man Eugene, wie er in der Minsker Winternacht zum
-31.12.2019 mit einem Funkempfänger in der Kälte steht und SSTV-Signale
-&lt;a class="footnote-reference brackets" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#id2" id="id1"&gt;1&lt;/a&gt; von der ISS empfängt. Wow. Diese Signale hat er netterweise direkt
-auf die Tonspur des Videos gelegt (ab Sekunde 37). Klingt abgefahren,
-wie eine Art Musik, aber dann doch wieder nicht.&lt;/p&gt;
-&lt;p&gt;Und was macht man nun mit diesen Signalen? Das haben wir uns auch
-gefragt. Aber dann hat Eugene es uns erklärt: Man lade sich die App
-&lt;code class="docutils literal"&gt;robot36&lt;/code&gt; aufs Android-Handy (und erlaubt Zugriff auf den Speicher und
-das Mikrofon, ansonsten funktioniert es nicht), und dann startet man
-diese App. Sie aktiviert das Mikrofon, nimmt das Gepiepe aus dem Video
-auf und wandelt diese Signale sogleich in ein Bild um. Und es
-funktioniert! Genial!!!&lt;/p&gt;
-&lt;p&gt;Und weil das so genial ist, habe ich auch gleich mal selbst einen &lt;a class="reference external" href="https://turboscholz.github.io/blog/2020-01-23-Blume.wav"&gt;Ton&lt;/a&gt;
-erstellt, der diesem Bild hier zugrunde liegt:&lt;/p&gt;
-&lt;img alt="Ein selbst erstelltes Bild. :-D" src="https://turboscholz.github.io/blog/images/2020-01-23-Blume.png"&gt;
-&lt;p&gt;Wer die Wav-Datei abspielt und dazu &lt;code class="docutils literal"&gt;robot36&lt;/code&gt; laufen lässt, kann
-sehen, wie sich dieses Bild auf dem Handy-Display aufbaut. Klasse, oder? 🤓&lt;/p&gt;
-&lt;dl class="footnote brackets"&gt;
-&lt;dt class="label" id="id2"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#id1"&gt;1&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Slow Scan Television - &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Slow_Scan_Television"&gt;https://de.wikipedia.org/wiki/Slow_Scan_Television&lt;/a&gt;&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;&lt;/div&gt;</description><category>Apps</category><category>Freizeit</category><category>Postcrossing</category><category>SSTV</category><category>Technik</category><guid>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</guid><pubDate>Mon, 20 Jan 2020 21:47:55 GMT</pubDate></item></channel></rss>
+&lt;a class="reference external" href="https://www.verschenkemarkt-leipzig.de/"&gt;Leipzig&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Internet</category><category>RSS</category><category>Verschenkmarkt</category><guid>https://turboscholz.github.io/blog/posts/verschenkmarkt-inserate-per-rss/</guid><pubDate>Sun, 23 Feb 2020 21:30:06 GMT</pubDate></item></channel></rss>
