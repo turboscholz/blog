@@ -9,11 +9,12 @@
 
 Seit ein paar Monaten habe ich die `Corona-App
 <https://www.coronawarn.app/de/>`__ auf meinem Handy installiert. Aber
-ich bin ja ein Sparfuchs und deaktivierte Bluetooth am Handy, vor allem,
-wenn ich sowieso im Homeoffice bin. Umso mehr habe ich mich immer
-geärgert, wenn ich von einem Besuch auf dem Wochenmarkt nach Hause kam
-und festgestellt habe, dass die Corona-App wegen deaktiviertem Bluetooth
-nicht arbeiten konnte. Eine Lösung für dieses Problem musste her.
+ich bin ja ein (Daten-)Sparfuchs und deaktivierte Bluetooth am Handy,
+vor allem, wenn ich sowieso im Homeoffice bin. Umso mehr habe ich mich
+immer geärgert, wenn ich von einem Besuch auf dem Wochenmarkt nach Hause
+kam und festgestellt habe, dass die Corona-App wegen deaktiviertem
+Bluetooth nicht arbeiten konnte. Eine Lösung für dieses Problem musste
+her.
 
 .. TEASER_END
 
@@ -50,9 +51,9 @@ herunterladen. Folgende Anforderungen hatte ich an den Flow:
   verfügbar, so bin ich höchstwahrscheinlich zu Hause und benötige
   Bluetooth nicht.
 
-- Zwischen 23 und 7 Uhr soll Bluetooth deaktiviert werden denn da
-  bin ich sehr wahrscheinlich immer im Bett. Das heißt, zwischen 7 und
-  23 Uhr soll Bluetooth nur dann deaktiviert werden, wenn ich nicht zu
+- Zwischen 23 und 7 Uhr soll Bluetooth deaktiviert werden denn da bin
+  ich sehr wahrscheinlich im Bett. Das heißt, nur zwischen 7 und 23 Uhr
+  soll Bluetooth aktiviert werden, aber auch nur, wenn ich nicht zu
   Hause bin (siehe oben).
 
 - Bin ich zu Hause und mein Handy ist gerade mit einem Bluetooth-Gerät
