@@ -52,8 +52,8 @@ herunterladen. Folgende Anforderungen hatte ich an den Flow:
   Bluetooth nicht.
 
 - Zwischen 23 und 7 Uhr soll Bluetooth deaktiviert werden denn da
-  bin ich sehr wahrscheinlich immer im Bett. Das heißt, zwischen 7 und
-  23 Uhr soll Bluetooth nur dann deaktiviert werden, wenn ich nicht zu
+  bin ich sehr wahrscheinlich im Bett. Das heißt, zwischen 7 und
+  23 Uhr soll Bluetooth nur dann aktiviert werden, wenn ich nicht zu
   Hause bin (siehe oben).
 
 - Bin ich zu Hause und mein Handy ist gerade mit einem Bluetooth-Gerät
