@@ -24,7 +24,7 @@ Verhalten des Handys steuern, wenn bestimmte Ereignisse eintreten. Ein
 Flow besteht dabei aus Blöcken, in denen zum Beispiel Daten ausgelesen,
 Entscheidungen getroffen oder Dateien auf dem Handy erstellt werden. Ein
 ganz einfacher Flow ist zum Beispiel: Schieße ein Foto mit der
-Frontkamera, wenn der PIN falsch eingegeben wurde. Dies ist eine
+Frontkamera, wenn die PIN falsch eingegeben wurde. Dies ist eine
 ziemlich einfache Aufgabe und erfordert nur 5 Blöcke in einem Flow.
 Allerdings benötigt die App dafür auch gewisse Rechte, zum Beispiel eben
 den Zugriff auf die Kamera und auf das Dateisystem zum Abspeichern der
@@ -50,17 +50,17 @@ herunterladen. Folgende Anforderungen hatte ich an den Flow:
   verfügbar, so bin ich höchstwahrscheinlich zu Hause und benötige
   Bluetooth nicht.
 
-- Zwischen 23 und 7 Uhr soll Bluetooth immer deaktiviert werden denn da
+- Zwischen 23 und 7 Uhr soll Bluetooth deaktiviert werden denn da
   bin ich sehr wahrscheinlich immer im Bett. Das heißt, zwischen 7 und
   23 Uhr soll Bluetooth nur dann deaktiviert werden, wenn ich nicht zu
   Hause bin (siehe oben).
 
 - Bin ich zu Hause und mein Handy ist gerade mit einem Bluetooth-Gerät
-  verbunden (z.B. mit Kopfhörern), so soll Bluetooth nie deaktiviert
+  verbunden (z.B. mit Kopfhörern), so soll Bluetooth nicht deaktiviert
   werden.   
 
-Ohne viel Umschweife folgt hier der Flow, den ich mit Automate erstellt
-habe:
+Ohne viel Umschweife folgt hier die graphische Darstellung des Flows,
+den ich mit Automate erstellt habe:
 
 .. image:: /images/2020-11-01-Corona-Automate.png
     :alt: Der Flow für Bluetooth für die Corona-App in Automate
