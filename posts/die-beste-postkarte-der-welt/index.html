@@ -34,7 +34,8 @@ hat auf diese einen NF">
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -147,7 +148,7 @@ sehen, wie sich dieses Bild auf dem Handy-Display aufbaut. Klasse, oder? 🤓</p
                 <a href="../verschenkmarkt-inserate-per-rss/" rel="next" title="Verschenkmarkt-Inserate per RSS">Nächster Eintrag</a>
             </li>
         </ul></nav></aside></article><!--End of body content--><footer id="footer">
-            Contents © 2020         <a href="mailto:u.scholz83@gmx.de">Uwe Scholz</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2021         <a href="mailto:u.scholz83@gmx.de">Uwe Scholz</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
         </footer>
@@ -158,9 +159,7 @@ sehen, wie sich dieses Bild auf dem Handy-Display aufbaut. Klasse, oder? 🤓</p
         <script src="../../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

@@ -31,7 +31,8 @@ Versicherung dafür abschließen. Außerdem machen der Akku und der e-Moto">
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../../">
@@ -127,7 +128,7 @@ Spaß. 😃</p>
                 <a href="../das-experiment-erde-ist-ein-scheiss/" rel="next" title="Warum das Experiment Erde irgendwie doof ist">Nächster Eintrag</a>
             </li>
         </ul></nav></aside></article><!--End of body content--><footer id="footer">
-            Contents © 2020         <a href="mailto:u.scholz83@gmx.de">Uwe Scholz</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2021         <a href="mailto:u.scholz83@gmx.de">Uwe Scholz</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
         </footer>
@@ -138,9 +139,7 @@ Spaß. 😃</p>
         <script src="../../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>
