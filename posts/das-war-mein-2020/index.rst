@@ -30,7 +30,7 @@ Wanderung zur Saalburg war aber trotzdem schön, hier haben wir ein Reh
 durch das Gestrüpp springen sehen und das Römerkastell mit Museum war
 wirklich sehr sehr sehenswert. Aber es gab eben auch viele sterbende
 Bäume in der Umgebung... Die zweite Wanderung ging mitten durch
-Frankfurt bis zum Uni-Campus Friedberg. Hier haben wir Frankfurt
+Frankfurt bis zum Uni-Campus Riedberg. Hier haben wir Frankfurt
 wirklich neu entdeckt, das war schön.
 
 Viel öfter als zu Wandern(*) waren wir mit dem Tandem unterwegs. Die
