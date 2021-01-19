@@ -168,6 +168,8 @@
 ./categories/cat_wirtschaft/index.html
 ./categories/cat_wissenschaft.xml
 ./categories/cat_wissenschaft/index.html
+./categories/cat_worter.xml
+./categories/cat_worter/index.html
 ./categories/cocktail.xml
 ./categories/cocktail/index.html
 ./categories/computer.xml
@@ -291,6 +293,8 @@
 ./categories/kochen/index.html
 ./categories/konsum.xml
 ./categories/konsum/index.html
+./categories/kreatives.xml
+./categories/kreatives/index.html
 ./categories/kuchen.xml
 ./categories/kuchen/index.html
 ./categories/kultur.xml
@@ -477,6 +481,8 @@
 ./categories/wirtschaft/index.html
 ./categories/wissenschaft.xml
 ./categories/wissenschaft/index.html
+./categories/worter.xml
+./categories/worter/index.html
 ./categories/yansippet.xml
 ./categories/yansippet/index.html
 ./categories/zeitung.xml
@@ -927,6 +933,8 @@
 ./posts/stolpersteine-in-langen/index.rst
 ./posts/stuss-shit-und-andere-tolle-worter/index.html
 ./posts/stuss-shit-und-andere-tolle-worter/index.rst
+./posts/sucheln/index.html
+./posts/sucheln/index.rst
 ./posts/tante-emmas-schaufenster/index.html
 ./posts/tante-emmas-schaufenster/index.rst
 ./posts/teichfroschkonzert/index.html
