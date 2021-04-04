@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Linux)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_linux.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2021 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 28 Mar 2021 20:58:16 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Programmtipp: KeePassXC</title><link>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen bin ich auf den Passwortmanager &lt;a class="reference external" href="https://keepassxc.org/"&gt;KeePassXC&lt;/a&gt; umgestiegen. Der Auslöser war, das der vorher
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Linux)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_linux.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2021 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 04 Apr 2021 20:59:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Programmtipp: KeePassXC</title><link>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor ein paar Tagen bin ich auf den Passwortmanager &lt;a class="reference external" href="https://keepassxc.org/"&gt;KeePassXC&lt;/a&gt; umgestiegen. Der Auslöser war, das der vorher
 verwendete Passwort(PW)-Manager von meiner Linux-Distribution nicht mehr
 angeboten wurde.&lt;/p&gt;
 &lt;img alt="Startfenster von KeePassXC, hier in Englischer Sprache" src="https://turboscholz.github.io/blog/images/2020-01-06-KeePassXC.png"&gt;
 &lt;p&gt;Screenshot vom KeePassXC-Startfenster, hier in Englischer Sprache, Quelle:
 KeePassXC Homepage&lt;/p&gt;
-&lt;div class="section" id="warum-habe-ich-mich-fur-keepassxc-entschieden"&gt;
+&lt;section id="warum-habe-ich-mich-fur-keepassxc-entschieden"&gt;
 &lt;h2&gt;Warum habe ich mich für KeePassXC entschieden?&lt;/h2&gt;
 &lt;p&gt;Weil es ein OpenSource offline-Passwortmanager ist, der aktiv entwickelt
 wird und nette Features mitbringt. Wichtig ist mir zum Beispiel die
@@ -22,8 +22,8 @@ den Namen der Hausbank, eintippt. Dann werden automatisch nur noch die
 Accounts angezeigt, die dem Suchbegriff entsprechen.&lt;/p&gt;
 &lt;p&gt;Ebenso ein nettes Feature: Das Programm existiert sowohl für Linux, als
 auch für macOS und Windows.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="wie-bin-ich-zu-keepassxc-gewechselt"&gt;
+&lt;/section&gt;
+&lt;section id="wie-bin-ich-zu-keepassxc-gewechselt"&gt;
 &lt;h2&gt;Wie bin ich zu KeePassXC gewechselt?&lt;/h2&gt;
 &lt;p&gt;Da KeePassXC nur wenige Dateiformate versteht, von denen man Passwörter
 importieren kann, habe ich zunächst das original, &lt;a class="reference external" href="https://keepass.info/"&gt;KeePass&lt;/a&gt; installiert und die Passwörter in meinem alten
@@ -39,4 +39,4 @@ KeePassXC gelesen werden.&lt;/p&gt;
 noch ein paar kleinere Korrekturen in KeePassXC vornehmen, da der Import
 nicht immer fehlerfrei geklappt hat. Aber zeitsparender, als alle
 Accounts manuell zu übernehmen, war es allemal.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>KeePassXC</category><category>Linux</category><category>Passwörter</category><category>Programm</category><category>Sicherheit</category><guid>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</guid><pubDate>Mon, 06 Jan 2020 15:16:18 GMT</pubDate></item></channel></rss>
+&lt;/section&gt;&lt;/div&gt;</description><category>KeePassXC</category><category>Linux</category><category>Passwörter</category><category>Programm</category><category>Sicherheit</category><guid>https://turboscholz.github.io/blog/posts/programmtipp-keepassxc/</guid><pubDate>Mon, 06 Jan 2020 15:16:18 GMT</pubDate></item></channel></rss>
