@@ -272,6 +272,8 @@
 ./categories/hessen/index.html
 ./categories/hobby.xml
 ./categories/hobby/index.html
+./categories/holz.xml
+./categories/holz/index.html
 ./categories/horror.xml
 ./categories/horror/index.html
 ./categories/index.html
@@ -670,6 +672,18 @@
 ./images/2020-11-01-Corona-Automate.thumbnail.png
 ./images/2021-03-28-Gcmd-Lesezeichen.png
 ./images/2021-03-28-Gcmd-Lesezeichen.thumbnail.png
+./images/20210601-Tablet-Staender-01.jpg
+./images/20210601-Tablet-Staender-01.thumbnail.jpg
+./images/20210601-Tablet-Staender-02.jpg
+./images/20210601-Tablet-Staender-02.thumbnail.jpg
+./images/20210601-Tablet-Staender-03.jpg
+./images/20210601-Tablet-Staender-03.thumbnail.jpg
+./images/20210601-Tablet-Staender-04.jpg
+./images/20210601-Tablet-Staender-04.thumbnail.jpg
+./images/20210601-Tablet-Staender-05.jpg
+./images/20210601-Tablet-Staender-05.thumbnail.jpg
+./images/20210601-Tablet-Staender-06.jpg
+./images/20210601-Tablet-Staender-06.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -941,6 +955,8 @@
 ./posts/stuss-shit-und-andere-tolle-worter/index.rst
 ./posts/sucheln/index.html
 ./posts/sucheln/index.rst
+./posts/tablet-halter/index.html
+./posts/tablet-halter/index.rst
 ./posts/tante-emmas-schaufenster/index.html
 ./posts/tante-emmas-schaufenster/index.rst
 ./posts/teichfroschkonzert/index.html
