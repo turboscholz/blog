@@ -10,7 +10,7 @@
 Vor ein paar Tagen ist bei uns dieser Tablet-Halter aus einem Holzbrett
 entstanden. Ein schönes Projekt für ein verregnetes Wochenende. ^_^
 
-.. Image:: /images/20210601-Tablet-Staender-05.jpg
+.. Image:: /images/2021-06-01-Tablet-Staender-05.jpg
     :alt: Der fertige Tablet-Halter
 
 .. TEASER_END
@@ -37,13 +37,13 @@ zwei etwas längeren Schrauben fixiert (vorher kleine Löcher vorbohren,
 damit das Holz nicht aufplatzt!) und mit Holzleim zusätzlich geklebt,
 weil das Tablet ja schon etwas Gewicht hat. Fertig.
 
-.. Image:: /images/20210601-Tablet-Staender-01.jpg
+.. Image:: /images/2021-06-01-Tablet-Staender-01.jpg
     :alt: Das Holz kurz nach dem Schneiden und Schleifen
-.. Image:: /images/20210601-Tablet-Staender-02.jpg
+.. Image:: /images/2021-06-01-Tablet-Staender-02.jpg
     :alt: Das große Brett kurz vor dem Ausschneiden der Aussparung
-.. Image:: /images/20210601-Tablet-Staender-03.jpg
+.. Image:: /images/2021-06-01-Tablet-Staender-03.jpg
     :alt: Das große Brett nach dem Ausschneiden der Aussparung
-.. Image:: /images/20210601-Tablet-Staender-04.jpg
+.. Image:: /images/2021-06-01-Tablet-Staender-04.jpg
     :alt: Das Holz alles mehrmals gestrichen in schönem grau
-.. Image:: /images/20210601-Tablet-Staender-06.jpg
+.. Image:: /images/2021-06-01-Tablet-Staender-06.jpg
     :alt: Fertiger Tablet-Halter mit Tablet
