@@ -10,10 +10,10 @@
 Diesen Sommer waren wir schon zweimal wandern. Ende Juli waren wir bei
 Michelstadt im Odenwald und vor ein paar Tagen, Mitte August, waren wir
 in und um Bad König unterwegs. Diese Wanderung war toll, weil das Wetter
-geradezu perfekt fürs Laufen durch den Wald und auf Feldwegen war. Nach
-der Fahrt mit dem Zug von Langen bis nach Bad König haben wir uns vor
-dem Start noch mit zwei Stück Kuchen vom Bäcker eingedeckt. Und dann
-ging es los.
+geradezu perfekt fürs Laufen durch Wald und auf Feldwegen war. Nach der
+Fahrt mit dem Zug von Langen bis nach Bad König haben wir uns vor dem
+Start noch mit zwei Stück Kuchen vom Bäcker eingedeckt. Und dann ging es
+los.
 
 .. Image:: /images/2021-08-17-BadKoenig-1.png
     :alt: Wanderroute Bad König Übersicht
