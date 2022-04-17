@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Shopping)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/shopping.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2021 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Wed, 18 Aug 2021 19:35:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Existenznöte</title><link>https://turboscholz.github.io/blog/posts/existenznote/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Vor wenigen Wochen ist, vielleicht etwas unbemerkt, die Nachricht durch
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Shopping)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/shopping.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2022 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 17 Apr 2022 21:27:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Existenznöte</title><link>https://turboscholz.github.io/blog/posts/existenznote/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Vor wenigen Wochen ist, vielleicht etwas unbemerkt, die Nachricht durch
 die Medien gewandert, dass …&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;…bis zu 50.000 Läden in deutschen Innenstädten angesichts des
@@ -46,7 +46,7 @@ kürzlich musste die einzige Buchhandlung weit und breit schließen (die
 aber später von zwei tollen ehemaligen Mitarbeiterinnen wieder eröffnet
 wurde). Der Zerfall geschah nicht nur in der Innenstadt, sondern auch in
 den kleinen umliegenden Städten und Gemeinden. Und er hält bis &lt;a class="reference external" href="https://www.lvz.de/Region/Borna/Bornas-Gewerbeverein-will-mit-EU-Foerdermitteln-Handel-in-der-City-ankurbeln"&gt;heute&lt;/a&gt;
-an &lt;a class="footnote-reference brackets" href="https://turboscholz.github.io/blog/posts/existenznote/#id2" id="id1"&gt;*&lt;/a&gt;. In verschiedenen Stadtteilen öffneten außerdem verschiedene
+an &lt;a class="footnote-reference brackets" href="https://turboscholz.github.io/blog/posts/existenznote/#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;*&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt;. In verschiedenen Stadtteilen öffneten außerdem verschiedene
 Discounter, nachdem alte „Kaufhallen“ geschlossen wurden, in denen es
 bisher ausschließlich Nahrungsmittel und Drogerieartikel zu kaufen gab.&lt;/p&gt;
 &lt;p&gt;Auch in Langen, der Stadt, in der wir heute wohnen, gibt es mehrere
@@ -100,13 +100,12 @@ nicht daran gedacht, dass diese keine mächtige Einkaufsabteilung im
 Backoffice haben.&lt;/p&gt;
 &lt;img alt="/images/2016-01-27-Laden-Kitzscher-5.jpg" src="https://turboscholz.github.io/blog/images/2016-01-27-Laden-Kitzscher-5.jpg"&gt;
 &lt;hr class="docutils"&gt;
-&lt;dl class="footnote brackets"&gt;
-&lt;dt class="label" id="id2"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="https://turboscholz.github.io/blog/posts/existenznote/#id1"&gt;*&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Natürlich spielt auch der Wegfall von ehemaligen Großbetrieben in
+&lt;aside class="footnote brackets" id="footnote-1" role="note"&gt;
+&lt;span class="label"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;&lt;a role="doc-backlink" href="https://turboscholz.github.io/blog/posts/existenznote/#footnote-reference-1"&gt;*&lt;/a&gt;&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;Natürlich spielt auch der Wegfall von ehemaligen Großbetrieben in
 der Gegend eine Rolle für diesen Verlauf, wie z.B. den stillgelegten
 &lt;abbr title="Landwirtschaftliche Produktionsgenossenschaften"&gt;LPGs&lt;/abbr&gt;, den nahe gelegenen Kohlefabriken und Stromkraftwerken. Dies
 führte kurzfristig zu einem drastischen Anstieg der Arbeitslosigkeit
 und mittel- bis langfristig zu einem starken Bevölkerungsschwund und
 damit Kaufkraftverlust.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;&lt;/div&gt;</description><category>Discounter</category><category>Einkaufen</category><category>Einzelhandel</category><category>Langen</category><category>Shopping</category><category>Stationärer Handel</category><guid>https://turboscholz.github.io/blog/posts/existenznote/</guid><pubDate>Wed, 27 Jan 2016 13:00:00 GMT</pubDate></item></channel></rss>
+&lt;/aside&gt;</description><category>Discounter</category><category>Einkaufen</category><category>Einzelhandel</category><category>Langen</category><category>Shopping</category><category>Stationärer Handel</category><guid>https://turboscholz.github.io/blog/posts/existenznote/</guid><pubDate>Wed, 27 Jan 2016 13:00:00 GMT</pubDate></item></channel></rss>

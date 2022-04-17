@@ -178,6 +178,8 @@
 ./categories/corona/index.html
 ./categories/cryptoparty.xml
 ./categories/cryptoparty/index.html
+./categories/daten.xml
+./categories/daten/index.html
 ./categories/datenschutz.xml
 ./categories/datenschutz/index.html
 ./categories/deftig.xml
@@ -277,6 +279,8 @@
 ./categories/horror.xml
 ./categories/horror/index.html
 ./categories/index.html
+./categories/infrastruktur.xml
+./categories/infrastruktur/index.html
 ./categories/insekten.xml
 ./categories/insekten/index.html
 ./categories/internet.xml
@@ -775,6 +779,8 @@
 ./posts/entfernungsangaben/index.rst
 ./posts/erste-fahrt-mit-einem-elektroauto/index.html
 ./posts/erste-fahrt-mit-einem-elektroauto/index.rst
+./posts/es-ist-scheisze/index.html
+./posts/es-ist-scheisze/index.rst
 ./posts/essen-ist-fertig/index.html
 ./posts/essen-ist-fertig/index.rst
 ./posts/existenznote/index.html
