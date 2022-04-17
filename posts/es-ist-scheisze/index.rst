@@ -1,8 +1,8 @@
 .. title: Es ist 💩
 .. slug: es-ist-scheisze
 .. date: 2022-04-17 22:30:29 UTC+02:00
-.. tags: Fahrrad, Programmieren, Smartphone, Daten, Infrastruktur
-.. category: Fahrrad
+.. tags: Sonstiges, Toilette, Umtausch
+.. category: Sonstiges
 .. link: 
 .. description: 
 .. type: text

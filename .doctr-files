@@ -178,8 +178,6 @@
 ./categories/corona/index.html
 ./categories/cryptoparty.xml
 ./categories/cryptoparty/index.html
-./categories/daten.xml
-./categories/daten/index.html
 ./categories/datenschutz.xml
 ./categories/datenschutz/index.html
 ./categories/deftig.xml
@@ -279,8 +277,6 @@
 ./categories/horror.xml
 ./categories/horror/index.html
 ./categories/index.html
-./categories/infrastruktur.xml
-./categories/infrastruktur/index.html
 ./categories/insekten.xml
 ./categories/insekten/index.html
 ./categories/internet.xml
@@ -437,6 +433,8 @@
 ./categories/thriller/index.html
 ./categories/tiere.xml
 ./categories/tiere/index.html
+./categories/toilette.xml
+./categories/toilette/index.html
 ./categories/torte.xml
 ./categories/torte/index.html
 ./categories/traum.xml
@@ -449,6 +447,8 @@
 ./categories/tulpen/index.html
 ./categories/twitter.xml
 ./categories/twitter/index.html
+./categories/umtausch.xml
+./categories/umtausch/index.html
 ./categories/umwelt.xml
 ./categories/umwelt/index.html
 ./categories/unterhaltung.xml
