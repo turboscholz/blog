@@ -49,7 +49,7 @@ Da will man einfach nur eine saubere Toilette haben und ist so
 verantwortlich für Plastikvermüllung der Meere. So eine Scheiße!
 
 Was also tun? Die Klobürste ist quasi brandneu gewesen, aber das
-benutzte Stück zur Supermarkt-Kasse bringen und sagen „Ich hätte die her
+benutzte Stück zur Supermarkt-Kasse bringen und sagen „Ich hätte die hier
 gerne umgetauscht, denn sie putzt nicht wie sie soll.“? Keine gute Idee,
 oder?
 
