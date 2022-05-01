@@ -45,8 +45,8 @@ passiert. Im Prinzip ist das ja nichts anderes, als ein Rezept für Brot
 zu variieren - im Prinzip... :‑)
 
 Wer jetzt gleich Lust bekommen hat, sich selbst zu versuchen, für den
-hab einen interessanten Artikel von dev-insider.de gefunden, in dem ein
-paar Tipps stehen, wie man am besten anfängt:
+hab ich einen interessanten Artikel von dev-insider.de gefunden, in dem
+ein paar Tipps stehen, wie man am besten anfängt:
 https://www.dev-insider.de/wie-nimmt-man-an-floss-projekten-teil-a-987918/
 
 (*) Und vergisst man darüber hinaus nicht die prekären
