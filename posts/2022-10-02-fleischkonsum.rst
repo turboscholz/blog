@@ -9,14 +9,14 @@
 
 Es gibt ja fast kein ähnliches Thema, bei jeder etwas zu sagen hat, und
 wo man am Ende doch nur mit Halbwissen glänzen kann: Ernährung. Was ist
-gesund, und vor allem wie viel davon? Vor allem beim Fleischkonsum
-scheiden sich die Geister schnell. Doch gerade hier geht es nicht nur um
-die Gesundheit, sondern auch um den persönlichen Einfluss auf die
-Abholzung des Regenswalds, das Tierwohl, die Unterstützung von
-Bio-Bauern und, und und... Als wir vor kurzem wieder einen TV-Bericht
+gesund, und vor allem wie viel davon? Gerade beim Fleischkonsum scheiden
+sich die Geister schnell. Doch hier geht es nicht nur um die Gesundheit,
+sondern auch um den persönlichen Einfluss auf die Abholzung des
+Regenswalds, das Tierwohl, die Unterstützung von Bio-Bauern, den
+Klimawandel und, und und... Als wir vor kurzem wieder einen TV-Bericht
 über den Fleischkonsum der Deutschen gesehen haben, sind wir uns schnell
-einig gewesen, dass unser Fleischgenuss geringer ist, als der
-Durchschnitt. Aber wie hoch ist er denn nun tatsächlich?
+einig gewesen, dass unserer geringer ist, als der Durchschnitt. Aber wie
+hoch ist er denn nun tatsächlich?
 
 Zum Glück hat das Internet hier schon eine Lösung parat: Die App
 MeatAccount!
@@ -26,7 +26,7 @@ MeatAccount!
 
 .. TEASER_END
 
-Mit dieser App (in einer `kostenlosen
+Mit dieser Android-App (in einer `kostenlosen
 <https://play.google.com/store/apps/details?id=com.flyingjannis.meataccount&hl=de&gl=US>`_
 und einer günstigen `werbefreien
 <https://play.google.com/store/apps/details?id=com.flyingjannis.meataccountPRO&hl=de&gl=US>`_
