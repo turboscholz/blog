@@ -1,4 +1,4 @@
-.. title: Fleischkonsum
+.. title: Fleischkonto
 .. slug: fleischkonsum
 .. date: 2022-10-02 20:42:57 UTC+02:00
 .. tags: Apps, Essen, Fleisch, Umwelt, Gesundheit
