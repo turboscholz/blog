@@ -1,7 +1,7 @@
 .. title: Veggi-Fleisch
 .. slug: fleisch-oder-kein-fleisch
 .. date: 2020-03-11 22:04:45 UTC+01:00
-.. tags: Essen, Vegetarisch, Fleish
+.. tags: Essen, Vegetarisch, Fleisch
 .. category: Essen
 .. link: 
 .. description: 

@@ -1,7 +1,7 @@
 .. title: Die App "One Piece a Day"
 .. slug: one-piece-a-day
 .. date: 2018-04-03 21:22:43 UTC+01:00
-.. tags: Software, App, Umwelt
+.. tags: Software, Apps, Umwelt
 .. category: Software
 .. link: 
 .. description: 

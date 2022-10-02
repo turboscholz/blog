@@ -1,7 +1,7 @@
 .. title: Auflauf aus der App
 .. slug: auflauf-aus-der-app
 .. date: 2018-02-08 07:58:23 UTC+01:00
-.. tags: Essen, Kochen, App
+.. tags: Essen, Kochen, Apps
 .. category: Essen
 .. link: 
 .. description: 

@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Essen)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_essen.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2022 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 01 May 2022 11:57:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Veggi-Fleisch</title><link>https://turboscholz.github.io/blog/posts/fleisch-oder-kein-fleisch/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Vor kurzem ging es bei uns im Bürogespräch (wieder mal) um den Sinn,
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Essen)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_essen.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2022 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 02 Oct 2022 21:02:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Fleischkonsum</title><link>https://turboscholz.github.io/blog/posts/fleischkonsum/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Es gibt ja fast kein ähnliches Thema, bei jeder etwas zu sagen hat, und
+wo man am Ende doch nur mit Halbwissen glänzen kann: Ernährung. Was ist
+gesund, und vor allem wie viel davon? Vor allem beim Fleischkonsum
+scheiden sich die Geister schnell. Doch gerade hier geht es nicht nur um
+die Gesundheit, sondern auch um den persönlichen Einfluss auf die
+Abholzung des Regenswalds, das Tierwohl, die Unterstützung von
+Bio-Bauern und, und und... Als wir vor kurzem wieder einen TV-Bericht
+über den Fleischkonsum der Deutschen gesehen haben, sind wir uns schnell
+einig gewesen, dass unser Fleischgenuss geringer ist, als der
+Durchschnitt. Aber wie hoch ist er denn nun tatsächlich?&lt;/p&gt;
+&lt;p&gt;Zum Glück hat das Internet hier schon eine Lösung parat: Die App
+MeatAccount!&lt;/p&gt;
+&lt;img alt="Das Icon der App MeatAccount" src="https://turboscholz.github.io/blog/images/2022-10-02-MeatAccount-Icon.png"&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/fleischkonsum/"&gt;Weiterlesen…&lt;/a&gt; (2 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Apps</category><category>Essen</category><category>Fleisch</category><category>Gesundheit</category><category>Umwelt</category><guid>https://turboscholz.github.io/blog/posts/fleischkonsum/</guid><pubDate>Sun, 02 Oct 2022 18:42:57 GMT</pubDate></item><item><title>Veggi-Fleisch</title><link>https://turboscholz.github.io/blog/posts/fleisch-oder-kein-fleisch/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Vor kurzem ging es bei uns im Bürogespräch (wieder mal) um den Sinn,
 vegetarisches Essen so aussehen zu lassen, als ob es Fleisch wäre.&lt;/p&gt;
 &lt;p&gt;Mittlerweile habe ich dazu eine ganz einfache Meinung: Wenn
 vegetarisches Essen aussieht wie Fleisch, und schmeckt wie Fleisch, dann
@@ -13,7 +26,7 @@ Transport qualvoll schlachten und das Fleisch wieder nach Deutschland
 zurück transportieren zu lassen.&lt;/p&gt;
 &lt;p&gt;Und ja, ich esse auch echtes Fleisch von echten Tieren. Aber viel viel
 weniger als früher, und schon gar nicht das aus der Fleischteke im
-Supermarkt oder Discounter.&lt;/p&gt;</description><category>Essen</category><category>Fleish</category><category>Vegetarisch</category><guid>https://turboscholz.github.io/blog/posts/fleisch-oder-kein-fleisch/</guid><pubDate>Wed, 11 Mar 2020 21:04:45 GMT</pubDate></item><item><title>Auflauf aus der App</title><link>https://turboscholz.github.io/blog/posts/auflauf-aus-der-app/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Was ihr hier seht ist Kartoffelauflauf mit Béchamelsauße. Dieser Auflauf
+Supermarkt oder Discounter.&lt;/p&gt;</description><category>Essen</category><category>Fleisch</category><category>Vegetarisch</category><guid>https://turboscholz.github.io/blog/posts/fleisch-oder-kein-fleisch/</guid><pubDate>Wed, 11 Mar 2020 21:04:45 GMT</pubDate></item><item><title>Auflauf aus der App</title><link>https://turboscholz.github.io/blog/posts/auflauf-aus-der-app/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Was ihr hier seht ist Kartoffelauflauf mit Béchamelsauße. Dieser Auflauf
 schmeckte besser, als er hier aussieht. 😅&lt;/p&gt;
 &lt;p&gt;Erwähnenswert ist, dass das Rezept aus der App "Zu gut für die Tonne!"
 (oder "Beste Reste") stammt. Ich hatte Kartoffeln und die Paprika übrig
@@ -21,7 +34,7 @@ und konnte sie in der App als Ausgangszutaten eingeben. Die App hat mir
 dann dieses Auflaufrezept vorgeschlagen, und so konnten wir die
 Lebensmittelverschwendung wieder etwas eindämmen. 😋&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.zugutfuerdietonne.de/praktische-helfer/app/"&gt;https://www.zugutfuerdietonne.de/praktische-helfer/app/&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="/images/2018-02-08-Auflauf.jpg" src="https://turboscholz.github.io/blog/images/2018-02-08-Auflauf.jpg"&gt;</description><category>App</category><category>Essen</category><category>Kochen</category><guid>https://turboscholz.github.io/blog/posts/auflauf-aus-der-app/</guid><pubDate>Thu, 08 Feb 2018 06:58:23 GMT</pubDate></item><item><title>Hänchencreme</title><link>https://turboscholz.github.io/blog/posts/hanchencreme/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Hänchencreme haben wir gestern gemacht. Wir finden, sie ist
+&lt;img alt="/images/2018-02-08-Auflauf.jpg" src="https://turboscholz.github.io/blog/images/2018-02-08-Auflauf.jpg"&gt;</description><category>Apps</category><category>Essen</category><category>Kochen</category><guid>https://turboscholz.github.io/blog/posts/auflauf-aus-der-app/</guid><pubDate>Thu, 08 Feb 2018 06:58:23 GMT</pubDate></item><item><title>Hänchencreme</title><link>https://turboscholz.github.io/blog/posts/hanchencreme/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Diese Hänchencreme haben wir gestern gemacht. Wir finden, sie ist
 ziemlich gut geworden.&lt;/p&gt;
 &lt;img alt="/images/2016-11-20-Haenchencreme.jpg" src="https://turboscholz.github.io/blog/images/2016-11-20-Haenchencreme.jpg"&gt;
 &lt;p&gt;Man nehme:&lt;/p&gt;
@@ -60,15 +73,4 @@ zum Kaffee gezaubert werden. Ich hab' mich für ein Tortenezept aus
 unserem "Backen ohne Backen" Buch entschieden.&lt;/p&gt;
 &lt;p&gt;Die Torte war lecker und hat wegen dem Limettensaft eine leicht saure
 Note. Das Rezept gibt's auf Anfrage. :-)&lt;/p&gt;
-&lt;img alt="/images/2014-07-13-Kiwi-Sahne-Torte.jpg" src="https://turboscholz.github.io/blog/images/2014-07-13-Kiwi-Sahne-Torte.jpg"&gt;</description><category>DIY</category><category>Essen</category><category>Torte</category><guid>https://turboscholz.github.io/blog/posts/kiwi-sahne-torte/</guid><pubDate>Sun, 13 Jul 2014 15:33:37 GMT</pubDate></item><item><title>Leckerer Radieschenquark</title><link>https://turboscholz.github.io/blog/posts/leckerer-radieschenquark/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;&lt;strong&gt;Zutaten&lt;/strong&gt;&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;200g Quark (ich nehme 20%igen),&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;100g Radieschen (in Streifen geschnitten),&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1/3 Bund Schnittlauch,&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Salz und Pfeffer.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitung&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Umrühren, fertig. Hab ich eben gemacht und freue mich schon auf das
-morgige Frühstück. Und wenn's die Radieschen aus dem eigenen Garten
-sind, dann schmeckt's sicher gleich nochmal so gut. :-)&lt;/p&gt;
-&lt;img alt="/images/2014-05-21-Radieschenquark.jpg" src="https://turboscholz.github.io/blog/images/2014-05-21-Radieschenquark.jpg"&gt;</description><category>DIY</category><category>Essen</category><guid>https://turboscholz.github.io/blog/posts/leckerer-radieschenquark/</guid><pubDate>Wed, 21 May 2014 12:01:20 GMT</pubDate></item></channel></rss>
+&lt;img alt="/images/2014-07-13-Kiwi-Sahne-Torte.jpg" src="https://turboscholz.github.io/blog/images/2014-07-13-Kiwi-Sahne-Torte.jpg"&gt;</description><category>DIY</category><category>Essen</category><category>Torte</category><guid>https://turboscholz.github.io/blog/posts/kiwi-sahne-torte/</guid><pubDate>Sun, 13 Jul 2014 15:33:37 GMT</pubDate></item></channel></rss>

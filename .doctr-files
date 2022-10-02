@@ -32,8 +32,6 @@
 ./categories/aktien/index.html
 ./categories/amsel.xml
 ./categories/amsel/index.html
-./categories/app.xml
-./categories/app/index.html
 ./categories/apps.xml
 ./categories/apps/index.html
 ./categories/arbeit.xml
@@ -220,8 +218,6 @@
 ./categories/fisch/index.html
 ./categories/fleisch.xml
 ./categories/fleisch/index.html
-./categories/fleish.xml
-./categories/fleish/index.html
 ./categories/flughafen.xml
 ./categories/flughafen/index.html
 ./categories/frankfurt.xml
@@ -250,6 +246,8 @@
 ./categories/geschichte/index.html
 ./categories/gesellschaft.xml
 ./categories/gesellschaft/index.html
+./categories/gesundheit.xml
+./categories/gesundheit/index.html
 ./categories/getraumt.xml
 ./categories/getraumt/index.html
 ./categories/google.xml
@@ -696,6 +694,10 @@
 ./images/2021-08-17-BadKoenig-3.thumbnail.png
 ./images/2021-08-17-BadKoenig-4.png
 ./images/2021-08-17-BadKoenig-4.thumbnail.png
+./images/2022-10-02-MeatAccount-App.png
+./images/2022-10-02-MeatAccount-App.thumbnail.png
+./images/2022-10-02-MeatAccount-Icon.png
+./images/2022-10-02-MeatAccount-Icon.thumbnail.png
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -801,6 +803,8 @@
 ./posts/fisch-am-freitag/index.rst
 ./posts/fleisch-oder-kein-fleisch/index.html
 ./posts/fleisch-oder-kein-fleisch/index.rst
+./posts/fleischkonsum/index.html
+./posts/fleischkonsum/index.rst
 ./posts/frau-muller-muss-weg/index.html
 ./posts/frau-muller-muss-weg/index.rst
 ./posts/gardine-aus-dem-baumarkt/index.html
