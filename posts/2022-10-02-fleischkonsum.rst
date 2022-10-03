@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Es gibt ja fast kein ähnliches Thema, bei jeder etwas zu sagen hat, und
+Es gibt ja fast kein ähnliches Thema, bei dem jeder etwas zu sagen hat, und
 wo man am Ende doch nur mit Halbwissen glänzen kann: Ernährung. Was ist
 gesund, und vor allem wie viel davon? Gerade beim Fleischkonsum scheiden
 sich die Geister schnell. Doch hier geht es nicht nur um die Gesundheit,
@@ -40,7 +40,7 @@ App sehr einfach.
 Allerdings, und das finde ich an MeatAccount sehr gut, regt die App beim
 Protokollieren schon zum Sparen an. Denn man erhält jede Wochen einen
 Vorschuss von 300 Gramm Fleisch. Hat man Fleisch gegessen und dies
-eingetragen, so zieht die App automatisch von den 300g den eingetragenen
+eingetragen, so zieht die App von den 300g den eingetragenen
 Verbrauch ab. Warum 300 Gramm? Die Deutsche Gesellschaft für Ernährung
 (DGE) empfiehlt, dass man pro Woche nicht mehr als 300 - 600 Gramm
 Fleisch isst. In der App kann man sein Wochenziel variabel einstellen
