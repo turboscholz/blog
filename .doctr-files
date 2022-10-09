@@ -275,6 +275,8 @@
 ./categories/horror.xml
 ./categories/horror/index.html
 ./categories/index.html
+./categories/infrastruktur.xml
+./categories/infrastruktur/index.html
 ./categories/insekten.xml
 ./categories/insekten/index.html
 ./categories/internet.xml
@@ -698,6 +700,14 @@
 ./images/2022-10-02-MeatAccount-App.thumbnail.png
 ./images/2022-10-02-MeatAccount-Icon.png
 ./images/2022-10-02-MeatAccount-Icon.thumbnail.png
+./images/2022-10-09-BSK-Umbau.png
+./images/2022-10-09-BSK-Umbau.thumbnail.png
+./images/2022-10-09-BSK-nachher.png
+./images/2022-10-09-BSK-nachher.thumbnail.png
+./images/2022-10-09-BSK-vorher.png
+./images/2022-10-09-BSK-vorher.thumbnail.png
+./images/2022-10-09-Erschuetterung.png
+./images/2022-10-09-Erschuetterung.thumbnail.png
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -709,6 +719,7 @@
 ./index-12.html
 ./index-13.html
 ./index-14.html
+./index-15.html
 ./index-2.html
 ./index-3.html
 ./index-4.html
@@ -923,6 +934,8 @@
 ./posts/quittenernte/index.rst
 ./posts/radom-bookmark/index.html
 ./posts/radom-bookmark/index.rst
+./posts/radweganalyse-mit-dem-smartphone/index.html
+./posts/radweganalyse-mit-dem-smartphone/index.rst
 ./posts/random-corona-walk/index.html
 ./posts/random-corona-walk/index.rst
 ./posts/ratsel-am-ende-von-edge-of-tomorrow/index.html
