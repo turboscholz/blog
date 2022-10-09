@@ -57,7 +57,7 @@ kommunalen Betriebe Langen, die diesen Umbau durchgeführt haben, und
 auch an den/die Mitarbeiter*in, welche(r) den Umbau in Auftrag gegeben
 hat.
 
-PS: Zur Messung der Radwegqualität mit dem Smartphones wird demnächst
+PS: Zur Messung der Radwegqualität mit dem Smartphone wird demnächst
 ein Artikel in Ausgabe 35 der Zeitschrift `Fahrradzukunft
 <https://fahrradzukunft.de/>`_ erscheinen, in dem ich auch den neu
 gebauten Radschnellweg FRM1 zwischen Langen und Egelsbach genauer
