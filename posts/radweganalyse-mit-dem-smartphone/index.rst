@@ -9,10 +9,10 @@
 
 In der Nähe unserer Wohnung gab es bis vor kurzem eine
 Fußgängerverbindung zweier Straßen, die für Rollstuhl- oder Radfahrer
-unkomfortabel zu überqueren war. Als ich mir dessen bewusst wurde, habe
-ich im Bürgermelder unserer Stadt eine Nachricht dazu hinterlassen.
-Freude, freude: ein paar Monate später fand an dieser Stelle tatsächlich
-der Umbau statt.
+unkomfortabel zu überqueren war. Irgendwann ist auch mir das
+aufgefallen, und ich habe über den Bürgermelder unserer Stadt eine
+Nachricht dazu hinterlassen. Freude, oh Freude: ein paar Monate später fand
+an dieser Stelle tatsächlich der Umbau statt.
 
 .. Image:: /images/2022-10-09-BSK-Umbau.png
     :alt: Ankündigung einer Umbaumaßnahme
