@@ -1,4 +1,4 @@
-.. title: Ebene(re) Radwege - objektiv vermessen
+.. title: Ebene(re) Wege - objektiv vermessen
 .. slug: radweganalyse-mit-dem-smartphone
 .. date: 2022-10-09 12:09:29 UTC+02:00
 .. tags: Fahrrad, Smartphone, Infrastruktur, Langen
