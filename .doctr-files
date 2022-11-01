@@ -285,6 +285,8 @@
 ./categories/kaffee/index.html
 ./categories/keepassxc.xml
 ./categories/keepassxc/index.html
+./categories/kernspaltung.xml
+./categories/kernspaltung/index.html
 ./categories/kino.xml
 ./categories/kino/index.html
 ./categories/klima.xml
@@ -345,6 +347,8 @@
 ./categories/passworter/index.html
 ./categories/pflanzen.xml
 ./categories/pflanzen/index.html
+./categories/physik.xml
+./categories/physik/index.html
 ./categories/plastik.xml
 ./categories/plastik/index.html
 ./categories/post.xml
@@ -920,6 +924,8 @@
 ./posts/odenwaldwanderung-zum-ireneturm/index.rst
 ./posts/one-piece-a-day/index.html
 ./posts/one-piece-a-day/index.rst
+./posts/otto-hahns-artikel-zur-kernspaltung-frei-lesbar/index.html
+./posts/otto-hahns-artikel-zur-kernspaltung-frei-lesbar/index.rst
 ./posts/papaya-spinat-cocktail/index.html
 ./posts/papaya-spinat-cocktail/index.rst
 ./posts/programmieren-ist-wie-brot-backen/index.html

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2022 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 09 Oct 2022 19:26:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ebene(re) Wege - objektiv vermessen</title><link>https://turboscholz.github.io/blog/posts/radweganalyse-mit-dem-smartphone/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;In der Nähe unserer Wohnung gab es bis vor kurzem eine
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog</title><link>https://turboscholz.github.io/blog/</link><description>Dies ist mein persönlicher Blog - über Gedöns</description><atom:link href="https://turboscholz.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2022 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Tue, 01 Nov 2022 22:08:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Artikel zum Nachweis der Kernspaltung frei lesbar</title><link>https://turboscholz.github.io/blog/posts/otto-hahns-artikel-zur-kernspaltung-frei-lesbar/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Über die URL &lt;a class="reference external" href="https://rdcu.be/cYp1b"&gt;https://rdcu.be/cYp1b&lt;/a&gt; ist seit kurzem der Artikel von Otto
+Hahn und Fritz Straßmann über die erstmals beobachtete Kernspaltung ende
+der 1930er Jahre frei verfügbar. Die URL kann beliebig geteilt werden,
+der Artikel ist online zu lesen. Endlich ist damit der Originaltext aus
+der Zeitschrift "Die Naturwissenschaften" von 1939 über den Nachweis der
+Kernspaltung von Uran durch Neutronen frei und ohne Kosten für alle
+erhältlich!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/otto-hahns-artikel-zur-kernspaltung-frei-lesbar/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Kernspaltung</category><category>Museum</category><category>Physik</category><category>Wissenschaft</category><guid>https://turboscholz.github.io/blog/posts/otto-hahns-artikel-zur-kernspaltung-frei-lesbar/</guid><pubDate>Tue, 01 Nov 2022 20:29:11 GMT</pubDate></item><item><title>Ebene(re) Wege - objektiv vermessen</title><link>https://turboscholz.github.io/blog/posts/radweganalyse-mit-dem-smartphone/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;In der Nähe unserer Wohnung gab es bis vor kurzem eine
 Fußgängerverbindung zweier Straßen, die für Rollstuhl- oder Radfahrer
 unkomfortabel zu überqueren war. Irgendwann ist auch mir das
 aufgefallen, und ich habe über den Bürgermelder unserer Stadt eine
@@ -50,11 +57,4 @@ bekommt schnell Hilfe.&lt;/p&gt;
 &lt;p&gt;Jedenfalls, als ich meiner Frau sagte, ich muss schnell wieder was im
 Handy suchen, viel der Satz "Ich muss das auch noch &lt;em&gt;sucheln&lt;/em&gt;."
 Eine Mischung aus Suchen und Googlen - Sucheln eben. Irgendwie ein
-schönes Wort.&lt;/p&gt;</description><category>Freizeit</category><category>Kreatives</category><category>Wörter</category><guid>https://turboscholz.github.io/blog/posts/sucheln/</guid><pubDate>Tue, 19 Jan 2021 21:41:09 GMT</pubDate></item><item><title>Das war mein 2020</title><link>https://turboscholz.github.io/blog/posts/das-war-mein-2020/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Das Jahr 2020 begann für mich mit einer großen Platzwunde an der Stirn.
-Die hatte ich mir beim Fußballspielen und einem übersehenen Schiebetor
-für eine Garage geholt. Naja, mittlerweile ist die Narbe fast nicht mehr
-sichtbar, mein Dank geht an die Ärztin im Krankenhaus in Kempten, welche
-die Wunde genäht hat. Sie freute sich damals, dass ich endlich ein
-richtiger Notfall bin, und nicht nur mit Schnupfen oder Rückenschmerzen
-ins Krankenhaus kam.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/das-war-mein-2020/"&gt;Weiterlesen…&lt;/a&gt; (2 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Garten</category><category>Hobby</category><category>Natur</category><category>Wandern</category><guid>https://turboscholz.github.io/blog/posts/das-war-mein-2020/</guid><pubDate>Sun, 03 Jan 2021 14:23:19 GMT</pubDate></item></channel></rss>
+schönes Wort.&lt;/p&gt;</description><category>Freizeit</category><category>Kreatives</category><category>Wörter</category><guid>https://turboscholz.github.io/blog/posts/sucheln/</guid><pubDate>Tue, 19 Jan 2021 21:41:09 GMT</pubDate></item></channel></rss>
