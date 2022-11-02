@@ -11,7 +11,7 @@
 Hahn und Fritz Straßmann über die erstmals beobachtete Kernspaltung ende
 der 1930er Jahre frei verfügbar. Die URL kann beliebig geteilt werden,
 der Artikel ist online zu lesen. Endlich ist damit der Originaltext aus
-der Zeitschrift "Die Naturwissenschaften" von 1939 über den Nachweis der
+der Zeitschrift „Die Naturwissenschaften“ von 1939 über den Nachweis der
 Kernspaltung von Uran durch Neutronen frei und ohne Kosten für alle
 erhältlich!
 
@@ -60,4 +60,4 @@ hervorheben:
 *
   https://books.ub.uni-heidelberg.de/propylaeum/reader/download/297/297-30-79012-1-10-20170921.pdf -
   Artikel über die Geschichte des Kernspaltungstisches im Deutschen Museum
-  München. Extrem Spannend. Sollte man gelesen haben.
+  München. Extrem spannend. Sollte man gelesen haben.
