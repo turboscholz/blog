@@ -10,7 +10,7 @@
 **Neues aus der Wissenschaft**: 1939 veröffentlichten Otto Hahn und
 Fritz Straßmann in der Zeitschrift „Die Naturwissenschaften“ einen
 Artikel, in dem der experimentelle Nachweis der Kernspaltung dargestellt
-wurde. Dieser Artikel ist seit kurzem für alle über den Link
+wurde. Dieser Artikel ist seit Kurzem für alle über den Link
 https://rdcu.be/cYp1b abrufbar.
 
 .. TEASER_END
