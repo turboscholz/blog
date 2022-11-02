@@ -29,7 +29,7 @@ Also hab ich Abends im Hotel noch bisschen recherchiert. Leider war der
 Originalartikel von Otto Hahn und Fritz Straßmann hinter einer Paywall
 versteckt. Das ist nichts Ungewöhnliches bei wissenschaftlichen
 Artikeln. Allerdings gab es 1944 für diese Entdeckung einen Nobelpreis
-und das ist nun schon 78 her... Ich hab also beim Springer Verlag
+und das ist nun schon 78 Jahre her... Ich hab also beim Springer Verlag
 nachgefragt. Der Kundenservice war schließlich so nett und hat den
 besagten Artikel für alle freigegeben. Vielen, vielen Dank dafür! ❤️
 
