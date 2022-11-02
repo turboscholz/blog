@@ -7,28 +7,24 @@
 .. description: 
 .. type: text
 
-Über die URL https://rdcu.be/cYp1b ist seit kurzem der Artikel von Otto
-Hahn und Fritz Straßmann über die erstmals beobachtete Kernspaltung ende
-der 1930er Jahre frei verfügbar. Die URL kann beliebig geteilt werden,
-der Artikel ist online zu lesen. Endlich ist damit der Originaltext aus
-der Zeitschrift „Die Naturwissenschaften“ von 1939 über den Nachweis der
-Kernspaltung von Uran durch Neutronen frei und ohne Kosten für alle
-erhältlich!
+**Neues aus der Wissenschaft**: 1939 veröffentlichten Otto Hahn und
+Fritz Straßmann in der Zeitschrift „Die Naturwissenschaften“ einen
+Artikel, in dem der experimentelle Nachweis der Kernspaltung dargestellt
+wurde. Dieser Artikel ist seit kurzem für alle über den Link
+https://rdcu.be/cYp1b abrufbar.
 
 .. TEASER_END
 
-**Hintergrund 1**: Im Oktober 2022 war ich mit meiner Frau auf Reise nach
-München. Im Deutschen Museum kamen wir am *Hahn-Meitner-Straßmann-Tisch*
-vorbei, auf dem eine Experimentieranordnung dargestellt ist, die
-symbolisch die Entdeckung der Kernspaltung verdeutlichen soll.
-Symbolisch, weil es nicht der tatsächlichen Anordnung entspricht,
-nachzulesen `hier
+Im Oktober 2022 war ich mit meiner Frau auf Reise nach München. Im
+Deutschen Museum kamen wir am ***Hahn-Meitner-Straßmann-Tisch* vorbei, auf
+dem die symbolische Experimentieranordnung zur Entdeckung der
+Kernspaltung dargestellt ist. Symbolisch, weil es nicht der
+tatsächlichen Anordnung entspricht, nachzulesen `hier
 <https://digital.deutsches-museum.de/de/digital-catalogue/collection-object/71930/>`_.
 Dieser Tisch hat mich als Physiker gleich fasziniert, weil ich sofort
 wissen wollte, wie man den Beweis mit den Geräten auf diesem Tisch
 durchführt. Denn der Geigerzähler auf dem Tisch gibt ja nicht direkt an,
-*welches* Element gemessen wurde. Hier musste also noch eine Information
-verborgen sein...
+*welches* Element detektiert wurde.
 
 Also hab ich Abends im Hotel noch bisschen recherchiert. Leider war der
 Originalartikel von Otto Hahn und Fritz Straßmann hinter einer `Paywall
@@ -36,11 +32,10 @@ Originalartikel von Otto Hahn und Fritz Straßmann hinter einer `Paywall
 ist ja nichts Ungewöhnliches bei wissenschaftlichen Artikeln. Allerdings
 gab es 1944 für diese Entdeckung einen Nobelpreis und nach 78 Jahren
 soll man fast 40€ für diesen Artikel abdrücken? Ich hab also beim
-Springer Verlag nachgefragt. Aleta Kalkstein vom Springer Kundenservice
-war dann so nett und hat den besagten Artikel für alle freigegeben.
-Vielen, vielen Dank dafür!
+Springer Verlag nachgefragt. Der Kundenservice war dann so nett und hat
+den besagten Artikel für alle freigegeben. Vielen, vielen Dank dafür! ❤️
 
-**Hintergrund 2**: Natürlich gibt es im Netz eine Unmenge von Informationen
+**Lesetipps**: Natürlich gibt es im Netz eine Unmenge von Informationen
 zur Kernspaltung. Aus meiner Recherche möchte ich drei Artikel besonders
 hervorheben:
 
@@ -48,8 +43,8 @@ hervorheben:
   wird mit großem Detailreichtum die Entdeckung von der
   wissenschaftlichen Seite her beschrieben. Das notwendige Vorwissen
   wird auch erklärt. Besonders zeigt der Artikel, wie viel Chemie in den
-  Versuchen steckte. Dies ist an dem Tisch im Museum nicht ansatzweise
-  zu erkennen.
+  Versuchen steckte, was man an dem Tisch im Museum nicht direkt
+  erkennen konnte.
 
 * https://www.spektrum.de/magazin/lise-meitner-und-die-kernspaltung/824545 -
   Dieser Artikel geht speziell auf die Rolle von Lise Meitner auf die
