@@ -21,9 +21,8 @@ vorbei, auf dem die symbolische Experimentieranordnung zur Entdeckung
 der Kernspaltung dargestellt ist. `Dieser Tisch
 <https://digital.deutsches-museum.de/de/digital-catalogue/collection-object/71930/>`_
 hat mich als Physiker gleich fasziniert, weil ich sofort wissen wollte,
-wie man den Beweis mit den Geräten auf diesem Tisch durchführt. Denn der
-Geigerzähler auf dem Tisch gibt ja nicht direkt an, *welches* Element
-detektiert wurde.
+wie man den Beweis mit den darauf gezeigten Geräten durchführt. Denn
+keins der Geräte gibt direkt an, *welches* Element detektiert wurde.
 
 Also hab ich Abends im Hotel noch bisschen recherchiert. Leider war der
 Originalartikel von Otto Hahn und Fritz Straßmann hinter einer Paywall
@@ -54,3 +53,8 @@ hervorheben:
   https://books.ub.uni-heidelberg.de/propylaeum/reader/download/297/297-30-79012-1-10-20170921.pdf -
   Artikel über die Geschichte des Kernspaltungstisches im Deutschen Museum
   München. Extrem spannend.
+
+Update, 04. November 2022: Von Susanne Rehn-Taube vom Deutschen Museum
+München habe ich noch den Tipp zu folgendem Blog-Artikel erhalten, der
+die Technik des Tisches noch etwas weiter erläutert:
+https://blog.deutsches-museum.de/2021/01/22/das-entwirren-eines-82jaehrigen-kabelsalats
