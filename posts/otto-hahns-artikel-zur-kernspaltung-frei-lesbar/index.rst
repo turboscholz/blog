@@ -54,7 +54,7 @@ hervorheben:
   Artikel über die Geschichte des Kernspaltungstisches im Deutschen Museum
   München. Extrem spannend.
 
-Update, 04. November 2022: Von Susanne Rehn-Traube vom Deutschen Museum
+Update, 04. November 2022: Von Susanne Rehn-Taube vom Deutschen Museum
 München habe ich noch den Tipp zu folgendem Blog-Artikel erhalten, der
 die Technik des Tisches noch etwas weiter erläutert:
 https://blog.deutsches-museum.de/2021/01/22/das-entwirren-eines-82jaehrigen-kabelsalats
