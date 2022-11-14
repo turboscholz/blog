@@ -13,8 +13,6 @@ Artikel, in dem der experimentelle Nachweis der Kernspaltung dargestellt
 wurde. Dieser Artikel ist seit Kurzem für alle über den Link
 https://rdcu.be/cYp1b abrufbar.
 
-.. TEASER_END
-
 Wie kam es dazu? Im Oktober 2022 war ich mit meiner Frau auf Reise nach
 München. Im Deutschen Museum kamen wir am *Hahn-Meitner-Straßmann-Tisch*
 vorbei, auf dem die symbolische Experimentieranordnung zur Entdeckung
@@ -23,6 +21,8 @@ der Kernspaltung dargestellt ist. `Dieser Tisch
 hat mich als Physiker gleich fasziniert, weil ich sofort wissen wollte,
 wie man den Beweis mit den darauf gezeigten Geräten durchführt. Denn
 keins der Geräte gibt direkt an, *welches* Element detektiert wurde.
+
+.. TEASER_END
 
 Also hab ich Abends im Hotel noch bisschen recherchiert. Leider war der
 Originalartikel von Otto Hahn und Fritz Straßmann hinter einer Paywall
