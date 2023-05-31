@@ -53,7 +53,7 @@ oder aus dem Fenster schauen überbrücken. Wie man eben so reist, wenn
 man es nicht eilig hat. Die Rückfahrt hat genauso ohne Probleme
 geklappt.
 
-Zufälligerweise erschien gerade heute auf `tageschau.de
+Zufälligerweise erschien erst kürzlich auf `tageschau.de
 <https://www.tagesschau.de/inland/gesellschaft/ein-monat-deutschlandticket-100.html>`_
 ein Artikel über ein Zwischenfazit nach einem Monat Deutschlandticket.
 Auch hier bekommt man nicht den Eindruck, dass das Ticket zwangsweise zu
