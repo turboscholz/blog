@@ -50,6 +50,8 @@
 ./categories/auto/index.html
 ./categories/backen.xml
 ./categories/backen/index.html
+./categories/bahn.xml
+./categories/bahn/index.html
 ./categories/banking.xml
 ./categories/banking/index.html
 ./categories/basteln.xml
@@ -180,6 +182,8 @@
 ./categories/datenschutz/index.html
 ./categories/deftig.xml
 ./categories/deftig/index.html
+./categories/deutschlandticket.xml
+./categories/deutschlandticket/index.html
 ./categories/discounter.xml
 ./categories/discounter/index.html
 ./categories/diy.xml
@@ -341,6 +345,8 @@
 ./categories/offline/index.html
 ./categories/opensource.xml
 ./categories/opensource/index.html
+./categories/opnv.xml
+./categories/opnv/index.html
 ./categories/ostwest.xml
 ./categories/ostwest/index.html
 ./categories/passworter.xml
@@ -499,6 +505,8 @@
 ./categories/zeitung/index.html
 ./categories/zeitungen.xml
 ./categories/zeitungen/index.html
+./categories/zug.xml
+./categories/zug/index.html
 ./favicon.ico
 ./images/2013-10-21-Scrabble.png
 ./images/2013-10-21-Scrabble.thumbnail.png
@@ -910,6 +918,8 @@
 ./posts/meine-ip-ist-eine-spamschleuder/index.rst
 ./posts/mersenne-primzahlen/index.html
 ./posts/mersenne-primzahlen/index.rst
+./posts/mit-dem-nahverkehr-von-hessen-nach-sachsen-und-zuruck/index.html
+./posts/mit-dem-nahverkehr-von-hessen-nach-sachsen-und-zuruck/index.rst
 ./posts/mullvermeidung-beim-metzger/index.html
 ./posts/mullvermeidung-beim-metzger/index.rst
 ./posts/nachtschattengewachse/index.html
