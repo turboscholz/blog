@@ -26,8 +26,8 @@ ziemlich genau in der Ferienzeit in Deutschland. Diese wird von der Bahn
 regelmäßig dazu genutzt, um Schäden an den Strecken auszubessern, weil
 weniger gereist wird... das war diesmal anders. Durch die Baustellen kam
 es also noch zusätzlich zu Verspätungen. Und im Sommer 2022 war auch
-corona noch nicht vorbei war. Es galt Maskenpflicht in den Zügen und
-Bussen. Leider wurde diese von einigen Menschen nicht mehr beachtet -
+corona noch nicht vorbei. Es galt Maskenpflicht in den Zügen und Bussen.
+Leider wurde diese von einigen Menschen nicht mehr beachtet -
 Kontrolleure mussten sich also zu allem Übel auch noch mit Fahrgästen
 herumärgern, welche die Maskenpflicht ignorierten. ... Die armen
 Angestellten! Alles in allem muss man aber sagen, dass die 9€ pro Monat
