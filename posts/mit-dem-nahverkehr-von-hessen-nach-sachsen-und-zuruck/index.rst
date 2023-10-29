@@ -9,7 +9,7 @@
 
 Seit Mai 2023 ist es da, das Deutschlandticket. Dass wir dieses indirekt
 dem verrückten Typen im Osten mit den Atomraketen zu verdanken haben,
-ist eine Traurige Randnotiz und hätte ich eigentlich gerne nicht
+ist eine traurige Randnotiz und hätte ich eigentlich gerne nicht
 erwähnen müssen. Schöner wäre, wenn der Anlass für das Ticket die
 Erkenntnis gewesen wäre, dass der Nahverkehr in Deutschland kompliziert
 ist. Zu kompliziert, sodass Frau Normalverbraucher ohne Auto kaum weiter
@@ -18,7 +18,7 @@ fährt, als über die Zonen... ähhh Stadtgrenze hinaus.
 Der Vorgänger des Deutschlandtickets wurde im Sommer 2022 für drei
 Monate zu jeweils 9€ pro Person angeboten. Damals kam der ÖPNV und
 dessen Angestellte durch mehreren Faktoren an seine Grenzen. Wegen der
-Flut an Menschen, die in den drei Monaten Reisen wollten, kam es
+Flut an Menschen, die in den drei Monaten reisen wollten, kam es
 permanent zu überfüllten Zügen und damit Verspätungen und Zugausfällen.
 Die Ursache war hier sicherlich nicht nur der günstige Preis des
 Tickets, sondern auch die Angebotszeit von Juni bis August, also
@@ -26,7 +26,7 @@ ziemlich genau in der Ferienzeit in Deutschland. Diese wird von der Bahn
 regelmäßig dazu genutzt, um Schäden an den Strecken auszubessern, weil
 weniger gereist wird... das war diesmal anders. Durch die Baustellen kam
 es also noch zusätzlich zu Verspätungen. Und im Sommer 2022 war auch
-corona noch nicht vorbei. Es galt Maskenpflicht in den Zügen und Bussen.
+Corona noch nicht vorbei. Es galt Maskenpflicht in den Zügen und Bussen.
 Leider wurde diese von einigen Menschen nicht mehr beachtet -
 Kontrolleure mussten sich also zu allem Übel auch noch mit Fahrgästen
 herumärgern, welche die Maskenpflicht ignorierten. ... Die armen

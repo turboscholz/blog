@@ -130,6 +130,8 @@
 ./categories/cat_kuchen/index.html
 ./categories/cat_kultur.xml
 ./categories/cat_kultur/index.html
+./categories/cat_lesen.xml
+./categories/cat_lesen/index.html
 ./categories/cat_linux.xml
 ./categories/cat_linux/index.html
 ./categories/cat_lustiges.xml
@@ -720,6 +722,8 @@
 ./images/2022-10-09-BSK-vorher.thumbnail.png
 ./images/2022-10-09-Erschuetterung.png
 ./images/2022-10-09-Erschuetterung.thumbnail.png
+./images/2023-11-29-JeremyJames.jpg
+./images/2023-11-29-JeremyJames.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -870,6 +874,8 @@
 ./posts/insektenhotel/index.rst
 ./posts/issenschaftnachrichten-von-vor-25-jahren/index.html
 ./posts/issenschaftnachrichten-von-vor-25-jahren/index.rst
+./posts/jeremy-james-lasst-mich-ratlos-zuruck/index.html
+./posts/jeremy-james-lasst-mich-ratlos-zuruck/index.rst
 ./posts/kaffee-ohne-einwegverpackung/index.html
 ./posts/kaffee-ohne-einwegverpackung/index.rst
 ./posts/kamera-zubehor-kann-man-das-auch-offline-kaufen/index.html
