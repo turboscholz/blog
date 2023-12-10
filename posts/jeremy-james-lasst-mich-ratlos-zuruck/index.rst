@@ -23,8 +23,6 @@ nach der Wende aufgeschwatzt hat.
 .. Image:: /images/2023-11-29-JeremyJames.jpg
     :alt: Das Kinderbuch Jeremy James oder Die Rennmaus ist weg
 
-.. TEASER_END
-
 Bei Jeremy James handelt es sich um einen Jungen, der in England lebt,
 und dort ganz alltägliche Geschichten erlebt. Der Erzählstil hat dabei
 einen zwinkernden Unterton, den ich als unbedarftes Dorfkind nicht

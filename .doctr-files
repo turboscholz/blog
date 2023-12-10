@@ -289,6 +289,8 @@
 ./categories/internet/index.html
 ./categories/kaffee.xml
 ./categories/kaffee/index.html
+./categories/kalender.xml
+./categories/kalender/index.html
 ./categories/keepassxc.xml
 ./categories/keepassxc/index.html
 ./categories/kernspaltung.xml
@@ -313,6 +315,8 @@
 ./categories/kundenbindung/index.html
 ./categories/langen.xml
 ./categories/langen/index.html
+./categories/lernen.xml
+./categories/lernen/index.html
 ./categories/lesen.xml
 ./categories/lesen/index.html
 ./categories/lesezeichen.xml
@@ -724,6 +728,8 @@
 ./images/2022-10-09-Erschuetterung.thumbnail.png
 ./images/2023-11-29-JeremyJames.jpg
 ./images/2023-11-29-JeremyJames.thumbnail.jpg
+./images/2023-12-10-GebaerdenKalender.jpg
+./images/2023-12-10-GebaerdenKalender.thumbnail.jpg
 ./images/EinAutoWeniger.png
 ./images/EinAutoWeniger.thumbnail.png
 ./images/Stopp_Werbung.png
@@ -836,6 +842,8 @@
 ./posts/frau-muller-muss-weg/index.rst
 ./posts/gardine-aus-dem-baumarkt/index.html
 ./posts/gardine-aus-dem-baumarkt/index.rst
+./posts/gebarden-kalender-fur-2024/index.html
+./posts/gebarden-kalender-fur-2024/index.rst
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.html
 ./posts/gegen-werbung-und-plastik-im-briefkasten/index.rst
 ./posts/gelesen-aussenseiter-in-der-wissenschaft/index.html
