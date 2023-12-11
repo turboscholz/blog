@@ -33,6 +33,6 @@ verlernt man alles ganz schnell.
 Hier ein kleines Bonmot aus der Gebärdensprache: Habt ihr gewusst, dass
 das Symbol 🤟 (Ausgestreckter Daumen, Zeigefinger und kleiner Finger)
 für I-Love-You steht? Denn die Geste sind die gleichzeitige Anzeige von
-drei Buchstaben: Dem I (Zeigefinger), dem L (Zeigefinger und Daumen) und
-dem Y (kleiner Finger).
+drei Buchstaben: Dem I (kleiner Finger), dem L (Zeigefinger und Daumen)
+und dem Y (kleiner Finger und Daumen).
 
