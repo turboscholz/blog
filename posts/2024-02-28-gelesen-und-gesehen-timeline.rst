@@ -45,7 +45,7 @@ Reisenden im Buch? °_°
 
 Weiter ergießt sich die Geschichte im ersten Drittel mit einer
 ewig-langen Einführung der Protagonisten und der Idee, die Hinter den
-Zeitreisen steckt. Alles Quatsch, das hätte ich der Autor schenken
+Zeitreisen steckt. Alles Quatsch, das hätte sich der Autor schenken
 können. Zeitreisen entspringen nun mal unserer Fantasie. Bei "Zurück in
 die Zukunft" hat es doch auch gereicht, dass Doc. Brown aus einem
 DeLorean und dem Flux-Kompensator eine Zeitmaschiene gebaut hat. Mehr
@@ -65,7 +65,7 @@ gelesen haben - der Film tut's auch.
        einziger Trailer im Netz existiert (deutsch und englisch). Und
        dieser lässt den Film wirklich in einem ganz falschen Licht
        erscheinen. Ich werden ihn daher nicht hier verlinken.
-       Stattdessen gibt's hier eine `Szene <https://www.youtube.com/watch?v=3H9TofuarsE&list=PLZbXA4lyCtqpeqJVKUumEOPt5IDwJU1ty&index=8>`_,
+       Stattdessen gibt's `hier eine Szene <https://www.youtube.com/watch?v=3H9TofuarsE&list=PLZbXA4lyCtqpeqJVKUumEOPt5IDwJU1ty&index=8>`_,
        in der der Professor "Griechisches Feuer" an einen der Feldherren
        übergibt. Man achte auf die gute Umsetzung der Kostüme und der
        Kriegstechnik. PS: Der Film kommt `hin und wieder <https://www.fernsehserien.de/filme/timeline-bald-wirst-du-geschichte-sein>`_
