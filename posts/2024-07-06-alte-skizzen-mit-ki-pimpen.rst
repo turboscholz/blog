@@ -1,10 +1,10 @@
 .. title: Alte Skizzen mit KI pimpen
 .. slug: alte-skizzen-mit-ki-pimpen
-.. date: 2024-07-06 23:18:52 UTC+02:00
+.. date: 2024-07-07 12:18:52 UTC+02:00
 .. tags: Malen, KI, Ausprobiert
 .. category: Freizeit
-.. link: 
-.. description: 
+.. link:
+.. description:
 .. type: text
 
 Vor einiger Zeit habe ich auf Instagram einen kurzen Post gesehen, in
@@ -34,10 +34,8 @@ diese "Intelligenz" noch nicht so ganz mit meiner Kreativität klar 😜
 
 .. image:: /images/2024-07-07-Fernglas-1.jpg
     :alt: Originalskizze eines Fernglases mit Kugelschreiber auf Papier
-	  
 .. image:: /images/2024-07-07-Fernglas-2.jpg
     :alt: KI-generiertes Bild dieses Fernglases, Nummer 1
-	  
 .. image:: /images/2024-07-07-Fernglas-3.jpg
     :alt: KI-Generiertes Bild dieses Fernglases, Nummer 2
 
