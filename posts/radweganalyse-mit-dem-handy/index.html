@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radweganalyse mit dem Handy | Der Gedöns-Blog</title>
+<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="de" href="../../rss.xml">
+<link rel="canonical" href="https://turboscholz.github.io/blog/posts/radweganalyse-mit-dem-handy/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Uwe Scholz">
+<link rel="prev" href="../odenwald-wanderung-auf-dem-limes-wanderweg/" title="Odenwald-Wanderung am Limes" type="text/html">
+<meta property="og:site_name" content="Der Gedöns-Blog">
+<meta property="og:title" content="Radweganalyse mit dem Handy">
+<meta property="og:url" content="https://turboscholz.github.io/blog/posts/radweganalyse-mit-dem-handy/">
+<meta property="og:description" content="Jeder Fahrradfahrer möchte auf guten Radwegen fahren. Aber was sind
+eigentlich gute Radwege? Die Antwort dazu findet man in Ausgabe 18 der
+Online-Zeitschrift Fahrrad Zukunft. Der
+verlinkte Artikel bek">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2022-02-18T19:09:29+02:00">
+<meta property="article:tag" content="Daten">
+<meta property="article:tag" content="Fahrrad">
+<meta property="article:tag" content="Programmieren">
+<meta property="article:tag" content="Smartphone">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Springe zum Hauptinhalt</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-expand-md static-top mb-4
+navbar-dark
+bg-dark
+"><div class="container">
+<!-- This keeps the margins nice -->
+        <a class="navbar-brand" href="../../">
+
+            <span id="blog-title">Der Gedöns-Blog</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bs-navbar">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a href="../../archive.html" class="nav-link">Archiv</a>
+                </li>
+<li class="nav-item">
+<a href="../../categories/" class="nav-link">Tags</a>
+                </li>
+<li class="nav-item">
+<a href="../../pages/Datenschutz/index.html" class="nav-link">Datenschutzerklärung</a>
+                </li>
+<li class="nav-item">
+<a href="../../pages/impressum/index.html" class="nav-link">Impressum</a>
+                </li>
+<li class="nav-item">
+<a href="../../rss.xml" class="nav-link">RSS-Feed</a>
+
+                
+            </li>
+</ul>
+<ul class="navbar-nav navbar-right">
+<li class="nav-item">
+    <a href="index.rst" id="sourcelink" class="nav-link">Source</a>
+    </li>
+
+
+                
+            </ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+        
+        
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Radweganalyse mit dem Handy</a></h1>
+
+        <div class="metadata">
+            <p class="byline author vcard p-author h-card"><span class="byline-name fn p-name" itemprop="author">
+                    Uwe Scholz
+            </span></p>
+            <p class="dateline">
+            <a href="." rel="bookmark">
+            <time class="published dt-published" datetime="2022-02-18T19:09:29+02:00" itemprop="datePublished" title="2022-02-18 19:09">2022-02-18 19:09</time></a>
+            </p>
+            
+        <p class="sourceline"><a href="index.rst" class="sourcelink">Source</a></p>
+
+        </div>
+        
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+<p>Jeder Fahrradfahrer möchte auf guten Radwegen fahren. Aber was sind
+eigentlich gute Radwege? Die Antwort dazu findet man in Ausgabe 18 der
+Online-Zeitschrift <a class="reference external" href="https://fahrradzukunft.de/18/radweg-oberflaeche">Fahrrad Zukunft</a>. Der
+verlinkte Artikel bekommt von mir eine absolute Leseempfehlung und sei
+jedem Fahrradfahrer wärmstens empfohlen. Dort wird unter anderem auch
+davon berichtet, wie in den Niederlanden spezielle Fahrräder verwendet
+werden, um die Qualität von Radwegen mit (recht teuren) Sensoren zu
+messen. Ähnliche Sensoren, so dachte ich mir, sind heute auch in
+handelsüblichen Smartphones vorhanden. Auch wenn diese Sensoren eine
+geringere Genauigkeit aufweisen, so hatte ich die Idee, aus meinem
+Smartphone einen Radweg-Analysator zu machen. Mit dem Handy gesammelte
+Daten sollten also vielleicht einen objektiven Hinweis geben können, an
+welchen Stellen die Qualität der von mir befahrenen Radwege relativ gut
+oder schlecht ist.</p>
+<!-- TEASER_END -->
+<section id="das-setup-wie-komme-ich-an-die-daten"><h2>Das Setup - Wie komme ich an die Daten?</h2>
+<p>Die erste Frage, die zu klären war: Kann man mit dem Smartphone den
+Beschleunigungssensor und die GPS-Daten parallel auslesen?</p>
+<p>Kurze Antwort: Ja, das geht mit der genialen App <strong>phyphox</strong>, erhältlich
+für Android und iOS, entwickelt von Mitarbeitern der RWTH Aachen. Mit
+Hilfe dieser App kann man auf die meisten Sensoren des Smartphones
+zugreifen und diese auslesen. Dabei werden die Daten sofort grafisch auf
+dem Display des Handys dargestellt. Unten sieht man das Ergebnis einer
+etwa acht-sekündigen Messung, bei der ich mein Smartphone nacheinander
+jeweils in x-, y- und in z-Richtung mit der Hand hin und her bewegt
+habe:</p>
+<img alt="Handy-Beschleunigung in x-, y- und z-Richtung" src="../../images/2022-02-28-PhyPhox_Beschleunigung.png"><p>Die Bewegung in z-Richtung stellt dabei die Bewegung senkrecht zum
+Bildschirm dar, so, als ob das Smartphone vom Tisch liegend hochgehoben
+und wieder nach unten gesenkt wird. Man kann die einzelnen
+Bewegungsvorgänge gut auseinanderhalten, was eine gute Voraussetzung für
+die spätere Messung auf der Straße ist. Denn eine schlechte Wegqualität
+sollte sich vor allem in einer starken Beschleunigung in z-Richtung
+bemerkbar machen.</p>
+<p>Als nächstes war die Frage, ob man die Daten des Beschleunigungssensors
+mit der Messung der GPS-Koordinaten kombinieren kann. Tatsächlich ist
+das ganz einfach möglich. Man muss sich nur ein eigenes Experiment in
+phyphox anlegen, welches aus der Kombination beider Messungen
+(Beschleunigung und GPS) besteht. Wer das nicht selber einrichten
+möchte, kann <a class="reference external" href="../../Radweganalyse.phyphox">hier</a> die phyphox-Datei für
+dieses Experiment herunterladen und bei sich selbst in phyphox
+importieren. Sollte es dabei Probleme geben so stehen auf der
+<a class="reference external" href="https://phyphox.org/faq/">phyphox-Homepage</a> mögliche
+Lösungsvorschläge.</p>
+<p>Der Datenexport funktioniert in phyphox auch sehr einfach: Pausiert man
+eine Messung durch Klick auf das Pause-Symbol, so kann man durch einen
+weiteren Klick ins Menü die gesammelten Daten in einer csv-Datei
+exportieren. Das Vorgehen ist simpel und bedarf nur wenig Übung. Die
+Daten beider Sensoren liegen nach dem Export in einer zip-Datei im
+Speicher des Handys vor. Sie lasen sich nun mit einem beliebigen
+Programm auswerten. Mein Dank geht hier an die Entwickler von phyphox
+für diese genial einfache und übersichtliche App!</p>
+<p>Und damit hat man auch schon das Ausgangsmaterial für eine
+Datenanalyse - die Daten des Beschleunigungssensors und die des
+GPS-Sensors. Weitere technische Details beschreibe ich am Ende des
+Artikels, da es einen kleinen Kniff gibt, den man bei einer Messung auf
+dem Radweg beachten muss. Weiter geht es jetzt mit der Hardware. Wer
+aber zuerst noch wissen möchte, welche Möglichkeiten das eigene
+Smartphone bietet, den sei die <a class="reference external" href="https://phyphox.org/sensordb/">Sensor-Datenbank</a> von phyphox empfohlen.</p>
+</section><section id="das-setup-die-hardware"><h2>Das Setup - Die Hardware</h2>
+<p>Um einen Radweg zu vermessen, braucht man vielleicht nicht zwingend ein
+Fahrrad, aber da ich eins besitze, musste es natürlich für diesen Zweck
+herhalten. Mein Rad hat eine starre Vordergabel, also keine Federgabel,
+sodass Unebenheiten des Radwegs sehr direkt vom Fahrer und vom
+Smartphone registriert werden können. Mein Smartphone habe ich, wie man
+im unteren Foto sieht, durch einen handelsüblichen Halter am
+Fahrradlenker befestigt. Dabei habe ich den Halter so positioniert, dass
+das Display meines Smartphones so gut wie möglich parallel zur
+Erdoberfläche ausgerichtet ist.</p>
+<img alt="Handy-Beschleunigung in x-, y- und z-Richtung" src="../../images/2022-02-28-Rad-kurz-hochgehoben.jpg"><p>Auf dem Display des Handys kann man eine erfolgte Beschleunigungsmessung
+vom Hochheben und wieder Absenken des Rades erkennen. Im Bild habe ich
+den Start und das Ende des Hebevorgangs mit zwei blauen Linien markiert.
+Soweit so gut.</p>
+</section><section id="ergebnisse"><h2>Ergebnisse</h2>
+<p>Die Ergebnisse einer kurzen Fahrt mit dem Rad über eine abgesenkten
+Bordsteinkante von etwa 2cm Höhe soll als erstes dargestellt werden.</p>
+<img alt="Etwa zwei cm hohe, abgesenkte Bordsteinkante" src="../../images/2022-02-28-AbgesenkteBordsteinkante.png"><p>Nach der Datenauswertung kann man mit dem mit dem Programm GpxSee am PC
+folgendes sehen:</p>
+<img alt="Graphische Analyse einer abgesenkten Bordsteinkante mit GpxSee" src="../../images/2022-02-28-AbgesenkteBordsteinkante-GpxSee.png"></section><section id="technische-feinheiten-synchrone-gps-und-beschleunigsmessung-mit-dem-smartphone"><h2>Technische Feinheiten - Synchrone GPS- und Beschleunigsmessung mit dem Smartphone</h2>
+<p>Die exportierten Daten des Beschleunigungssensors und des GPS-Sensors
+haben unterschiedliche Frequenzen. (~200Hz Beschleunigung, 1Hz GPS). Mit
+Hilfe einiger Werkzeuge gelang es mir, die GPS-Daten (z.B. durch lineare
+Interpolation) zu resamplen, um die interpolierten Koordinaten jedes
+einzelnen Beschleunigungsmessdatensatzes zu finden. Auf diese Weise
+konnte ich eine resamplete Location.csv-Datei erstellen, die ebenfalls
+200 Datenpunkte pro Sekunde enthält. Damit war es schließlich möglich,
+eine gpx-Datei (mit einem anderen Werkzeug) zu erstellen, in der ich die
+z-Beschleunigung in Abhängigkeit von den GPS-Koordinaten aufzeichnen
+konnte. Siehe das folgende Bild als Beispielergebnis:</p>
+<p>Das war wirklich vielversprechend!!! (Die Daten des Höhendiagramms sind
+eigentlich die z-Beschleunigung in m/s².) Zusammen mit einem Freund habe
+ich ein Skript erstellt, mit dem ich in den Messdaten sogar die
+Positionen mit den höchsten z-Beschleunigungswerten finden konnte, d.h.
+Positionen der Radstrecke, wo die Oberflächenqualität am schlechtesten
+ist. Als ich zum Beispiel über einen Kanaldeckel ("Gullydeckel")
+gefahren bin, habe ich recht hohe z-Beschleunigungswerte gemessen.</p>
+<p>Okay, und jetzt komme ich zum eigentlichen Thema: Beim erneuten Besuch
+der gefundenen Positionen mit hohen z-Werten im wirklichen Leben stellte
+sich heraus, dass die Position auf der Karte oft nicht die wirkliche
+Position ist und dass alle Positionen systematisch verschoben sind! Zum
+Beispiel war die reale Position des Kanaldeckels ~10 Meter von der
+Position in der gpx-Karte entfernt. (Siehe die schwarzen Punkte im Bild
+oben, dies sind die gemessenen Koordinaten mit hohen
+z-Beschleunigungswerten, aber beim Besuch der meisten davon war die
+tatsächliche Straßen-"Bodenwelle" immer einige Meter von dieser Position
+entfernt). Obwohl die Daten des GPS und des Beschleunigungsmessers zur
+gleichen Zeit gemessen wurden!</p>
+<!-- TEASER_END -->
+<img alt="Alter und neuer Popup-Dialog nach Rechtsklick auf eine Datei" src="../../images/2020-06-25-DateiPopupDialog.png"></section>
+</div>
+    </div>
+    <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
+<li><a class="tag p-category" href="../../categories/daten/" rel="tag">Daten</a></li>
+            <li><a class="tag p-category" href="../../categories/fahrrad/" rel="tag">Fahrrad</a></li>
+            <li><a class="tag p-category" href="../../categories/programmieren/" rel="tag">Programmieren</a></li>
+            <li><a class="tag p-category" href="../../categories/smartphone/" rel="tag">Smartphone</a></li>
+        </ul>
+<ul class="pager hidden-print">
+<li class="previous">
+                <a href="../odenwald-wanderung-auf-dem-limes-wanderweg/" rel="prev" title="Odenwald-Wanderung am Limes">Vorheriger Eintrag</a>
+            </li>
+        </ul></nav></aside></article><!--End of body content--><footer id="footer">
+            Contents © 2022         <a href="mailto:u.scholz83@gmx.de">Uwe Scholz</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+            
+        </footer>
+</div>
+</div>
+
+
+        <script src="../../assets/js/all-nocdn.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
+    </script>
+</body>
+</html>
