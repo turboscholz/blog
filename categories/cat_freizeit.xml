@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Freizeit)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_freizeit.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 10 Mar 2024 17:21:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Gelesen: Ganz Ohr</title><link>https://turboscholz.github.io/blog/posts/gelesen-ganz-ohr/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Endlich hab ich mal wieder ein Buch gelesen: &lt;a class="reference external" href="https://www.penguinrandomhouse.de/Paperback/Ganz-Ohr/Thomas-Suender/Goldmann/e530975.rhd"&gt;Ganz Ohr&lt;/a&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Freizeit)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_freizeit.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 15 Jul 2024 21:26:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Alte Skizzen mit KI pimpen</title><link>https://turboscholz.github.io/blog/posts/alte-skizzen-mit-ki-pimpen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Vor einiger Zeit habe ich auf Instagram einen kurzen Post gesehen, in
+dem jemand eine selbst gemalte Skizze mit KI zu einer 3D Grafik
+umgewandelt hat. Das sah total einfach und genial aus.&lt;/p&gt;
+&lt;p&gt;Also hab ich meine alten Uni-Sachen nach meinen Kritzeleien durchwühlt
+und bin tatsächlich fündig geworden.&lt;/p&gt;
+&lt;p&gt;Diese Bildchen habe ich dann bei &lt;a class="reference external" href="https://openart.ai/"&gt;https://openart.ai/&lt;/a&gt; hochgeladen und mit
+ein paar Erklärungen versehen, wie ich die Bilder gerne "umgewandelt"
+haben möchte. Das muss man alles auf Englisch machen, sonst funktioniert
+es nicht. Die Ergebnisse sind ... Nun ja, interessant. Scheinbar kommt
+diese "Intelligenz" noch nicht so ganz mit meiner Kreativität klar 😜&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;p&gt;Ein Oszilloskop, mit dem ein Blumenstrauß per Laser durchmessen wird. Auf dem
+Bildschirm erscheint ein Herz&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Skizze eines Oszilloskops, mit dem ein Blumenstrauß durchmessen wird" src="https://turboscholz.github.io/blog/images/2024-07-07-Oszilloskop-1.jpg"&gt;
+&lt;img alt="KI-Umsetzung eines Oszilloskops, mit dem ein Blumenstrauß durchmessen wird, Alternative 2" src="https://turboscholz.github.io/blog/images/2024-07-07-Oszilloskop-2.jpg"&gt;
+&lt;img alt="KI-Umsetzung eines Oszilloskops, mit dem ein Blumenstrauß durchmessen wird, Alternative 2" src="https://turboscholz.github.io/blog/images/2024-07-07-Oszilloskop-3.jpg"&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;&lt;p&gt;Ein Fernglas mit Augen:&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Originalskizze eines Fernglases mit Kugelschreiber auf Papier" src="https://turboscholz.github.io/blog/images/2024-07-07-Fernglas-1.jpg"&gt;
+&lt;img alt="KI-generiertes Bild dieses Fernglases, Nummer 1" src="https://turboscholz.github.io/blog/images/2024-07-07-Fernglas-2.jpg"&gt;
+&lt;img alt="KI-Generiertes Bild dieses Fernglases, Nummer 2" src="https://turboscholz.github.io/blog/images/2024-07-07-Fernglas-3.jpg"&gt;
+&lt;ol class="arabic simple" start="3"&gt;
+&lt;li&gt;&lt;p&gt;Eine Lautsprecherbox aus der Noten rauskommen&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Skizze einer Lautsprecherbox, aus der Noten kommen" src="https://turboscholz.github.io/blog/images/2024-07-07-Musikbox-1.jpg"&gt;
+&lt;img alt="KI-Umsetzung der Skizze einer Lautsprecherbox, aus der Noten kommen" src="https://turboscholz.github.io/blog/images/2024-07-07-Musikbox-2.jpg"&gt;
+&lt;ol class="arabic simple" start="4"&gt;
+&lt;li&gt;&lt;p&gt;Ein Experimentier-Tisch&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Skizze eines Experimentier-Tisches" src="https://turboscholz.github.io/blog/images/2024-07-07-Tisch-1.jpg"&gt;
+&lt;img alt="KI-Umsetzung dieses Tisches." src="https://turboscholz.github.io/blog/images/2024-07-07-Tisch-2.jpg"&gt;
+&lt;p&gt;Wenn die Skizzen noch ein bisschen bessere Qualität gehabt hätten, dann
+würden die Ergebnisse sicherlich besser sein. Aber auch so ist es
+erstaunlich, was hier mit ein wenig Spielerei entstanden ist. Bis auf
+das Oszilloskop sieht es tatsächlich so aus, als ob hier eine richtige
+neue Grafik entstanden ist, und nicht nur ein Filter über das
+Originalbild gelegt wurde.&lt;/p&gt;</description><category>Ausprobiert</category><category>KI</category><category>Malen</category><guid>https://turboscholz.github.io/blog/posts/alte-skizzen-mit-ki-pimpen/</guid><pubDate>Sun, 07 Jul 2024 10:18:52 GMT</pubDate></item><item><title>Gelesen: Ganz Ohr</title><link>https://turboscholz.github.io/blog/posts/gelesen-ganz-ohr/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Endlich hab ich mal wieder ein Buch gelesen: &lt;a class="reference external" href="https://www.penguinrandomhouse.de/Paperback/Ganz-Ohr/Thomas-Suender/Goldmann/e530975.rhd"&gt;Ganz Ohr&lt;/a&gt;
 von Thomas Sünder und Dr. Andreas Borta. Ersterer ist hauptberuflich DJ.
 Obwohl seit Langem von Hörproblemen geplagt, setzt er seine Arbeit mit
 lauter Musik fort. Nach dem großen Zusammenbruch mit Schwindelgefühl,
@@ -64,7 +102,7 @@ diesem &lt;a class="reference external" href="https://www.youtube.com/watch?v=hG
 gleitet.&lt;/p&gt;
 &lt;p&gt;In diesem Video sieht man Eugene, wie er in der Minsker Winternacht zum
 31.12.2019 mit einem Funkempfänger in der Kälte steht und SSTV-Signale
-&lt;a class="footnote-reference brackets" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;1&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt; von der ISS empfängt. Wow. Diese Signale hat er netterweise direkt
+&lt;a class="brackets" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;1&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt; von der ISS empfängt. Wow. Diese Signale hat er netterweise direkt
 auf die Tonspur des Videos gelegt (ab Sekunde 37). Klingt abgefahren,
 wie eine Art Musik, aber dann doch wieder nicht.&lt;/p&gt;
 &lt;p&gt;Und was macht man nun mit diesen Signalen? Das haben wir uns auch
@@ -79,9 +117,11 @@ erstellt, der diesem Bild hier zugrunde liegt:&lt;/p&gt;
 &lt;img alt="Ein selbst erstelltes Bild. :-D" src="https://turboscholz.github.io/blog/images/2020-01-23-Blume.png"&gt;
 &lt;p&gt;Wer die Wav-Datei abspielt und dazu &lt;code class="docutils literal"&gt;robot36&lt;/code&gt; laufen lässt, kann
 sehen, wie sich dieses Bild auf dem Handy-Display aufbaut. Klasse, oder? 🤓&lt;/p&gt;
-&lt;aside class="footnote brackets" id="footnote-1" role="note"&gt;
+&lt;aside class="footnote-list brackets"&gt;
+&lt;aside class="footnote brackets" id="footnote-1" role="doc-footnote"&gt;
 &lt;span class="label"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;&lt;a role="doc-backlink" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#footnote-reference-1"&gt;1&lt;/a&gt;&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;
 &lt;p&gt;Slow Scan Television - &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Slow_Scan_Television"&gt;https://de.wikipedia.org/wiki/Slow_Scan_Television&lt;/a&gt;&lt;/p&gt;
+&lt;/aside&gt;
 &lt;/aside&gt;</description><category>Apps</category><category>Freizeit</category><category>Postcrossing</category><category>SSTV</category><category>Technik</category><guid>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</guid><pubDate>Mon, 20 Jan 2020 21:47:55 GMT</pubDate></item><item><title>Rätsel-Wochenende mit Kuchen</title><link>https://turboscholz.github.io/blog/posts/ratsel-wochenende-mit-kuchen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Dieses Wochenende war absolut unspektakulär. Meine Frau musste leider
 beide Tage arbeiten. So habe ich sie mit Pizza und Kuchen versorgt,
 damit sie die Tage übersteht, abends gab es dann einen
@@ -127,7 +167,4 @@ Bergstraße.&lt;/p&gt;
 vielen schattigen Waldwegen, bis wir schließlich an der Starkenburg
 ankamen. Der Ausblick vom dortigen Biergarten auf die Stadt und auf den
 Kuchen entschädigt für die zurückligenden 20 Kilomenter. 😊&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Natur</category><category>Odenwald</category><category>Wandern</category><guid>https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/</guid><pubDate>Sun, 02 Jun 2019 17:22:30 GMT</pubDate></item><item><title>Stuss, Shit, und andere tolle Wörter</title><link>https://turboscholz.github.io/blog/posts/stuss-shit-und-andere-tolle-worter/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Vor kurzem haben wir endlich wieder einmal eine Runde Scrabble gespielt.
-Die gelegten Wörter waren, naja, teilweise unter der Gürtellinie.
-hüstel, hüstel&lt;/p&gt;
-&lt;img alt="/images/2019-05-05-Scrabble.jpg" src="https://turboscholz.github.io/blog/images/2019-05-05-Scrabble.jpg"&gt;</description><category>Freizeit</category><category>Scrabble</category><category>Spiele</category><guid>https://turboscholz.github.io/blog/posts/stuss-shit-und-andere-tolle-worter/</guid><pubDate>Sun, 02 Jun 2019 11:06:31 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/"&gt;Weiterlesen…&lt;/a&gt; (1 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Freizeit</category><category>Natur</category><category>Odenwald</category><category>Wandern</category><guid>https://turboscholz.github.io/blog/posts/wanderung-im-odenwald-zur-starkenburg/</guid><pubDate>Sun, 02 Jun 2019 17:22:30 GMT</pubDate></item></channel></rss>

@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Ausprobiert)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/ausprobiert.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 10 Mar 2024 17:21:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Essen ist fertig</title><link>https://turboscholz.github.io/blog/posts/essen-ist-fertig/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Bei uns gab es heute Hackfleischbällchen, gefüllt mit Feta-Käse. Sehr
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Ausprobiert)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/ausprobiert.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 15 Jul 2024 21:26:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Alte Skizzen mit KI pimpen</title><link>https://turboscholz.github.io/blog/posts/alte-skizzen-mit-ki-pimpen/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Vor einiger Zeit habe ich auf Instagram einen kurzen Post gesehen, in
+dem jemand eine selbst gemalte Skizze mit KI zu einer 3D Grafik
+umgewandelt hat. Das sah total einfach und genial aus.&lt;/p&gt;
+&lt;p&gt;Also hab ich meine alten Uni-Sachen nach meinen Kritzeleien durchwühlt
+und bin tatsächlich fündig geworden.&lt;/p&gt;
+&lt;p&gt;Diese Bildchen habe ich dann bei &lt;a class="reference external" href="https://openart.ai/"&gt;https://openart.ai/&lt;/a&gt; hochgeladen und mit
+ein paar Erklärungen versehen, wie ich die Bilder gerne "umgewandelt"
+haben möchte. Das muss man alles auf Englisch machen, sonst funktioniert
+es nicht. Die Ergebnisse sind ... Nun ja, interessant. Scheinbar kommt
+diese "Intelligenz" noch nicht so ganz mit meiner Kreativität klar 😜&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;p&gt;Ein Oszilloskop, mit dem ein Blumenstrauß per Laser durchmessen wird. Auf dem
+Bildschirm erscheint ein Herz&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Skizze eines Oszilloskops, mit dem ein Blumenstrauß durchmessen wird" src="https://turboscholz.github.io/blog/images/2024-07-07-Oszilloskop-1.jpg"&gt;
+&lt;img alt="KI-Umsetzung eines Oszilloskops, mit dem ein Blumenstrauß durchmessen wird, Alternative 2" src="https://turboscholz.github.io/blog/images/2024-07-07-Oszilloskop-2.jpg"&gt;
+&lt;img alt="KI-Umsetzung eines Oszilloskops, mit dem ein Blumenstrauß durchmessen wird, Alternative 2" src="https://turboscholz.github.io/blog/images/2024-07-07-Oszilloskop-3.jpg"&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;&lt;p&gt;Ein Fernglas mit Augen:&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Originalskizze eines Fernglases mit Kugelschreiber auf Papier" src="https://turboscholz.github.io/blog/images/2024-07-07-Fernglas-1.jpg"&gt;
+&lt;img alt="KI-generiertes Bild dieses Fernglases, Nummer 1" src="https://turboscholz.github.io/blog/images/2024-07-07-Fernglas-2.jpg"&gt;
+&lt;img alt="KI-Generiertes Bild dieses Fernglases, Nummer 2" src="https://turboscholz.github.io/blog/images/2024-07-07-Fernglas-3.jpg"&gt;
+&lt;ol class="arabic simple" start="3"&gt;
+&lt;li&gt;&lt;p&gt;Eine Lautsprecherbox aus der Noten rauskommen&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Skizze einer Lautsprecherbox, aus der Noten kommen" src="https://turboscholz.github.io/blog/images/2024-07-07-Musikbox-1.jpg"&gt;
+&lt;img alt="KI-Umsetzung der Skizze einer Lautsprecherbox, aus der Noten kommen" src="https://turboscholz.github.io/blog/images/2024-07-07-Musikbox-2.jpg"&gt;
+&lt;ol class="arabic simple" start="4"&gt;
+&lt;li&gt;&lt;p&gt;Ein Experimentier-Tisch&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="Skizze eines Experimentier-Tisches" src="https://turboscholz.github.io/blog/images/2024-07-07-Tisch-1.jpg"&gt;
+&lt;img alt="KI-Umsetzung dieses Tisches." src="https://turboscholz.github.io/blog/images/2024-07-07-Tisch-2.jpg"&gt;
+&lt;p&gt;Wenn die Skizzen noch ein bisschen bessere Qualität gehabt hätten, dann
+würden die Ergebnisse sicherlich besser sein. Aber auch so ist es
+erstaunlich, was hier mit ein wenig Spielerei entstanden ist. Bis auf
+das Oszilloskop sieht es tatsächlich so aus, als ob hier eine richtige
+neue Grafik entstanden ist, und nicht nur ein Filter über das
+Originalbild gelegt wurde.&lt;/p&gt;</description><category>Ausprobiert</category><category>KI</category><category>Malen</category><guid>https://turboscholz.github.io/blog/posts/alte-skizzen-mit-ki-pimpen/</guid><pubDate>Sun, 07 Jul 2024 10:18:52 GMT</pubDate></item><item><title>Essen ist fertig</title><link>https://turboscholz.github.io/blog/posts/essen-ist-fertig/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Bei uns gab es heute Hackfleischbällchen, gefüllt mit Feta-Käse. Sehr
 lecker, und gar nicht schwer zuzubereiten.&lt;/p&gt;
 &lt;p&gt;Vielen Dank, Maria Kulinarica für dieses schönes Rezept: &lt;a class="reference external" href="http://kulinarica.blogspot.de/2015/04/hackfleischfrikadellen-mit-feta-kase.html"&gt;http://kulinarica.blogspot.de/2015/04/hackfleischfrikadellen-mit-feta-kase.html&lt;/a&gt;&lt;/p&gt;
 &lt;img alt="/images/2015-09-19-Hackfleischbaellchen.jpg" src="https://turboscholz.github.io/blog/images/2015-09-19-Hackfleischbaellchen.jpg"&gt;</description><category>Ausprobiert</category><category>Essen</category><category>Fleisch</category><guid>https://turboscholz.github.io/blog/posts/essen-ist-fertig/</guid><pubDate>Sat, 19 Sep 2015 09:19:22 GMT</pubDate></item></channel></rss>

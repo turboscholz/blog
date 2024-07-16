@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Technik)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/technik.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 10 Mar 2024 17:21:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Die beste Postkarte der Welt</title><link>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Am vergangenen Wochenende haben wir die allerbeste Postkarte über
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Technik)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/technik.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 15 Jul 2024 21:26:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Die beste Postkarte der Welt</title><link>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Am vergangenen Wochenende haben wir die allerbeste Postkarte über
 &lt;a class="reference external" href="https://www.postcrossing.com"&gt;postcrossing.com&lt;/a&gt; erhalten, die es gibt.&lt;/p&gt;
 &lt;p&gt;Diese Karte haben wir von Eugene aus Minsk zugeschickt bekommen. Eugene
 hat auf diese einen NFC-Tag geklebt - was schon echt sensationell ist!
@@ -8,7 +8,7 @@ diesem &lt;a class="reference external" href="https://www.youtube.com/watch?v=hG
 gleitet.&lt;/p&gt;
 &lt;p&gt;In diesem Video sieht man Eugene, wie er in der Minsker Winternacht zum
 31.12.2019 mit einem Funkempfänger in der Kälte steht und SSTV-Signale
-&lt;a class="footnote-reference brackets" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;1&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt; von der ISS empfängt. Wow. Diese Signale hat er netterweise direkt
+&lt;a class="brackets" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;1&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt; von der ISS empfängt. Wow. Diese Signale hat er netterweise direkt
 auf die Tonspur des Videos gelegt (ab Sekunde 37). Klingt abgefahren,
 wie eine Art Musik, aber dann doch wieder nicht.&lt;/p&gt;
 &lt;p&gt;Und was macht man nun mit diesen Signalen? Das haben wir uns auch
@@ -23,9 +23,11 @@ erstellt, der diesem Bild hier zugrunde liegt:&lt;/p&gt;
 &lt;img alt="Ein selbst erstelltes Bild. :-D" src="https://turboscholz.github.io/blog/images/2020-01-23-Blume.png"&gt;
 &lt;p&gt;Wer die Wav-Datei abspielt und dazu &lt;code class="docutils literal"&gt;robot36&lt;/code&gt; laufen lässt, kann
 sehen, wie sich dieses Bild auf dem Handy-Display aufbaut. Klasse, oder? 🤓&lt;/p&gt;
-&lt;aside class="footnote brackets" id="footnote-1" role="note"&gt;
+&lt;aside class="footnote-list brackets"&gt;
+&lt;aside class="footnote brackets" id="footnote-1" role="doc-footnote"&gt;
 &lt;span class="label"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;&lt;a role="doc-backlink" href="https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/#footnote-reference-1"&gt;1&lt;/a&gt;&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;
 &lt;p&gt;Slow Scan Television - &lt;a class="reference external" href="https://de.wikipedia.org/wiki/Slow_Scan_Television"&gt;https://de.wikipedia.org/wiki/Slow_Scan_Television&lt;/a&gt;&lt;/p&gt;
+&lt;/aside&gt;
 &lt;/aside&gt;</description><category>Apps</category><category>Freizeit</category><category>Postcrossing</category><category>SSTV</category><category>Technik</category><guid>https://turboscholz.github.io/blog/posts/die-beste-postkarte-der-welt/</guid><pubDate>Mon, 20 Jan 2020 21:47:55 GMT</pubDate></item><item><title>Mausreparatur per Lötkolben</title><link>https://turboscholz.github.io/blog/posts/mausreparatur-per-lotkolben/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Wir haben seit kurzem einen Lötkolben und diverses Zubehör. Und damit
 fühle ich mich jetzt wie ein kleiner Reparatur-Gott!!! Denn am
 vergangenen Wochenende haben wir die Computermaus meiner Frau repariert.

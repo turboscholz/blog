@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Einzelhandel)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/einzelhandel.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Sun, 10 Mar 2024 17:21:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Kommentar zum Heise-Kommentar</title><link>https://turboscholz.github.io/blog/posts/kommentar-zum-heise-kommentar/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Auf heise.de erschien heute ein Kommentar mit dem
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Einzelhandel)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/einzelhandel.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 15 Jul 2024 21:26:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Kommentar zum Heise-Kommentar</title><link>https://turboscholz.github.io/blog/posts/kommentar-zum-heise-kommentar/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Auf heise.de erschien heute ein Kommentar mit dem
 Titel “&lt;a class="reference external" href="https://href.li/?https://heise.de/-3356167"&gt;Beratung im Einzelhandel wird vollkommen überbewertet&lt;/a&gt;“. Ein sehr passender
 Artikel für meinen Blog, dachte ich mir. Hätte man auch hier
 veröffentlichen können. 🙂&lt;/p&gt;
@@ -50,7 +50,7 @@ kürzlich musste die einzige Buchhandlung weit und breit schließen (die
 aber später von zwei tollen ehemaligen Mitarbeiterinnen wieder eröffnet
 wurde). Der Zerfall geschah nicht nur in der Innenstadt, sondern auch in
 den kleinen umliegenden Städten und Gemeinden. Und er hält bis &lt;a class="reference external" href="https://www.lvz.de/Region/Borna/Bornas-Gewerbeverein-will-mit-EU-Foerdermitteln-Handel-in-der-City-ankurbeln"&gt;heute&lt;/a&gt;
-an &lt;a class="footnote-reference brackets" href="https://turboscholz.github.io/blog/posts/existenznote/#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;*&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt;. In verschiedenen Stadtteilen öffneten außerdem verschiedene
+an &lt;a class="brackets" href="https://turboscholz.github.io/blog/posts/existenznote/#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;*&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt;. In verschiedenen Stadtteilen öffneten außerdem verschiedene
 Discounter, nachdem alte „Kaufhallen“ geschlossen wurden, in denen es
 bisher ausschließlich Nahrungsmittel und Drogerieartikel zu kaufen gab.&lt;/p&gt;
 &lt;p&gt;Auch in Langen, der Stadt, in der wir heute wohnen, gibt es mehrere
@@ -104,7 +104,8 @@ nicht daran gedacht, dass diese keine mächtige Einkaufsabteilung im
 Backoffice haben.&lt;/p&gt;
 &lt;img alt="/images/2016-01-27-Laden-Kitzscher-5.jpg" src="https://turboscholz.github.io/blog/images/2016-01-27-Laden-Kitzscher-5.jpg"&gt;
 &lt;hr class="docutils"&gt;
-&lt;aside class="footnote brackets" id="footnote-1" role="note"&gt;
+&lt;aside class="footnote-list brackets"&gt;
+&lt;aside class="footnote brackets" id="footnote-1" role="doc-footnote"&gt;
 &lt;span class="label"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;&lt;a role="doc-backlink" href="https://turboscholz.github.io/blog/posts/existenznote/#footnote-reference-1"&gt;*&lt;/a&gt;&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;
 &lt;p&gt;Natürlich spielt auch der Wegfall von ehemaligen Großbetrieben in
 der Gegend eine Rolle für diesen Verlauf, wie z.B. den stillgelegten
@@ -112,4 +113,5 @@ der Gegend eine Rolle für diesen Verlauf, wie z.B. den stillgelegten
 führte kurzfristig zu einem drastischen Anstieg der Arbeitslosigkeit
 und mittel- bis langfristig zu einem starken Bevölkerungsschwund und
 damit Kaufkraftverlust.&lt;/p&gt;
+&lt;/aside&gt;
 &lt;/aside&gt;</description><category>Discounter</category><category>Einkaufen</category><category>Einzelhandel</category><category>Langen</category><category>Shopping</category><category>Stationärer Handel</category><guid>https://turboscholz.github.io/blog/posts/existenznote/</guid><pubDate>Wed, 27 Jan 2016 13:00:00 GMT</pubDate></item></channel></rss>
