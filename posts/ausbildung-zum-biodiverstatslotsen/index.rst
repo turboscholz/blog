@@ -71,10 +71,7 @@ gut, wahrscheinlich besser als ohne die Woche in Geisenheim. 😀
 
    
 .. [*] Ich bin ja ein Fan vom `Bildungsurlaub
-       <https://de.wikipedia.org/wiki/Bildungsurlaub>`_.
-       Dieses Konzept
-       gibt es in allen Bundesländern, außer in Bayern und Sachsen.
-       (Dort sollte das unbedingt geändert werden, Stichwort
-       "Lebenslanges Lernen")Vielleicht daher kannte ich dieses Konzept
-       bis vor ein paar Jahren nicht, denn groß geworden bin ich in
-       Sachsen. Aber jetzt
+       <https://de.wikipedia.org/wiki/Bildungsurlaub>`_. Dieses Konzept
+       gibt es in allen Bundesländern, außer in Bayern und Sachsen. Dort
+       sollte es unbedingt auch angeboten werden, Stichwort
+       "Lebenslanges Lernen".
