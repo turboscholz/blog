@@ -56,7 +56,7 @@ daran, dass sie einfach einschlafen, weil die Betreuer das Interesse
 verlieren und sich eben kein Nachfolger findet. Gnome Commander ist
 daher sehr gut für die Zukunft aufgestellt.
 
-Die Geschichte des GNOME Commander ist damit auch ein Beispiel dafür,
+Die Geschichte des Gnome Commander ist damit auch ein Beispiel dafür,
 wie freie Software über Jahrzehnte hinweg durch ehrenamtliches
 Engagement am Leben gehalten wird - oft ohne große Aufmerksamkeit, aber
 mit viel Ausdauer und Leidenschaft.
