@@ -45,13 +45,12 @@ Diese Bemühungen führten schließlich dazu, dass das Projekt mehr
 Aufmerksamkeit erhielt und besonders von zwei Entwicklern umfassend
 modernisiert wurde. Während Andrey Kutejko damit begann, den Gnome
 Commander auf das moderne GTK4-Framework und teilweise auf die
-Programmiersprache Rust umzustellen, hat Wladimir Palant ab 2026 eine
-Unmenge an Bugs behoben, neue Features eingebaut und alte Zöpfe
-abgeschnitten. All diese Arbeit ist in das letzte Release eingeflossen,
-welches ich noch betreut habe.
+Programmiersprache Rust umzustellen, hat `Wladimir Palant <https://palant.info/about/>`_ ab 2026 eine Unmenge an Bugs behoben,
+neue Features eingebaut und alte Zöpfe abgeschnitten. All diese Arbeit
+ist in das letzte Release eingeflossen, welches ich noch betreut habe.
 
 Nach mehr als 13 Jahren als Projektbetreuer habe ich im Mai 2026 nun die
-Verantwortung zur Projektbetreuung an Wladimir übergeben. Darüber bin
+Verantwortung zur Projektbetreuung an Wladimir `übergeben <https://gitlab.gnome.org/GNOME/gnome-commander/-/merge_requests/512/diffs>`_. Darüber bin
 ich mehr als froh, denn oft scheitern kleinere Open Source Projekte
 daran, dass sie einfach einschlafen, weil die Betreuer das Interesse
 verlieren und sich eben kein Nachfolger findet. Gnome Commander ist
