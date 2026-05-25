@@ -51,9 +51,9 @@ abgeschnitten. All diese Arbeit ist in das letzte Release eingeflossen,
 welches ich noch betreut habe.
 
 Nach mehr als 13 Jahren als Projektbetreuer habe ich im Mai 2026 nun die
-Verantwortung zur Betreuung des Projekts an Wladimir übergeben. Darüber
-bin ich mehr als froh, denn oft scheitern kleinere Open Source Projekte
-daran, dass sie einfach einschlafe, weil die Betreuer das Interesse
+Verantwortung zur Projektbetreuung an Wladimir übergeben. Darüber bin
+ich mehr als froh, denn oft scheitern kleinere Open Source Projekte
+daran, dass sie einfach einschlafen, weil die Betreuer das Interesse
 verlieren und sich eben kein Nachfolger findet. Gnome Commander ist
 daher sehr gut für die Zukunft aufgestellt.
 
