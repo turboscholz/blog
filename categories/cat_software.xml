@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Software)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_software.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2024 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Wed, 17 Jul 2024 06:42:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Der Gedöns-Blog (Einträge über Software)</title><link>https://turboscholz.github.io/blog/</link><description></description><atom:link href="https://turboscholz.github.io/blog/categories/cat_software.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2026 &lt;a href="mailto:u.scholz83@gmx.de"&gt;Uwe Scholz&lt;/a&gt; </copyright><lastBuildDate>Mon, 25 May 2026 13:45:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Gnome Commander - ich verabschiede mich</title><link>https://turboscholz.github.io/blog/posts/gnome-commander-ich-verabschiede-mich/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Der Gnome Commander gehört zu den älteren, aber bis heute aktiv
+gepflegten Dateimanagern unter Linux. Das Programm wurde ursprünglich
+Anfang der 2000er Jahre entwickelt und orientiert sich an klassischen
+zweispaltigen Dateimanagern, mit denen sich Dateien besonders schnell
+verwalten lassen.&lt;/p&gt;
+&lt;img alt="Programfenster des Gnome Commander" src="https://turboscholz.github.io/blog/images/2026-05-25-GnomeCommander.png"&gt;
+&lt;p&gt;&lt;a href="https://turboscholz.github.io/blog/posts/gnome-commander-ich-verabschiede-mich/"&gt;Weiterlesen…&lt;/a&gt; (2 min verbleiben zum Lesen)&lt;/p&gt;&lt;/div&gt;</description><category>Linux</category><category>Programm</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/gnome-commander-ich-verabschiede-mich/</guid><pubDate>Sun, 24 May 2026 16:00:37 GMT</pubDate></item><item><title>Hallo Nikola</title><link>https://turboscholz.github.io/blog/posts/hallo-nikola/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;div&gt;&lt;p&gt;Hallo Welt, hallo Nikola!&lt;/p&gt;
 &lt;p&gt;Da Google+ demächst geschlossen wird, habe ich nach einer Alternative
 gesucht - und Nikola gefunden. Dies ist kein soziales Netzwerk, sondern
 ein Generator für statische Webseiten.&lt;/p&gt;
@@ -66,28 +72,60 @@ so erhielte man folgendes Ergebnis:&lt;/p&gt;
 &lt;p&gt;Diesen Umstand sollte man bedenken, wenn man Dateien sortieren möchte,
 bei denen Ziffern am Anfang des Dateinamens stehen, wie im unten
 angehängten Bild dargestellt:&lt;/p&gt;
-&lt;img alt="/images/2016-01-19-Thunar.png" src="https://turboscholz.github.io/blog/images/2016-01-19-Thunar.png"&gt;</description><category>Linux</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/dateien-sortieren/</guid><pubDate>Tue, 19 Jan 2016 20:10:31 GMT</pubDate></item><item><title>Buntes Linux-Terminal</title><link>https://turboscholz.github.io/blog/posts/buntes-linux-terminal/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Wer schon immer mal wissen wollte, wie man ein schönes buntes Terminal
+&lt;img alt="/images/2016-01-19-Thunar.png" src="https://turboscholz.github.io/blog/images/2016-01-19-Thunar.png"&gt;</description><category>Linux</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/dateien-sortieren/</guid><pubDate>Tue, 19 Jan 2016 20:10:31 GMT</pubDate></item><item><title>How I became the next maintainer of Gnome Commander</title><link>https://turboscholz.github.io/blog/posts/how-i-became-the-next-maintainer-of-gnome-commander/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;It’s been nearly four years now that the old maintainer of Gnome
+Commander passed away. Piotr did a great job in pushing this software to
+a higher level. I have been using Gnome Commander with pleasure for many
+years. But up to two years ago I had never been a maintainer of any FOSS
+project. So, how did it come that I am the new one? And what does this
+mean to me now?&lt;/p&gt;
+&lt;p&gt;It began after an update of the gsf library, used by Gnome Commander to
+get meta-information out from structured files, e.g. zip files. After
+this update, Gnome Commander could not be started anymore. Even
+rebuilding and binding didn’t help: Gnome Commander’s source code had to
+be changed, too. On my local Linux this was an easy task (there existed
+a patch already on bugzilla and I used Gentoo those days). But what
+about the official package? Nobody took care about it anymore. Now, that
+I have gotten so much from the Open Source Community in the past decade
+from Linux, I wanted to give something back.&lt;/p&gt;
+&lt;p&gt;Having repaired the broken mailing list configurations with a member
+from the savannah.gnu.org team, we discussed some future options with
+the members of the Gnome Commander mailing list. Thomas Jost, the former
+website admin of Gnome Commander pointed me to to some great
+git-tutorials. These were important for me as I hadn’t any experience in
+collaborative development so far. After some mail-discussions with
+Andrea Veri and Matthias Clasen (in which I pointed out my willingness
+to take over the responsibility for Gnome Commander) the status of a
+gnome developer was given to me. After that I could directly push new
+Gnome Commander-releases to the servers of gnome.org. Meanwhile, Thomas
+created a new GitHub organisation, where the Gnome Commander code could
+be found, too.&lt;/p&gt;
+&lt;p&gt;In the past two years quite a number of bugs could have been fixed and
+here I also want to thank all the contributors, contributing with bug
+fixes and helpful discussions in the mailing list. Amongst the bugs
+which have been fixed, the most important certainly was &lt;a class="reference external" href="https://bugzilla.gnome.org/show_bug.cgi?id=653573"&gt;bgo#653573&lt;/a&gt;, resulting in
+plain-text connection passwords in the config file. There are still many
+bugs on the ToDo list, but not so critical ones…&lt;/p&gt;
+&lt;p&gt;So, how did the maintainer status of Gnome Commander changed my life? Up
+to one and a half year ago I was doing my PhD in theoretical biophysics
+and I was very disappointed about my work. I had realised that the
+scientific work and its community is not the right place for me. But
+programming and developing is something I really wanted to do. With
+Gnome Commander a much bigger world has opened to me: I started to love
+working with git, I tried much more development tools than I had known
+ever before, I appreciate to work with Gnome libraries and devhelp, I
+started using unit tests, GitHub, Travis, etc…&lt;/p&gt;
+&lt;p&gt;And finally, the very very best: All this helped me to find a job in
+which I can work as a C programmer (already more than a year ago), which
+is so awesome! That’s why I want to express my big gratitude to the
+GNOME community and all those who have made the Gnome Comamnder project
+possible.&lt;/p&gt;
+&lt;p&gt;Although I have not so much time as before this job, I still will
+contribute further to Gnome Commander.&lt;/p&gt;
+&lt;p&gt;I wish you all the best. Have a great new year 2016!&lt;/p&gt;</description><category>Hobby</category><category>Linux</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/how-i-became-the-next-maintainer-of-gnome-commander/</guid><pubDate>Tue, 19 Jan 2016 20:10:31 GMT</pubDate></item><item><title>Buntes Linux-Terminal</title><link>https://turboscholz.github.io/blog/posts/buntes-linux-terminal/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Wer schon immer mal wissen wollte, wie man ein schönes buntes Terminal
 bekommt - &lt;a class="reference external" href="http://codurance.com/2015/03/16/installing-zprezto-a-quick-guide/"&gt;hier&lt;/a&gt; gibt es eine einfache Anleitung (auf Englisch). Ganz
 besonders toll ist die Zusammenarbeit von zpresto mit Git, denn damit
 weiß man immer, in welchem Branch man sich gerade befindet.&lt;/p&gt;</description><category>Linux</category><category>Software</category><category>Terminal</category><guid>https://turboscholz.github.io/blog/posts/buntes-linux-terminal/</guid><pubDate>Sat, 17 Oct 2015 09:59:04 GMT</pubDate></item><item><title>Manjaro Linux</title><link>https://turboscholz.github.io/blog/posts/manjaro-linux/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Gestern ist es geschehen: Ich bin nach vielen Jahren von gentoo zu
 &lt;a class="reference external" href="https://manjaro.org/"&gt;manjaro&lt;/a&gt; Linux gewechselt.&lt;/p&gt;
 &lt;p&gt;Derzeit bin ich noch dabei, mich im System zurechtzufinden. Bin
 gespannt, wie ich damit zurecht komme.&lt;/p&gt;
-&lt;img alt="/images/2015-09-13-manjaro.png" src="https://turboscholz.github.io/blog/images/2015-09-13-manjaro.png"&gt;</description><category>Gentoo</category><category>Linux</category><category>Manjaro</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/manjaro-linux/</guid><pubDate>Sun, 13 Sep 2015 11:46:21 GMT</pubDate></item><item><title>rss2email</title><link>https://turboscholz.github.io/blog/posts/rss2email/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Endlich keinen Blog-Beitrag mehr übersehen: Das geht ganz einfach mit
-&lt;a class="reference external" href="http://www.allthingsrss.com/rss2email/"&gt;rss2email&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Dieses Kommandozeilentool verschickt neue Blogeinträge per e-Mail und
-somit bleibt kein Beitrag mehr ungesehen.&lt;/p&gt;</description><category>Blog</category><category>RSS</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/rss2email/</guid><pubDate>Mon, 08 Jun 2015 11:33:03 GMT</pubDate></item><item><title>Zufällige Lesezeichen</title><link>https://turboscholz.github.io/blog/posts/radom-bookmark/</link><dc:creator>Uwe Scholz</dc:creator><description>&lt;p&gt;Bei mir haben sich im Laufe der Jahre eine Menge Lesezeichen im Firefox
-angesammelt. Mittlerweile habe ich den Überblick total verloren: Was
-sind gute Links? Welche könnte ich noch benötigen? Welche nicht mehr?
-Und welche sind vielleicht gar nicht mehr erreichbar?&lt;/p&gt;
-&lt;p&gt;Aber wie oft hat man oft einfach keine Lust und Zeit, die eigenen
-Lesezeichen systematisch aufzuräumen. Statt dessen surft man bei
-Langeweile einfach so durchs Netz. Doch damit ist jetzt bei mir Schluss,
-denn seit kurzem habe ich das Addon "Random Bookmark" installiert.&lt;/p&gt;
-&lt;p&gt;Klickt man auf das kleine Sternsymbol, welches nach der Installation in
-der Browser-Leiste sichtbar wird, so öffnet sich eine zufällig aus den
-eigenen Lesezeichen herausgegriffene Internetseite. So werden nur Seiten
-angezeigt, die man selber mag oder irgendwann mal brauchte. Und wenn man
-sie nicht mehr mag/braucht, so kann man sie auch gleich aus den
-Lesezeichen entfernen... Aufräumen leicht gemacht!&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://addons.mozilla.org/de/firefox/addon/random-bookmark-addon/"&gt;https://addons.mozilla.org/de/firefox/addon/random-bookmark-addon/&lt;/a&gt;&lt;/p&gt;</description><category>Firefox</category><category>Lesezeichen</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/radom-bookmark/</guid><pubDate>Tue, 12 Nov 2013 11:00:26 GMT</pubDate></item></channel></rss>
+&lt;img alt="/images/2015-09-13-manjaro.png" src="https://turboscholz.github.io/blog/images/2015-09-13-manjaro.png"&gt;</description><category>Gentoo</category><category>Linux</category><category>Manjaro</category><category>Software</category><guid>https://turboscholz.github.io/blog/posts/manjaro-linux/</guid><pubDate>Sun, 13 Sep 2015 11:46:21 GMT</pubDate></item></channel></rss>
