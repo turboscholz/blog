@@ -16,6 +16,8 @@ verwalten lassen.
 .. image:: /images/2026-05-25-GnomeCommander.png
     :alt: Programfenster des Gnome Commander
 
+.. TEASER_END
+
 Nach den ersten erfolgreichen Jahren wurde das Projekt zunächst von
 verschiedenen Entwicklern betreut. Ein schwerer Einschnitt folgte 2012
 mit dem Tod des damaligen Hauptentwicklers Piotr Eljasiak.
@@ -60,8 +62,8 @@ wie freie Software über Jahrzehnte hinweg durch ehrenamtliches
 Engagement am Leben gehalten wird - oft ohne große Aufmerksamkeit, aber
 mit viel Ausdauer und Leidenschaft.
 
-Homepage des `Gnome Commander <https://gnome.pages.gitlab.gnome.org/gnome-commander/>_`
+Homepage des `Gnome Commander <https://gnome.pages.gitlab.gnome.org/gnome-commander/>`_
 
 .. [1] Nach einigen Jahren hatte ich 2016 schon einmal `aufgeschrieben
-<../how-i-became-the-next-maintainer-of-gnome-commander/>`_, wie ich
-zur Betreuung des Gnome Commanders kam (auf Englisch).
+       <../how-i-became-the-next-maintainer-of-gnome-commander/>`_, wie
+       ich zur Betreuung des Gnome Commanders kam (auf Englisch).
